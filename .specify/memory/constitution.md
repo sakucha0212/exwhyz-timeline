@@ -1,50 +1,153 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+Version: 0.1.0 → 1.0.0
+Rationale: Initial constitution establishment (MAJOR version for first complete governance document)
+Modified Principles: All principles newly defined
+Added Sections: 
+  - Core Principles (5 principles)
+  - 技術制約 (Technology Constraints)
+  - 開発ワークフロー (Development Workflow)
+  - Governance
+Templates Status:
+  - ✅ plan-template.md: Reviewed, aligns with Japanese documentation requirement
+  - ✅ spec-template.md: Reviewed, compatible with mobile-first and JAMstack principles
+  - ✅ tasks-template.md: Reviewed, supports step-by-step development workflow
+  - ✅ commands/*.md: Reviewed, no agent-specific references found
+Follow-up TODOs: None - all placeholders filled
+-->
 
-## Core Principles
+# ExWHYZ-Timeline プロジェクト憲法
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+## 核となる原則（Core Principles）
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### プロジェクトのビジョンとスコープ（Project Vision & Scope）
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+#### プロジェクトの目的
+本プロジェクトは、日本のダンス＆ボーカルグループ「ExWHYZ（エキスの愛称で知られる）」の解散発表に伴い、グループの輝かしい歴史（公式マスター年表）と、ファン（開発者自身を含む）が当時X（Twitter）で呟いたリアルな思い出をシンクロさせ、熱狂の軌跡をいつまでもエモく振り返ることができる「最強のアーカイブファンサイト」を構築することを目的とする。
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+#### ユーザー体験（UX）の核心
+「公式の歴史 × 自分の歴史」の融合: 単なる公式の年表スタンドではなく、タイムラインの横にファンの「あの日、あの瞬間の熱量」が並ぶことで、まるで当時にタイムスリップしたかのような体験を提供する。
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+##### ファンのモチベーションへの寄り添い:
+最初は開発者本人の個人アーカイブ（MVP）として最速で立ち上げるが、将来的には「自分が使って便利だったから、他のファンコミュニティのみんなにもお裾分けして喜んでもらいたい」というピュアな利他性・コミュニティへの還元を開発の原動力とする。
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+##### スマホファーストの徹底:
+ライブハウスの帰り道や移動中にオタクがスマホでニヤニヤしながら、ストレスなくヌルヌルとスクロールして思い出に浸れるUI/UXを至高とする。
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+#### コスト・運用・セキュリティの防衛原則
+開発者のクレカを守る:
+個人開発のファンサイトであるため、有償化されたX APIによる破産リスクやサーバーコストを徹底的に排除・コントロールする。初期フェーズで「参照専用（DBなし・JSONベタ書き）」を選択するのは、大人の事情（インフラコスト）からエンジニアとしての身を守るための戦略的撤退であり、賢いアーキテクチャ設計である。
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+#### オタクの手間（コピペ）の排除:
+URLのコピペといった「めんどくさい作業」をユーザーに強いる設計は、ファンへの熱量が高くても離脱を生むため悪とする。サイト完結型、または手間の少ないスムーズなUXを常に模索する。
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+#### セキュリティ・コンプライアンスの遵守:
+X APIのキーや外部連携情報は、絶対にGitHubなどの公開スペースに混入させず、環境変数（Environment Variables）でお作法通りに管理する。また、Xの利用規約に反するグレーなスクレイピング行為は、アカウント凍結や法的リスクを伴うため「絶対禁止」とする。
 
-## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+#### 2. 日本語ドキュメント原則
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+すべてのドキュメント、仕様書（Specs）、計画書（Plans）、タスクリスト、およびAIとの対話は**日本語**で行うこと。
+
+ただし、ソースコード（変数名、関数名、クラス名）およびコード内コメントは**英語**で記述すること。
+
+**理由**: プロジェクトの意図や要件を母国語で正確に伝達し、開発者の認知負荷を軽減するため。コードは国際的な可読性を保つため英語とする。
+
+### 3. Next.js App Router 標準構造
+
+Next.js (App Router) の標準的なディレクトリ構造を厳密に採用すること。
+
+- `app/` ディレクトリをルーティングの基盤とする
+- コンポーネントは `components/` に機能ごとに分割配置
+- 静的データは `data/` または `public/` に配置
+- クリーンで可読性の高いコード構造を維持
+
+**理由**: Next.jsのベストプラクティスに従うことで、保守性と拡張性を確保し、将来的なアップグレードを容易にする。
+
+### 4. JAMstack & 静的データ駆動（初期フェーズ）
+
+初期フェーズではデータベースを使用せず、`data/timeline.json` などの独立したJSONファイルからデータを読み込む静的設計とする。
+
+将来的にSupabase（無料枠）への移行を考慮した拡張可能な設計を保つこと。
+
+**理由**: MVP開発の迅速性を優先し、インフラコストをゼロに保ちながら、将来のスケーラビリティを損なわない。
+
+### 5. モバイルファースト & 目視テスト
+
+スマホでの閲覧（縦長画面）を最優先とし、レスポンシブデザインを徹底すること。
+
+自動テストフレームワーク（Jest、Cypress等）は現時点で不要。代わりに以下を実施：
+- `npm run dev` でのローカル動作確認
+- スマホ表示での目視確認（レイアウト崩れ、スクロール動作）
+- ブラウザコンソールでのエラー確認
+
+**理由**: 個人開発MVPフェーズでは、テスト自動化よりも迅速な実装とユーザー体験の確認を優先する。
+
+### 6. ステップバイステップ開発
+
+一度にすべてを実装せず、段階的に機能を追加すること。
+
+各ステップの前に、実装する構造や変更内容の提案を提示し、承認を得てから実装に進むこと。
+
+**理由**: 開発の透明性を保ち、方向性の誤りを早期に修正し、学習と改善のサイクルを確立する。
+
+## 技術制約（Technology Constraints）
+
+### 必須技術スタック
+- **フレームワーク**: Next.js (App Router)
+- **言語**: JavaScript（TypeScriptは任意）
+- **スタイリング**: Tailwind CSS
+- **埋め込みライブラリ**: react-twitter-embed（X/Twitterポスト表示用）
+
+### 外部サービス制約
+- **X (Twitter) API**: ポストデータの取得。従量課金なので利用は最小限にする
+- **ホスティング**: Vercel（無料枠）を前提
+- **将来のDB**: Supabase（無料枠）への移行を考慮した設計
+
+### UI/UXガイドライン
+- **デザインテーマ**: ダークモード（黒/グレー基調）
+- **アクセントカラー**: ピンク系（#ff007f）
+- **レスポンシブ**: モバイル優先、スクロールの滑らかさを重視
+- **Tailwind CSS**: ユーティリティファーストで洗練されたデザイン
+
+## 開発ワークフロー（Development Workflow）
+
+### 実装前の提案フェーズ
+ファイルを作成・修正する前に、以下を含む提案を提示すること：
+- 実装する機能の概要
+- 影響を受けるファイルとディレクトリ構造
+- 主要なコンポーネントやデータフローの説明
+
+### 段階的実装
+1. **フェーズ1**: JSONデータ読み込み + スマホ対応タイムライン表示
+2. **フェーズ2**: X埋め込み機能の統合
+3. **フェーズ3**: インタラクション機能（フィルタ、検索等）
+4. **フェーズ4**: Supabase統合（将来）
+
+### 品質確認
+- ローカル環境での動作確認を必須とする
+- スマホ表示での目視確認を実施
+- コンソールエラーがないことを確認
+- Vercelへのデプロイ前にプレビュー確認
+
+## ガバナンス（Governance）
+
+この憲法は、ExWHYZ-Timelineプロジェクトのすべての開発活動に優先して適用される。
+
+### 憲法の改定
+- 憲法の改定には、変更内容の文書化と承認が必要
+- バージョン番号は以下のルールで更新：
+  - **MAJOR**: 原則の削除または根本的な再定義
+  - **MINOR**: 新しい原則やセクションの追加
+  - **PATCH**: 文言の明確化、誤字修正、非本質的な改善
+
+### コンプライアンス
+- すべての仕様書、計画書、タスクはこの憲法に準拠すること
+- 憲法に反する実装は正当な理由と承認が必要
+- 複雑性の導入は明確な理由と利益の説明が必要
+
+### 開発ガイダンス
+- 日常的な開発判断はこの憲法を参照すること
+- 不明点や矛盾がある場合は、憲法の改定を検討すること
+
+**Version**: 1.0.0 | **Ratified**: 2026-06-25 | **Last Amended**: 2026-06-25

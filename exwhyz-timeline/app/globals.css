@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ededed;
+  --exwhyz-pink: #ff007f;
+  --exwhyz-pink-light: #ff4da6;
+  --exwhyz-pink-lighter: #ff80bf;
+  --exwhyz-pink-lightest: #ffb3d9;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  
+  /* ExWHYZ Pink Colors */
+  --color-exwhyz-pink: var(--exwhyz-pink);
+  --color-exwhyz-pink-light: var(--exwhyz-pink-light);
+  --color-exwhyz-pink-lighter: var(--exwhyz-pink-lighter);
+  --color-exwhyz-pink-lightest: var(--exwhyz-pink-lightest);
+  
+  /* Dark Theme Colors */
+  --color-dark: #000000;
+  --color-dark-800: #1a1a1a;
+  --color-dark-700: #2a2a2a;
+  --color-dark-600: #3a3a3a;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

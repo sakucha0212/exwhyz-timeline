@@ -1,0 +1,2489 @@
+{
+  "version": "2.1.0",
+  "lastUpdated": "2026-06-27T18:39:00+09:00",
+  "timeline": [
+    {
+      "date": "2026-08-31",
+      "events": [
+        {
+          "id": "evt_181",
+          "title": "ExWHYZ LAST LIVE '光'",
+          "category": "live",
+          "description": "東京・Zepp Hanedaにてラストライブを開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ", "解散"]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "events": [
+        {
+          "id": "evt_180",
+          "title": "ExWHYZ presents 'CLUB Ex FINAL'",
+          "category": "live",
+          "description": "東京・Spotify O-EASTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "events": [
+        {
+          "id": "evt_179",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 東京公演",
+          "category": "live",
+          "description": "東京・Zepp DiverCityにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "events": [
+        {
+          "id": "evt_178",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 北海道公演",
+          "category": "live",
+          "description": "北海道・札幌cube gardenにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "events": [
+        {
+          "id": "evt_177",
+          "title": "ラストアルバム「zION」発売記念リリースイベント",
+          "category": "live",
+          "description": "リリースイベントを開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "events": [
+        {
+          "id": "evt_176",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 宮城公演",
+          "category": "live",
+          "description": "宮城・仙台darwinにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "events": [
+        {
+          "id": "evt_175",
+          "title": "Photo＆Essay「ぶらみきな」発売記念トークイベント",
+          "category": "live",
+          "description": "トークイベントを開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "events": [
+        {
+          "id": "evt_174",
+          "title": "イベント「\"yu-ki to KP Night\"」",
+          "category": "live",
+          "description": "イベントを開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "events": [
+        {
+          "id": "evt_173",
+          "title": "YATSUI FESTIVAL! 2026",
+          "category": "live",
+          "description": "フェスに出演。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["フェス"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "events": [
+        {
+          "id": "evt_172",
+          "title": "MAMExWHYZで乾杯",
+          "category": "live",
+          "description": "ライブに出演。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "events": [
+        {
+          "id": "evt_171",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 香川公演",
+          "category": "live",
+          "description": "香川・高松MONSTERにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "events": [
+        {
+          "id": "evt_170",
+          "title": "ExWHYZと芋煮ば食う会 in 山形",
+          "category": "live",
+          "description": "イベントを開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "events": [
+        {
+          "id": "evt_169",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 山形公演",
+          "category": "live",
+          "description": "山形・ミュージック昭和SESSIONにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "events": [
+        {
+          "id": "evt_168",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM Be-1にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "events": [
+        {
+          "id": "evt_167",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 愛知公演",
+          "category": "live",
+          "description": "愛知・名古屋Electric Lady Landにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "events": [
+        {
+          "id": "evt_166",
+          "title": "「NOT ENOUGH」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "events": [
+        {
+          "id": "evt_165",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 新潟公演",
+          "category": "live",
+          "description": "新潟・LOTSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "events": [
+        {
+          "id": "evt_164",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 広島公演",
+          "category": "live",
+          "description": "広島・LIVE VANQUISHにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "events": [
+        {
+          "id": "evt_163",
+          "title": "LAST TOUR 'DANCE YOUR DANCE' 大阪公演",
+          "category": "live",
+          "description": "大阪・大阪城音楽堂にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        },
+        {
+          "id": "evt_162",
+          "title": "「TONIGHT TONIGHT」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        },
+        {
+          "id": "evt_161",
+          "title": "解散発表",
+          "category": "announcement",
+          "description": "8月31日のラストライブをもって解散することを発表。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["発表"]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "events": [
+        {
+          "id": "evt_160",
+          "title": "「#Ex_LIVEヒストリー」スタート",
+          "category": "media",
+          "description": "フル尺ライブ映像公開企画がスタート。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["YouTube"]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "events": [
+        {
+          "id": "evt_159",
+          "title": "3rdシングル「GIVE YOU MY WORD」リリース",
+          "category": "release",
+          "description": "3rdシングルをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["シングル"]
+        },
+        {
+          "id": "evt_158",
+          "title": "ExWHYZ LIVE 'GIVE YOU MY WORD'",
+          "category": "live",
+          "description": "東京・LIQUIDROOMにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        },
+        {
+          "id": "evt_157",
+          "title": "ラジオ番組「FREE ALL ExWHYZ」復活発表",
+          "category": "announcement",
+          "description": "ラジオレギュラー番組の復活が発表される。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["発表", "ラジオ"]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "events": [
+        {
+          "id": "evt_156",
+          "title": "REVENGE TOUR 'Wide Open Again' 神奈川公演",
+          "category": "live",
+          "description": "神奈川・金沢RED SUNにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "events": [
+        {
+          "id": "evt_155",
+          "title": "「GIVE YOU MY WORD」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=TYo84fK_gJk"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "events": [
+        {
+          "id": "evt_154",
+          "title": "REVENGE TOUR 'Wide Open Again' 長野公演",
+          "category": "live",
+          "description": "長野・CLUB JUNK BOXにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-01",
+      "events": [
+        {
+          "id": "evt_153",
+          "title": "REVENGE TOUR 'Wide Open Again' 埼玉公演",
+          "category": "live",
+          "description": "埼玉・HEAVEN'S ROCK さいたま新都心VJ-3にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-22",
+      "events": [
+        {
+          "id": "evt_152",
+          "title": "Where the End Begins by WACK 神奈川公演",
+          "category": "live",
+          "description": "神奈川・CLUB CITTA'にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "events": [
+        {
+          "id": "evt_151",
+          "title": "Where the End Begins by WACK 愛知公演",
+          "category": "live",
+          "description": "愛知・THE BOTTOM LINEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-07",
+      "events": [
+        {
+          "id": "evt_150",
+          "title": "Where the End Begins by WACK 大阪公演",
+          "category": "live",
+          "description": "大阪・STUDIO PARTITAにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "events": [
+        {
+          "id": "evt_149",
+          "title": "in the UK Tour ロンドン公演",
+          "category": "live",
+          "description": "ロンドン・The Underworldにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "海外"]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-31",
+      "events": [
+        {
+          "id": "evt_148",
+          "title": "ロンドン ランダムチェキイベント",
+          "category": "live",
+          "description": "ロンドンにてランダムチェキイベント開催、mikinaがDJ出演。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "events": [
+        {
+          "id": "evt_147",
+          "title": "in the UK Tour マンチェスター公演",
+          "category": "live",
+          "description": "マンチェスター・The Kings Armsにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "海外"]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "events": [
+        {
+          "id": "evt_146",
+          "title": "in the UK Tour ブリストル公演",
+          "category": "live",
+          "description": "ブリストル・The Fleeceにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "海外"]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-11",
+      "events": [
+        {
+          "id": "evt_145",
+          "title": "Where the End Begins by WACK 東京公演",
+          "category": "live",
+          "description": "東京・Spotify O-WESTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-10",
+      "events": [
+        {
+          "id": "evt_144",
+          "title": "Where the End Begins by WACK 東京公演",
+          "category": "live",
+          "description": "東京・Spotify O-WESTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2025-12-27",
+      "events": [
+        {
+          "id": "evt_143",
+          "title": "Special Live 'Ⅰ' -3rd Anniversary Final & Year End Party-",
+          "category": "live",
+          "description": "東京・Kanadevia Hallにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2025-12-20",
+      "events": [
+        {
+          "id": "evt_142",
+          "title": "TOUR 2025 'Wide Open' 大阪公演 / 解散正式発表",
+          "category": "live",
+          "description": "大阪・GORILLA HALL OSAKAにて開催。アンコールで2026年の解散を正式発表。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "発表"]
+        }
+      ]
+    },
+    {
+      "date": "2025-12-10",
+      "events": [
+        {
+          "id": "evt_141",
+          "title": "2ndシングル「DON'T CRY / リグレット」リリース",
+          "category": "release",
+          "description": "2ndシングルをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["シングル"]
+        }
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "events": [
+        {
+          "id": "evt_140",
+          "title": "「リグレット」MV公開",
+          "category": "release",
+          "description": "伊澤彩織主演のMVを公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=xVhgfNXymaM"},
+          "tags": ["MV"]
+        }
+      ]
+    },
+    {
+      "date": "2025-12-01",
+      "events": [
+        {
+          "id": "evt_139",
+          "title": "WACK所属グループ解散発表",
+          "category": "announcement",
+          "description": "ExWHYZを含むWACK所属グループの解散が発表される。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["発表"]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-30",
+      "events": [
+        {
+          "id": "evt_138",
+          "title": "TOUR 2025 'Wide Open' 石川公演",
+          "category": "live",
+          "description": "石川・金沢REDSUNにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "events": [
+        {
+          "id": "evt_137",
+          "title": "TOUR 2025 'Wide Open' 長野公演",
+          "category": "live",
+          "description": "長野・CLUB JUNK BOXにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "events": [
+        {
+          "id": "evt_136",
+          "title": "TOUR 2025 'Wide Open' 埼玉公演",
+          "category": "live",
+          "description": "埼玉・HEAVEN'S ROCKさいたま新都心 VJ-3にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-23",
+      "events": [
+        {
+          "id": "evt_135",
+          "title": "TOUR 2025 'Wide Open' 栃木公演",
+          "category": "live",
+          "description": "栃木・HEAVEN'S ROCK宇都宮 VJ-2にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "events": [
+        {
+          "id": "evt_134",
+          "title": "TOUR 2025 'Wide Open' 北海道公演",
+          "category": "live",
+          "description": "北海道・札幌PANNY LANE24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "events": [
+        {
+          "id": "evt_133",
+          "title": "TOUR 2025 'Wide Open' 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM Be-1にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "events": [
+        {
+          "id": "evt_132",
+          "title": "TOUR 2025 'Wide Open' 宮城公演",
+          "category": "live",
+          "description": "宮城・仙台Rensaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "events": [
+        {
+          "id": "evt_131",
+          "title": "TOUR 2025 'Wide Open' 香川公演",
+          "category": "live",
+          "description": "香川・高松MONSTERにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "events": [
+        {
+          "id": "evt_130",
+          "title": "TOUR 2025 'Wide Open' 静岡公演",
+          "category": "live",
+          "description": "静岡・LiveHouse浜松窓枠にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "events": [
+        {
+          "id": "evt_129",
+          "title": "TOUR 2025 'Wide Open' 愛知公演",
+          "category": "live",
+          "description": "愛知・名古屋CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "events": [
+        {
+          "id": "evt_128",
+          "title": "TOUR 2025 'Wide Open' 岡山公演",
+          "category": "live",
+          "description": "岡山・YEBIS YA PROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-04",
+      "events": [
+        {
+          "id": "evt_127",
+          "title": "TOUR 2025 'Wide Open' 兵庫公演",
+          "category": "live",
+          "description": "兵庫・神戸Harbor Studioにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "events": [
+        {
+          "id": "evt_126",
+          "title": "「DON'T CRY」先行配信・MV公開",
+          "category": "release",
+          "description": "先行配信開始、MV公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=jt_J14P5D-o"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2025-09-27",
+      "events": [
+        {
+          "id": "evt_125",
+          "title": "TOUR 2025 'Wide Open' 神奈川公演",
+          "category": "live",
+          "description": "神奈川・横浜BAY HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-09-21",
+      "events": [
+        {
+          "id": "evt_124",
+          "title": "TOUR 2025 'Wide Open' 沖縄公演",
+          "category": "live",
+          "description": "沖縄・桜坂セントラルにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-09-20",
+      "events": [
+        {
+          "id": "evt_123",
+          "title": "TOUR 2025 'Wide Open' 沖縄公演 (FC限定)",
+          "category": "live",
+          "description": "沖縄・桜坂セントラルにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "events": [
+        {
+          "id": "evt_122",
+          "title": "ライブナタリー “ExWHYZ × I Don't Like Mondays.”",
+          "category": "live",
+          "description": "東京・渋谷duo MUSIC EXCHANGEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "events": [
+        {
+          "id": "evt_121",
+          "title": "3rd Anniversary Special Live 'Our Step→Future'",
+          "category": "live",
+          "description": "東京・LINE CUBE SHIBUYAにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "events": [
+        {
+          "id": "evt_120",
+          "title": "1stシングル「iD」リリース",
+          "category": "release",
+          "description": "1stシングルをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["シングル"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "events": [
+        {
+          "id": "evt_119",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 新潟公演",
+          "category": "live",
+          "description": "新潟・NEXSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "events": [
+        {
+          "id": "evt_118",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 宮城公演",
+          "category": "live",
+          "description": "宮城・darwinにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "events": [
+        {
+          "id": "evt_117",
+          "title": "「イマジン」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=RDIkkYYcr08"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "events": [
+        {
+          "id": "evt_116",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 北海道公演",
+          "category": "live",
+          "description": "北海道・小樽GOLDSTONEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "events": [
+        {
+          "id": "evt_115",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 北海道公演",
+          "category": "live",
+          "description": "北海道・SPiCEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "events": [
+        {
+          "id": "evt_114",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 東京公演",
+          "category": "live",
+          "description": "東京・新代田FEVERにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "events": [
+        {
+          "id": "evt_113",
+          "title": "「iD」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=a4UsteXHLno"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-15",
+      "events": [
+        {
+          "id": "evt_112",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 兵庫公演",
+          "category": "live",
+          "description": "兵庫・神戸Harbor Studioにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "events": [
+        {
+          "id": "evt_111",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 千葉公演",
+          "category": "live",
+          "description": "千葉・柏PALOOZAにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-05-18",
+      "events": [
+        {
+          "id": "evt_110",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 愛知公演",
+          "category": "live",
+          "description": "愛知・Electric Lady Landにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-05-17",
+      "events": [
+        {
+          "id": "evt_109",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 広島公演",
+          "category": "live",
+          "description": "広島・LIVE VANQUISHにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-05-05",
+      "events": [
+        {
+          "id": "evt_108",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM Be-1にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-05-03",
+      "events": [
+        {
+          "id": "evt_107",
+          "title": "TOUR 2025 '(unfinished) odds and ends' 香川公演",
+          "category": "live",
+          "description": "香川・DIMEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "events": [
+        {
+          "id": "evt_106",
+          "title": "「SHOWTIME」サプライズ配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2025-04-05",
+      "events": [
+        {
+          "id": "evt_105",
+          "title": "ExWHYZ presents 'CLUB Ex Vol.1'",
+          "category": "live",
+          "description": "東京・Spotify O-EASTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2025-03-12",
+      "events": [
+        {
+          "id": "evt_104",
+          "title": "GAZE a part of WACK TOUR 東京公演",
+          "category": "live",
+          "description": "東京・Zepp DiverCityにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2025-02-23",
+      "events": [
+        {
+          "id": "evt_103",
+          "title": "SHINJUKU LOFT PRESENTS「SHINJUKU LOFT 2MAN SHOW」",
+          "category": "live",
+          "description": "東京・新宿LOFTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2025-02-02",
+      "events": [
+        {
+          "id": "evt_102",
+          "title": "GAZE a part of WACK TOUR 広島公演",
+          "category": "live",
+          "description": "広島・LIVE VANQUISHにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2025-01-26",
+      "events": [
+        {
+          "id": "evt_101",
+          "title": "GAZE a part of WACK TOUR 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM LOGOSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-27",
+      "events": [
+        {
+          "id": "evt_100",
+          "title": "TOUR 2024 'HOPE' 東京公演",
+          "category": "live",
+          "description": "東京・Zepp DiverCityにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-25",
+      "events": [
+        {
+          "id": "evt_099",
+          "title": "TOUR 2024 'HOPE' 愛知公演",
+          "category": "live",
+          "description": "愛知・DIAMOND HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-22",
+      "events": [
+        {
+          "id": "evt_098",
+          "title": "TOUR 2024 'HOPE' 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM LOGOSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-15",
+      "events": [
+        {
+          "id": "evt_097",
+          "title": "TOUR 2024 'HOPE' 北海道公演",
+          "category": "live",
+          "description": "北海道・札幌PENNY LANE24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-14",
+      "events": [
+        {
+          "id": "evt_096",
+          "title": "TOUR 2024 'HOPE' 北海道公演 (FC限定)",
+          "category": "live",
+          "description": "北海道・札幌PENNY LANE24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-12-08",
+      "events": [
+        {
+          "id": "evt_095",
+          "title": "TOUR 2024 'HOPE' 大阪公演",
+          "category": "live",
+          "description": "大阪・GORILLA HALL OSAKAにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-11-19",
+      "events": [
+        {
+          "id": "evt_094",
+          "title": "mayu復帰発表",
+          "category": "announcement",
+          "description": "mayuの復帰を発表。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["復帰"]
+        }
+      ]
+    },
+    {
+      "date": "2024-10-31",
+      "events": [
+        {
+          "id": "evt_093",
+          "title": "now脱退",
+          "category": "announcement",
+          "description": "nowが脱退。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["脱退"]
+        }
+      ]
+    },
+    {
+      "date": "2024-09-28",
+      "events": [
+        {
+          "id": "evt_092",
+          "title": "Futura Free++ 'Summer Memories in OKINAWA'",
+          "category": "live",
+          "description": "沖縄・桜坂セントラルにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-09-08",
+      "events": [
+        {
+          "id": "evt_091",
+          "title": "Futura Free+ 'Reinforce' 東京公演",
+          "category": "live",
+          "description": "東京・Zepp Shinjukuにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-08-07",
+      "events": [
+        {
+          "id": "evt_090",
+          "title": "midoriko脱退",
+          "category": "announcement",
+          "description": "midorikoが脱退、WACKを退所。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["脱退"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-31",
+      "events": [
+        {
+          "id": "evt_089",
+          "title": "EP「Sweet & Sour」リリース / TOUR 'Futura Free' 東京",
+          "category": "release",
+          "description": "EPリリース。同日、東京・Zepp Shinjukuにてツアー公演開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["EP", "ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-28",
+      "events": [
+        {
+          "id": "evt_088",
+          "title": "TOUR 2024 'Futura Free' 茨城公演",
+          "category": "live",
+          "description": "茨城・mito LIGHT HOUSEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-24",
+      "events": [
+        {
+          "id": "evt_087",
+          "title": "「ドラマ」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-15",
+      "events": [
+        {
+          "id": "evt_086",
+          "title": "TOUR 2024 'Futura Free' 宮城公演",
+          "category": "live",
+          "description": "宮城・Rensaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "events": [
+        {
+          "id": "evt_085",
+          "title": "TOUR 2024 'Futura Free' 山形公演",
+          "category": "live",
+          "description": "山形・Music Showa SESSIONにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-13",
+      "events": [
+        {
+          "id": "evt_084",
+          "title": "TOUR 2024 'Futura Free' 岩手公演",
+          "category": "live",
+          "description": "岩手・Morioka CLUB CHANGE WAVEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-07-06",
+      "events": [
+        {
+          "id": "evt_083",
+          "title": "TOUR 2024 'Futura Free' 石川公演",
+          "category": "live",
+          "description": "石川・EIGHT HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "events": [
+        {
+          "id": "evt_082",
+          "title": "TOUR 2024 'Futura Free' 岡山公演",
+          "category": "live",
+          "description": "岡山・CRAZYMAMA KINGDOMにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-29",
+      "events": [
+        {
+          "id": "evt_081",
+          "title": "TOUR 2024 'Futura Free' 大阪公演",
+          "category": "live",
+          "description": "大阪・club jouleにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-27",
+      "events": [
+        {
+          "id": "evt_080",
+          "title": "TOUR 2024 'Futura Free' 愛知公演",
+          "category": "live",
+          "description": "愛知・DIAMOND HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-26",
+      "events": [
+        {
+          "id": "evt_079",
+          "title": "mayu活動休止",
+          "category": "announcement",
+          "description": "体調不良のため活動休止。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["休止"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-16",
+      "events": [
+        {
+          "id": "evt_078",
+          "title": "TOUR 2024 'Futura Free' 静岡公演",
+          "category": "live",
+          "description": "静岡・LiveHouse Hamamatsu Madowakuにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "events": [
+        {
+          "id": "evt_077",
+          "title": "TOUR 2024 'Futura Free' 京都公演",
+          "category": "live",
+          "description": "京都・KYOTO MUSEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-08",
+      "events": [
+        {
+          "id": "evt_076",
+          "title": "TOUR 2024 'Futura Free' 神奈川公演",
+          "category": "live",
+          "description": "神奈川・1000 CLUBにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "events": [
+        {
+          "id": "evt_075",
+          "title": "「Sweet & Sour」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=vjgUugDP3Fw"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2024-06-02",
+      "events": [
+        {
+          "id": "evt_074",
+          "title": "TOUR 2024 'Futura Free' 北海道公演",
+          "category": "live",
+          "description": "北海道・PENNY LANE 24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-31",
+      "events": [
+        {
+          "id": "evt_073",
+          "title": "TOUR 2024 'Futura Free' 埼玉公演",
+          "category": "live",
+          "description": "埼玉・HEAVEN'S ROCK SAITAMA SHINTOSHIN VJ-3にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-26",
+      "events": [
+        {
+          "id": "evt_072",
+          "title": "TOUR 2024 'Futura Free' 栃木公演",
+          "category": "live",
+          "description": "栃木・HEAVEN'S ROCK UTSUNOMIYA VJ-2にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-19",
+      "events": [
+        {
+          "id": "evt_071",
+          "title": "TOUR 2024 'Futura Free' 鹿児島公演",
+          "category": "live",
+          "description": "鹿児島・CAPARVO HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-18",
+      "events": [
+        {
+          "id": "evt_070",
+          "title": "TOUR 2024 'Futura Free' 福岡公演",
+          "category": "live",
+          "description": "福岡・LIVEHOUSE evoLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-11",
+      "events": [
+        {
+          "id": "evt_069",
+          "title": "TOUR 2024 'Futura Free' 新潟公演",
+          "category": "live",
+          "description": "新潟・NIIGATA LOTSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-05",
+      "events": [
+        {
+          "id": "evt_068",
+          "title": "TOUR 2024 'Futura Free' 香川公演",
+          "category": "live",
+          "description": "香川・Takamatsu festhalleにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "events": [
+        {
+          "id": "evt_067",
+          "title": "TOUR 2024 'Futura Free' 大阪公演",
+          "category": "live",
+          "description": "大阪・UMEDA CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "events": [
+        {
+          "id": "evt_066",
+          "title": "「Fleeting」リリックビデオ公開",
+          "category": "release",
+          "description": "リリックビデオを公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=GJ1QW02Ye80"},
+          "tags": ["MV"]
+        }
+      ]
+    },
+    {
+      "date": "2024-03-23",
+      "events": [
+        {
+          "id": "evt_065",
+          "title": "ExWHYZ presents 'SeihoWHYZ' 大阪公演",
+          "category": "live",
+          "description": "大阪・味園ユニバースにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "events": [
+        {
+          "id": "evt_064",
+          "title": "アルバム「Dress to Kill」リリース",
+          "category": "release",
+          "description": "アルバムをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["アルバム"]
+        }
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "events": [
+        {
+          "id": "evt_063",
+          "title": "ExWHYZ presents 'SeihoWHYZ' 東京公演",
+          "category": "live",
+          "description": "東京・Spotify O-EASTにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-03-12",
+      "events": [
+        {
+          "id": "evt_062",
+          "title": "ExWHYZ presents 'SeihoWHYZ' 愛知公演",
+          "category": "live",
+          "description": "愛知・クラブクワトロにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "events": [
+        {
+          "id": "evt_061",
+          "title": "「Unknown Sense」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2024-01-12",
+      "events": [
+        {
+          "id": "evt_060",
+          "title": "「Our Song」配信・MV公開",
+          "category": "release",
+          "description": "カバー曲を配信・MV公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=WVe5bypSPEI"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-12-13",
+      "events": [
+        {
+          "id": "evt_059",
+          "title": "TOUR 2023 'eLATION' part.3 東京公演",
+          "category": "live",
+          "description": "東京・Shibuya WOMB LIVEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-12-09",
+      "events": [
+        {
+          "id": "evt_058",
+          "title": "TOUR 2023 'eLATION' part.3 大阪公演",
+          "category": "live",
+          "description": "大阪・CLUB PICCADILLY UMEDA OSAKAにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-25",
+      "events": [
+        {
+          "id": "evt_057",
+          "title": "TOUR 2023 'eLATION' part.3 福岡公演",
+          "category": "live",
+          "description": "福岡・LIVEHOUSE evoLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-24",
+      "events": [
+        {
+          "id": "evt_056",
+          "title": "「6WHYZ」MV公開",
+          "category": "release",
+          "description": "MVを公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=XI--G64AknA"},
+          "tags": ["MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-19",
+      "events": [
+        {
+          "id": "evt_055",
+          "title": "TOUR 2023 'eLATION' part.2 東京公演 / 「As you wish」配信",
+          "category": "live",
+          "description": "東京・Zepp Hanedaにて開催。同日新曲配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "配信"]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-18",
+      "events": [
+        {
+          "id": "evt_054",
+          "title": "1st EP「HOW HIGH?」リリース",
+          "category": "release",
+          "description": "EPをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["EP"]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-15",
+      "events": [
+        {
+          "id": "evt_053",
+          "title": "TOUR 2023 'eLATION' part.2 大阪公演",
+          "category": "live",
+          "description": "大阪・Zepp Osaka Baysideにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-14",
+      "events": [
+        {
+          "id": "evt_052",
+          "title": "TOUR 2023 'eLATION' part.2 愛知公演",
+          "category": "live",
+          "description": "愛知・Zepp Nagoyaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-07",
+      "events": [
+        {
+          "id": "evt_051",
+          "title": "ExWHYZ presents HOW HIGH? RELEASE PARTY!!!!!",
+          "category": "live",
+          "description": "東京・ATOM TOKYOにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-24",
+      "events": [
+        {
+          "id": "evt_050",
+          "title": "TOUR 2023 'eLATION' part.1 沖縄公演 (FC限定)",
+          "category": "live",
+          "description": "沖縄・沖縄Outputにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-23",
+      "events": [
+        {
+          "id": "evt_049",
+          "title": "TOUR 2023 'eLATION' part.1 沖縄公演",
+          "category": "live",
+          "description": "沖縄・沖縄Outputにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-17",
+      "events": [
+        {
+          "id": "evt_048",
+          "title": "TOUR 2023 'eLATION' part.1 札幌公演",
+          "category": "live",
+          "description": "北海道・ペニーレーン24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-09",
+      "events": [
+        {
+          "id": "evt_047",
+          "title": "TOUR 2023 'eLATION' part.1 横浜公演",
+          "category": "live",
+          "description": "神奈川・BAY HALLにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-08",
+      "events": [
+        {
+          "id": "evt_046",
+          "title": "「NOT SORRY」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=AamSXTR61-s"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-03",
+      "events": [
+        {
+          "id": "evt_045",
+          "title": "TOUR 2023 'eLATION' part.1 広島公演",
+          "category": "live",
+          "description": "広島・CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-02",
+      "events": [
+        {
+          "id": "evt_044",
+          "title": "TOUR 2023 'eLATION' part.1 岡山公演",
+          "category": "live",
+          "description": "岡山・エビスヤプロにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-27",
+      "events": [
+        {
+          "id": "evt_043",
+          "title": "TOUR 2023 'eLATION' part.1 松山公演",
+          "category": "live",
+          "description": "愛媛・WStudioREDにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-26",
+      "events": [
+        {
+          "id": "evt_042",
+          "title": "TOUR 2023 'eLATION' part.1 香川公演",
+          "category": "live",
+          "description": "香川・高松festhalleにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "events": [
+        {
+          "id": "evt_041",
+          "title": "「Moonlight, Sunlight」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=mjqKndasQto"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-20",
+      "events": [
+        {
+          "id": "evt_040",
+          "title": "TOUR 2023 'eLATION' part.1 福岡公演",
+          "category": "live",
+          "description": "福岡・DRUM LOGOSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-19",
+      "events": [
+        {
+          "id": "evt_039",
+          "title": "TOUR 2023 'eLATION' part.1 熊本公演",
+          "category": "live",
+          "description": "熊本・B.9 V1にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-12",
+      "events": [
+        {
+          "id": "evt_038",
+          "title": "TOUR 2023 'eLATION' part.1 長野公演",
+          "category": "live",
+          "description": "長野・CLUB JUNK BOXにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-11",
+      "events": [
+        {
+          "id": "evt_037",
+          "title": "TOUR 2023 'eLATION' part.1 金沢公演",
+          "category": "live",
+          "description": "石川・Eight Hallにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-06",
+      "events": [
+        {
+          "id": "evt_036",
+          "title": "TOUR 2023 'eLATION' part.1 郡山公演",
+          "category": "live",
+          "description": "福島・Hip Shot Japanにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-08-05",
+      "events": [
+        {
+          "id": "evt_035",
+          "title": "TOUR 2023 'eLATION' part.1 仙台公演",
+          "category": "live",
+          "description": "宮城・Rensaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-30",
+      "events": [
+        {
+          "id": "evt_034",
+          "title": "TOUR 2023 'eLATION' part.1 新潟公演",
+          "category": "live",
+          "description": "新潟・LOTSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-28",
+      "events": [
+        {
+          "id": "evt_033",
+          "title": "TOUR 2023 'eLATION' part.1 渋谷公演",
+          "category": "live",
+          "description": "東京・WWW Xにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-27",
+      "events": [
+        {
+          "id": "evt_032",
+          "title": "midoriko再度活動休止",
+          "category": "announcement",
+          "description": "体調不良のため活動休止。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["休止"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-17",
+      "events": [
+        {
+          "id": "evt_031",
+          "title": "TOUR 2023 'eLATION' part.1 浜松公演",
+          "category": "live",
+          "description": "静岡・LiveHouse浜松窓枠にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-16",
+      "events": [
+        {
+          "id": "evt_030",
+          "title": "TOUR 2023 'eLATION' part.1 京都公演",
+          "category": "live",
+          "description": "京都・MUSEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-15",
+      "events": [
+        {
+          "id": "evt_029",
+          "title": "TOUR 2023 'eLATION' part.1 神戸公演",
+          "category": "live",
+          "description": "兵庫・VARITにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-09",
+      "events": [
+        {
+          "id": "evt_028",
+          "title": "TOUR 2023 'eLATION' part.1 水戸公演",
+          "category": "live",
+          "description": "茨城・LIGHT HOUSEにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-07-05",
+      "events": [
+        {
+          "id": "evt_027",
+          "title": "「フラチナサマー」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=93qhs8aOZXM"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-05-13",
+      "events": [
+        {
+          "id": "evt_026",
+          "title": "LIVE at BUDOKAN the FIRST STEP",
+          "category": "live",
+          "description": "東京・日本武道館にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2023-04-25",
+      "events": [
+        {
+          "id": "evt_025",
+          "title": "TOUR 2023 xANADU 愛知公演",
+          "category": "live",
+          "description": "愛知・NAGOYA CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-04-24",
+      "events": [
+        {
+          "id": "evt_024",
+          "title": "TOUR 2023 xANADU 大阪公演",
+          "category": "live",
+          "description": "大阪・UMEDA CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-04-19",
+      "events": [
+        {
+          "id": "evt_023",
+          "title": "2ndアルバム「xANADU」リリース / ExWHYZ presents BiSHWHYZ",
+          "category": "live",
+          "description": "アルバムリリース。同日、東京・Zepp HanedaにてBiSHとのツーマン開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["アルバム", "対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-04-16",
+      "events": [
+        {
+          "id": "evt_022",
+          "title": "TOUR 2023 xANADU 広島公演",
+          "category": "live",
+          "description": "広島・HIROSHIMA CLUB QUATTROにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-04-01",
+      "events": [
+        {
+          "id": "evt_021",
+          "title": "TOUR 2023 xANADU 東京公演 / ayuni加入",
+          "category": "live",
+          "description": "東京・Zepp Hanedaにて開催。アユニ・Dが1日限定加入。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー", "配信"]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-25",
+      "events": [
+        {
+          "id": "evt_020",
+          "title": "「Des Speeching」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-18",
+      "events": [
+        {
+          "id": "evt_019",
+          "title": "「ANSWER」配信開始",
+          "category": "release",
+          "description": "新曲を配信。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=je6SQ70n9ps"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-04",
+      "events": [
+        {
+          "id": "evt_018",
+          "title": "リリースパーティ",
+          "category": "live",
+          "description": "東京・WOMBにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["イベント"]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-01",
+      "events": [
+        {
+          "id": "evt_017",
+          "title": "アルバム「xYZ［hYPER EDITION］」リリース",
+          "category": "release",
+          "description": "アルバムをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["アルバム"]
+        }
+      ]
+    },
+    {
+      "date": "2023-02-26",
+      "events": [
+        {
+          "id": "evt_016",
+          "title": "We will WACK you!! TOUR FiNAL",
+          "category": "live",
+          "description": "東京・日比谷野外大音楽堂にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-02-09",
+      "events": [
+        {
+          "id": "evt_015",
+          "title": "We will WACK you!! TOUR 東京公演",
+          "category": "live",
+          "description": "東京・Zepp Hanedaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-02-05",
+      "events": [
+        {
+          "id": "evt_014",
+          "title": "FUCK WATANABE TOUR 宮城公演",
+          "category": "live",
+          "description": "宮城・Rensaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-01-21",
+      "events": [
+        {
+          "id": "evt_013",
+          "title": "FUCK WATANABE TOUR 北海道公演",
+          "category": "live",
+          "description": "北海道・PENNY LANE24にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-01-14",
+      "events": [
+        {
+          "id": "evt_012",
+          "title": "We will WACK you!! TOUR 愛知公演",
+          "category": "live",
+          "description": "愛知・Zepp Nagoyaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2023-01-12",
+      "events": [
+        {
+          "id": "evt_011",
+          "title": "First Tour xYZ 東京公演",
+          "category": "live",
+          "description": "東京・Zepp DiverCityにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2023-01-11",
+      "events": [
+        {
+          "id": "evt_010",
+          "title": "midoriko活動再開",
+          "category": "announcement",
+          "description": "活動を再開。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["復帰"]
+        }
+      ]
+    },
+    {
+      "date": "2022-12-25",
+      "events": [
+        {
+          "id": "evt_009",
+          "title": "First Tour xYZ 愛知公演",
+          "category": "live",
+          "description": "愛知・Zepp Nagoyaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-12-23",
+      "events": [
+        {
+          "id": "evt_008",
+          "title": "First Tour xYZ 大阪公演",
+          "category": "live",
+          "description": "大阪・Zepp Osaka Baysideにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-12-18",
+      "events": [
+        {
+          "id": "evt_007",
+          "title": "First Tour xYZ 香川公演",
+          "category": "live",
+          "description": "香川・高松festhalleにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-12-17",
+      "events": [
+        {
+          "id": "evt_006",
+          "title": "First Tour xYZ 広島公演",
+          "category": "live",
+          "description": "広島・ブルーライブ広島にて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-12-02",
+      "events": [
+        {
+          "id": "evt_005",
+          "title": "First Tour xYZ 北海道公演",
+          "category": "live",
+          "description": "北海道・Zepp Sapporoにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-23",
+      "events": [
+        {
+          "id": "evt_004",
+          "title": "Even without BiSH, this is WACK",
+          "category": "live",
+          "description": "千葉・幕張メッセイベントホールにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["対バン"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-22",
+      "events": [
+        {
+          "id": "evt_003",
+          "title": "First Tour xYZ 東京公演 / 「STAY WITH Me」MV公開",
+          "category": "live",
+          "description": "東京・Zepp Hanedaにて開催。同日MVを公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=ApDYHyXStNE"},
+          "tags": ["ツアー", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-20",
+      "events": [
+        {
+          "id": "evt_002",
+          "title": "First Tour xYZ 福岡公演",
+          "category": "live",
+          "description": "福岡・Zepp Fukuokaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-12",
+      "events": [
+        {
+          "id": "evt_001",
+          "title": "First Tour xYZ 新潟公演",
+          "category": "live",
+          "description": "新潟・新潟LOTSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-11",
+      "events": [
+        {
+          "id": "evt_000",
+          "title": "First Tour xYZ 神奈川公演",
+          "category": "live",
+          "description": "神奈川・KT Zepp Yokohamaにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-03",
+      "events": [
+        {
+          "id": "evt_x06",
+          "title": "First Tour xYZ 宮城公演",
+          "category": "live",
+          "description": "宮城・SENDAI GIGSにて開催。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ツアー"]
+        }
+      ]
+    },
+    {
+      "date": "2022-11-02",
+      "events": [
+        {
+          "id": "evt_x05",
+          "title": "1stアルバム「xYZ」リリース",
+          "category": "release",
+          "description": "アルバムをリリース。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["アルバム"]
+        }
+      ]
+    },
+    {
+      "date": "2022-10-07",
+      "events": [
+        {
+          "id": "evt_x04",
+          "title": "「Obsession」MV公開",
+          "category": "release",
+          "description": "MVを公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=Sr-N5POWD2c"},
+          "tags": ["MV"]
+        }
+      ]
+    },
+    {
+      "date": "2022-10-04",
+      "events": [
+        {
+          "id": "evt_x03",
+          "title": "「Obsession」配信開始",
+          "category": "release",
+          "description": "楽曲を配信開始。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["配信"]
+        }
+      ]
+    },
+    {
+      "date": "2022-10-03",
+      "events": [
+        {
+          "id": "evt_x02",
+          "title": "xYZ Listening Party #俺とお前で音源チェック",
+          "category": "live",
+          "description": "東京・UNITにて初パフォーマンス。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["ライブ"]
+        }
+      ]
+    },
+    {
+      "date": "2022-08-26",
+      "events": [
+        {
+          "id": "evt_x01",
+          "title": "midoriko活動休止",
+          "category": "announcement",
+          "description": "持病の療養のため無期限の活動休止を発表。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["休止"]
+        }
+      ]
+    },
+    {
+      "date": "2022-08-18",
+      "events": [
+        {
+          "id": "evt_x00",
+          "title": "「Wanna Dance」配信開始・MV公開",
+          "category": "release",
+          "description": "楽曲を配信開始、MV公開。",
+          "officialSource": {"type": "youtube", "url": "https://www.youtube.com/watch?v=sn9EPV_atyQ"},
+          "tags": ["配信", "MV"]
+        }
+      ]
+    },
+    {
+      "date": "2022-06-02",
+      "events": [
+        {
+          "id": "evt_start",
+          "title": "新グループ「ExWHYZ」結成発表",
+          "category": "announcement",
+          "description": "EMPiREメンバー6名による新グループ結成を発表。",
+          "officialSource": {"type": "official", "url": "https://www.exwhyz.jp/"},
+          "tags": ["結成"]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "release",
+      "label": "リリース",
+      "color": "#ff007f",
+      "icon": "🎵"
+    },
+    {
+      "id": "live",
+      "label": "ライブ",
+      "color": "#ff4da6",
+      "icon": "🎤"
+    },
+    {
+      "id": "media",
+      "label": "メディア出演",
+      "color": "#ff80bf",
+      "icon": "📺"
+    },
+    {
+      "id": "announcement",
+      "label": "発表・お知らせ",
+      "color": "#ffb3d9",
+      "icon": "📢"
+    }
+  ],
+  "metadata": {
+    "totalDays": 1552,
+    "dateRange": {
+      "start": "2022-06-02",
+      "end": "2026-08-31"
+    }
+  }
+}
