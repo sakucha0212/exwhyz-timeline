@@ -37,10 +37,9 @@ interface DayEntryProps {
 export default function DayEntry({ id, date, events, tweets, categories, loading = false }: DayEntryProps) {
   // 日付を日本語形式にフォーマット
   const formatDate = (dateStr: string) => {
-    const d = new Date(dateStr);
-    const year = d.getFullYear();
-    const month = d.getMonth() + 1;
-    const day = d.getDate();
+    // "YYYY-MM-DD" を直接パースしてタイムゾーンの影響を受けないようにする
+    const [year, month, day] = dateStr.split('-').map(Number);
+    const d = new Date(year, month - 1, day); // ローカル時刻として生成
     const weekdays = ['日', '月', '火', '水', '木', '金', '土'];
     const weekday = weekdays[d.getDay()];
     return `${year}年${month}月${day}日（${weekday}）`;

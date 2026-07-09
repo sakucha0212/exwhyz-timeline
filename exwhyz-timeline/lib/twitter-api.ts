@@ -91,7 +91,10 @@ export function formatTweetsForTimeline(tweets: any[]) {
   const groupedByDate: Record<string, any[]> = {};
 
   tweets.forEach((tweet) => {
-    const date = new Date(tweet.created_at).toISOString().split('T')[0];
+    // JST（UTC+9）基準で日付を計算する
+    const d = new Date(tweet.created_at);
+    const jstDate = new Date(d.getTime() + 9 * 60 * 60 * 1000);
+    const date = jstDate.toISOString().split('T')[0];
     if (!groupedByDate[date]) {
       groupedByDate[date] = [];
     }
