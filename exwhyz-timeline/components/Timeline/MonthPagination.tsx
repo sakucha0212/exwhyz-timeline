@@ -35,12 +35,6 @@ function toYearMonth(year: number, month: number): string {
   return `${year}-${String(month).padStart(2, '0')}`;
 }
 
-/** 現在の "YYYY-MM" を返す */
-function getCurrentYearMonth(): string {
-  const now = new Date();
-  return toYearMonth(now.getFullYear(), now.getMonth() + 1);
-}
-
 /** ARCHIVE_START_DATE_CLIENT から "YYYY-MM" を抽出 */
 function getArchiveStartYearMonth(): string {
   // ARCHIVE_START_DATE_CLIENT は "YYYY-MM-DDT..." 形式

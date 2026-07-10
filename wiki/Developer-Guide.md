@@ -45,28 +45,22 @@ exwhyz-timeline/
 │   ├── layout.tsx                # ルートレイアウト
 │   └── globals.css               # グローバルスタイル
 ├── components/
-│   ├── Timeline/
-│   │   ├── TimelineContainer.tsx # タイムライン全体のコンテナ（月単位表示）
-│   │   ├── MonthPagination.tsx   # 月ナビゲーション UI
-│   │   ├── DayEntry.tsx          # 日付ごとのエントリー
-│   │   ├── EventColumn.tsx       # 活動情報カラム
-│   │   ├── TweetColumn.tsx       # Tweet カラム
-│   │   ├── EventCard.tsx         # 個別活動情報カード
-│   │   ├── TweetEmbed.tsx        # X ポスト埋め込み
-│   │   ├── CategoryBadge.tsx     # カテゴリバッジ
-│   │   └── YearMonthNav.tsx      # 年月ドロップダウン（旧・後方互換）
-│   └── RefreshButton.tsx         # 更新ボタン（旧・後方互換）
+│   └── Timeline/
+│       ├── TimelineContainer.tsx # タイムライン全体のコンテナ（月単位表示）
+│       ├── MonthPagination.tsx   # 月ナビゲーション UI（前月/次月/年月ピッカー/更新ボタン）
+│       ├── DayEntry.tsx          # 日付ごとのエントリー
+│       ├── EventColumn.tsx       # 活動情報カラム
+│       ├── TweetColumn.tsx       # Tweet カラム
+│       ├── TweetEmbed.tsx        # X ポスト埋め込み
+│       └── CategoryBadge.tsx     # カテゴリバッジ
 ├── hooks/
-│   ├── useMonthlyTwitterData.ts  # 月単位データ管理フック（現行）
-│   └── useTwitterData.ts         # 全件データフック（旧・後方互換）
+│   └── useMonthlyTwitterData.ts  # 月単位データ管理フック
 ├── lib/
 │   ├── idb-cache.ts              # IndexedDB 月単位キャッシュ管理
 │   ├── data-provider-monthly.ts  # 月単位データ取得ロジック
 │   ├── twitter-api.ts            # X API クライアント・検索クエリ
 │   ├── auth.ts                   # NextAuth 設定
-│   ├── constants.ts              # クライアント共通定数
-│   ├── cache.ts                  # localStorage キャッシュ（旧・後方互換）
-│   └── data-provider.ts          # 全件データ取得（旧・後方互換）
+│   └── constants.ts              # クライアント共通定数
 ├── types/
 │   └── next-auth.d.ts            # NextAuth 型定義拡張
 ├── data/
@@ -180,7 +174,7 @@ app/page.tsx
     ├── MonthPagination          ← 月ナビゲーション（前月/次月/年月ピッカー/更新ボタン）
     └── DayEntry × N            ← 選択月の日付ごとに1つ
         ├── EventColumn          ← 左カラム: 公式活動情報
-        │   └── EventCard × N
+        │   └── CategoryBadge × N
         └── TweetColumn          ← 右カラム: X ポスト
             └── TweetEmbed × N
 ```
