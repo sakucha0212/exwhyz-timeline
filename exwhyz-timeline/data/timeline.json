@@ -1,12 +1,12 @@
 {
   "version": "2.1.0",
-  "lastUpdated": "2026-07-09T21:09:40+09:00",
+  "lastUpdated": "2026-07-10T15:57:30+09:00",
   "timeline": [
     {
       "date": "2026-08-31",
       "events": [
         {
-          "id": "evt_358",
+          "id": "evt_431",
           "title": "ExWHYZ LAST LIVE '光'",
           "category": "live",
           "description": "東京都・Zepp Hanedaにてラストライブを開催。",
@@ -25,7 +25,7 @@
       "date": "2026-08-15",
       "events": [
         {
-          "id": "evt_357",
+          "id": "evt_430",
           "title": "ExWHYZ presents 'CLUB Ex FINAL'",
           "category": "live",
           "description": "東京都・Spotify O-EASTにて開催。",
@@ -43,7 +43,7 @@
       "date": "2026-08-12",
       "events": [
         {
-          "id": "evt_356",
+          "id": "evt_429",
           "title": "ExWHYZ presents ‘PEDROWHYZ’",
           "category": "live",
           "description": "東京都・新宿LOFTにて開催",
@@ -61,7 +61,7 @@
       "date": "2026-08-11",
       "events": [
         {
-          "id": "evt_355",
+          "id": "evt_428",
           "title": "TALK OUR TALK @  Loft PlusOne West",
           "category": "EVENT",
           "description": "大阪府・Loft PlusOne Westにて開催",
@@ -79,7 +79,7 @@
       "date": "2026-08-08",
       "events": [
         {
-          "id": "evt_354",
+          "id": "evt_427",
           "title": "ExWHYZ Release Party ‘zION’",
           "category": "EVENT",
           "description": "東京都・ 代官山UNITにて開催",
@@ -92,7 +92,7 @@
           ]
         },
         {
-          "id": "evt_353",
+          "id": "evt_426",
           "title": "mikina presents ‘BUNMAWASHI NIGHT’",
           "category": "EVENT",
           "description": "東京都・ 代官山UNITにて開催",
@@ -110,7 +110,7 @@
       "date": "2026-08-05",
       "events": [
         {
-          "id": "evt_329",
+          "id": "evt_425",
           "title": "TALK OUR TALK @  SHIBUYA PLEASURE PLEASURE",
           "category": "EVENT",
           "description": "東京都・SHIBUYA PLEASURE PLEASUREにて開催。",
@@ -125,10 +125,28 @@
       ]
     },
     {
+      "date": "2026-08-02",
+      "events": [
+        {
+          "id": "evt_424",
+          "title": "TOKYO IDOL FESTIVAL 2025 supported by にしたんクリニック",
+          "category": "LIVE",
+          "description": "東京都 お台場・青海周辺エリアにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://official.idolfes.com/s/tif2026/page/timetable?ima=0000"
+          },
+          "tags": [
+            "フェス"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-31",
       "events": [
         {
-          "id": "evt_328",
+          "id": "evt_423",
           "title": "イベント「まゆとシール交換」",
           "category": "EVENT",
           "description": "東京都・LOFT/PLUS ONEにて開催。",
@@ -146,7 +164,7 @@
       "date": "2026-07-26",
       "events": [
         {
-          "id": "evt_349",
+          "id": "evt_422",
           "title": "TALK OUR TALK @  live & lounge VIO",
           "category": "EVENT",
           "description": "愛知県・live & lounge VIOにてトーク会をdayとnightの２公演開催。",
@@ -164,10 +182,10 @@
       "date": "2026-07-25",
       "events": [
         {
-          "id": "evt_348",
-          "title": "LAST ALBUM「zION」発売記念リリースイベント",
+          "id": "evt_421",
+          "title": "LAST ALBUM「zION」発売記念リリースイベント @ 名古屋",
           "category": "EVENT",
-          "description": "北海道・札幌にて開催。",
+          "description": "愛知県・場所未発表",
           "officialSource": {
             "type": "official",
             "url": ""
@@ -182,7 +200,7 @@
       "date": "2026-07-23",
       "events": [
         {
-          "id": "evt_347",
+          "id": "evt_420",
           "title": "イベント「yu-ki to KP Night vol.2」",
           "category": "EVENT",
           "description": "東京都・LOFT/PLUS ONEにて開催。",
@@ -200,7 +218,7 @@
       "date": "2026-07-20",
       "events": [
         {
-          "id": "evt_346",
+          "id": "evt_419",
           "title": "俺とお前でかちゃーしーファイナル ~やりたい事全部つめこんじゃった旅~",
           "category": "EVENT",
           "description": "沖縄県・某所にて開催。",
@@ -218,7 +236,7 @@
       "date": "2026-07-19",
       "events": [
         {
-          "id": "evt_345",
+          "id": "evt_418",
           "title": "俺とお前でかちゃーしーファイナル ~やりたい事全部つめこんじゃった旅~",
           "category": "EVENT",
           "description": "沖縄県・某所にて開催。",
@@ -236,7 +254,7 @@
       "date": "2026-07-18",
       "events": [
         {
-          "id": "evt_344",
+          "id": "evt_417",
           "title": "俺とお前でかちゃーしーファイナル ~やりたい事全部つめこんじゃった旅~",
           "category": "EVENT",
           "description": "沖縄県・某所でにて開催。",
@@ -254,7 +272,7 @@
       "date": "2026-07-15",
       "events": [
         {
-          "id": "evt_343",
+          "id": "evt_416",
           "title": "ExWHYZラストアルバム「zION」発売記念発売記念リミトーク mayu,yu-ki",
           "category": "EVENT",
           "description": "オンライン個別トーク会（リミトーク）の開催",
@@ -272,7 +290,7 @@
       "date": "2026-07-14",
       "events": [
         {
-          "id": "evt_342",
+          "id": "evt_415",
           "title": "ExWHYZラストアルバム「zION」発売記念発売記念リミトーク maho,mikina",
           "category": "EVENT",
           "description": "オンライン個別トーク会（リミトーク）の開催",
@@ -290,7 +308,7 @@
       "date": "2026-07-11",
       "events": [
         {
-          "id": "evt_341",
+          "id": "evt_414",
           "title": "LAST ALBUM「zION」発売記念リリースイベント @ NU茶屋町地下1階『NU BASE』",
           "category": "EVENT",
           "description": "大阪府・NU茶屋町地下1階『NU BASE』にて開催。",
@@ -305,10 +323,28 @@
       ]
     },
     {
+      "date": "2026-07-08",
+      "events": [
+        {
+          "id": "evt_413",
+          "title": "mikina MV初出演",
+          "category": "media",
+          "description": "Dannie May「BAD遺伝子」のMusic Videoに出演。",
+          "officialSource": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?si=1xqJb3eYPbb5dJPo&v=G6u20QYskAU&feature=youtu.be"
+          },
+          "tags": [
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-05",
       "events": [
         {
-          "id": "evt_340",
+          "id": "evt_412",
           "title": "LAST ALBUM「zION」発売記念東京大特典会",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。",
@@ -326,7 +362,7 @@
       "date": "2026-07-04",
       "events": [
         {
-          "id": "evt_339",
+          "id": "evt_411",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 東京公演",
           "category": "live",
           "description": "東京都・Zepp DiverCityにて開催。",
@@ -344,7 +380,7 @@
       "date": "2026-06-29",
       "events": [
         {
-          "id": "evt_338",
+          "id": "evt_410",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 北海道公演",
           "category": "live",
           "description": "北海道・札幌cube gardenにて開催。",
@@ -362,7 +398,7 @@
       "date": "2026-06-28",
       "events": [
         {
-          "id": "evt_337",
+          "id": "evt_409",
           "title": "ラストアルバム「zION」発売記念リリースイベント",
           "category": "live",
           "description": "リリースイベントを開催。",
@@ -380,7 +416,7 @@
       "date": "2026-06-26",
       "events": [
         {
-          "id": "evt_336",
+          "id": "evt_408",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 宮城公演",
           "category": "live",
           "description": "宮城県・仙台darwinにて開催。",
@@ -398,7 +434,7 @@
       "date": "2026-06-24",
       "events": [
         {
-          "id": "evt_335",
+          "id": "evt_407",
           "title": "Photo＆Essay「ぶらみきな」発売記念トークイベント",
           "category": "live",
           "description": "トークイベントを開催。",
@@ -416,7 +452,7 @@
       "date": "2026-06-22",
       "events": [
         {
-          "id": "evt_334",
+          "id": "evt_406",
           "title": "イベント「yu-ki to KP Night」",
           "category": "live",
           "description": "東京都・LOFT9 Shibuyaにて開催。",
@@ -434,7 +470,7 @@
       "date": "2026-06-20",
       "events": [
         {
-          "id": "evt_333",
+          "id": "evt_405",
           "title": "YATSUI FESTIVAL! 2026",
           "category": "live",
           "description": "東京都・渋谷ライブハウスエリアにて開催。WOMBにて出演。",
@@ -452,7 +488,7 @@
       "date": "2026-06-17",
       "events": [
         {
-          "id": "evt_332",
+          "id": "evt_404",
           "title": "MAMExWHYZで乾杯",
           "category": "live",
           "description": "東京都・Spotify O-WESTにて開催。",
@@ -470,7 +506,7 @@
       "date": "2026-06-16",
       "events": [
         {
-          "id": "evt_331",
+          "id": "evt_403",
           "title": "「#Ex_LIVEヒストリー」CLUB Ex Vol.1",
           "category": "media",
           "description": "CLUB Ex Vol.1のフル尺ライブ映像公開。",
@@ -488,7 +524,7 @@
       "date": "2026-06-13",
       "events": [
         {
-          "id": "evt_330",
+          "id": "evt_402",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 香川公演",
           "category": "live",
           "description": "香川県・高松MONSTERにて開催。",
@@ -506,7 +542,7 @@
       "date": "2026-06-07",
       "events": [
         {
-          "id": "evt_329",
+          "id": "evt_401",
           "title": "ExWHYZと芋煮ば食う会 in 山形",
           "category": "live",
           "description": "山形県・リナワールドにて開催。",
@@ -524,7 +560,7 @@
       "date": "2026-06-06",
       "events": [
         {
-          "id": "evt_328",
+          "id": "evt_400",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 山形公演",
           "category": "live",
           "description": "山形県・ミュージック昭和SESSIONにて開催。",
@@ -542,7 +578,7 @@
       "date": "2026-06-02",
       "events": [
         {
-          "id": "evt_327",
+          "id": "evt_399",
           "title": "「#Ex_LIVEヒストリー」ExWHYZ YouTube Live ,TOUR 2024 ‘HOPE’ FINAL",
           "category": "media",
           "description": "ExWHYZ YouTube Live ,TOUR 2024 ‘HOPE’ FINALのフル尺ライブ映像公開。",
@@ -560,7 +596,7 @@
       "date": "2026-06-01",
       "events": [
         {
-          "id": "evt_326",
+          "id": "evt_398",
           "title": "#maho生誕2026",
           "category": "birthday",
           "description": "maho生誕",
@@ -578,7 +614,7 @@
       "date": "2026-05-31",
       "events": [
         {
-          "id": "evt_325",
+          "id": "evt_397",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM Be-1にて開催。",
@@ -596,7 +632,7 @@
       "date": "2026-05-26",
       "events": [
         {
-          "id": "evt_324",
+          "id": "evt_396",
           "title": "「#Ex_LIVEヒストリー」ExWHYZ TOUR 2023 'eLATION' part.2",
           "category": "media",
           "description": "ExWHYZ TOUR 2023 'eLATION' part.2 のフル尺ライブ映像公開。",
@@ -614,7 +650,7 @@
       "date": "2026-05-22",
       "events": [
         {
-          "id": "evt_323",
+          "id": "evt_395",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 愛知公演",
           "category": "live",
           "description": "愛知県・名古屋Electric Lady Landにて開催。",
@@ -632,7 +668,7 @@
       "date": "2026-05-20",
       "events": [
         {
-          "id": "evt_322",
+          "id": "evt_394",
           "title": "「NOT ENOUGH」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -650,7 +686,7 @@
       "date": "2026-05-17",
       "events": [
         {
-          "id": "evt_321",
+          "id": "evt_393",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 新潟公演",
           "category": "live",
           "description": "新潟県・LOTSにて開催。",
@@ -668,7 +704,7 @@
       "date": "2026-05-12",
       "events": [
         {
-          "id": "evt_320",
+          "id": "evt_392",
           "title": "「#Ex_LIVEヒストリー」ExWHYZ  presents “BISHWHYZ”",
           "category": "media",
           "description": "ExWHYZ  presents “BISHWHYZ” のフル尺ライブ映像公開。",
@@ -686,7 +722,7 @@
       "date": "2026-05-10",
       "events": [
         {
-          "id": "evt_319",
+          "id": "evt_391",
           "title": "LAST ALBUM「zION」発売記念 大阪大特典会",
           "category": "EVENT",
           "description": "大阪府・大阪市TBホールにて開催。",
@@ -704,7 +740,7 @@
       "date": "2026-05-09",
       "events": [
         {
-          "id": "evt_318",
+          "id": "evt_390",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 広島公演",
           "category": "live",
           "description": "広島県・LIVE VANQUISHにて開催。",
@@ -722,7 +758,7 @@
       "date": "2026-05-06",
       "events": [
         {
-          "id": "evt_317",
+          "id": "evt_389",
           "title": "LAST TOUR 'DANCE YOUR DANCE' 大阪公演",
           "category": "live",
           "description": "大阪県・大阪城音楽堂にて開催。",
@@ -735,7 +771,7 @@
           ]
         },
         {
-          "id": "evt_316",
+          "id": "evt_388",
           "title": "「TONIGHT TONIGHT」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -748,7 +784,7 @@
           ]
         },
         {
-          "id": "evt_315",
+          "id": "evt_387",
           "title": "解散発表",
           "category": "announcement",
           "description": "8月31日のラストライブをもって解散することを発表。",
@@ -766,7 +802,7 @@
       "date": "2026-05-05",
       "events": [
         {
-          "id": "evt_314",
+          "id": "evt_386",
           "title": "ExWHYZ LAST ALBUM 「zION」 発売記念リリースイベント",
           "category": "EVENT",
           "description": "大阪府・あべのキューズモールにて開催。",
@@ -784,7 +820,7 @@
       "date": "2026-05-01",
       "events": [
         {
-          "id": "evt_313",
+          "id": "evt_385",
           "title": "mikina Photo＆Essay「ぶらみきな」お渡し会",
           "category": "EVENT",
           "description": "東京都・代官山 蔦屋書店にて開催。",
@@ -802,7 +838,7 @@
       "date": "2026-04-28",
       "events": [
         {
-          "id": "evt_312",
+          "id": "evt_384",
           "title": "「#Ex_LIVEヒストリー」ExWHYZ TOUR 2023 xANADU",
           "category": "media",
           "description": "ExWHYZ TOUR 2023 xANADU  のフル尺ライブ映像公開。",
@@ -820,7 +856,7 @@
       "date": "2026-04-27",
       "events": [
         {
-          "id": "evt_311",
+          "id": "evt_383",
           "title": "mikina Photo＆Essay「ぶらみきな」お渡し会",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店5Fイベントスペースにて開催。",
@@ -838,7 +874,7 @@
       "date": "2026-04-24",
       "events": [
         {
-          "id": "evt_310",
+          "id": "evt_382",
           "title": "mikina Photo＆Essay「ぶらみきな」お渡し会",
           "category": "EVENT",
           "description": "東京都・HMV&BOOKS SHIBUYA 5Fイベントスペース",
@@ -856,7 +892,7 @@
       "date": "2026-04-21",
       "events": [
         {
-          "id": "evt_309",
+          "id": "evt_381",
           "title": "「#Ex_LIVEヒストリー」ExWHYZ FIRST TOUR xYZ",
           "category": "media",
           "description": "ExWHYZ FIRST TOUR xYZ のフル尺ライブ映像公開。",
@@ -874,7 +910,7 @@
       "date": "2026-04-16",
       "events": [
         {
-          "id": "evt_308",
+          "id": "evt_380",
           "title": "ExWHYZ×TOWER RECORDS SHIBUYA 5DAYS FES!! -We Love CUT-UP STUDIO♡-",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店CUTUP STUDIOにて開催。",
@@ -887,7 +923,7 @@
           ]
         },
         {
-          "id": "evt_307",
+          "id": "evt_379",
           "title": "#mayu生誕2026",
           "category": "birthday",
           "description": "mayu生誕",
@@ -905,7 +941,7 @@
       "date": "2026-04-11",
       "events": [
         {
-          "id": "evt_306",
+          "id": "evt_378",
           "title": "SYNCHRONICITY’26",
           "category": "LIVE",
           "description": "東京都・渋谷ライブハウスエリアにて開催。",
@@ -923,7 +959,7 @@
       "date": "2026-04-05",
       "events": [
         {
-          "id": "evt_305",
+          "id": "evt_377",
           "title": "ExWHYZ×TOWER RECORDS SHIBUYA 5DAYS FES!! -We Love CUT-UP STUDIO♡-",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店CUTUP STUDIOにて開催。",
@@ -941,7 +977,7 @@
       "date": "2026-04-03",
       "events": [
         {
-          "id": "evt_304",
+          "id": "evt_376",
           "title": "ExWHYZ×TOWER RECORDS SHIBUYA 5DAYS FES!! -We Love CUT-UP STUDIO♡-",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店CUTUP STUDIOにて開催。",
@@ -959,7 +995,7 @@
       "date": "2026-04-01",
       "events": [
         {
-          "id": "evt_303",
+          "id": "evt_375",
           "title": "3rdシングル「GIVE YOU MY WORD」リリース",
           "category": "release",
           "description": "3rdシングルをリリース。",
@@ -972,7 +1008,7 @@
           ]
         },
         {
-          "id": "evt_302",
+          "id": "evt_374",
           "title": "ExWHYZ LIVE 'GIVE YOU MY WORD'",
           "category": "live",
           "description": "東京・LIQUIDROOMにて開催。",
@@ -985,7 +1021,7 @@
           ]
         },
         {
-          "id": "evt_301",
+          "id": "evt_373",
           "title": "ラジオ番組「FREE ALL ExWHYZ」復活発表",
           "category": "announcement",
           "description": "ラジオレギュラー番組の復活が発表される。",
@@ -1003,7 +1039,7 @@
       "date": "2026-03-30",
       "events": [
         {
-          "id": "evt_300",
+          "id": "evt_372",
           "title": "ExWHYZ×TOWER RECORDS SHIBUYA 5DAYS FES!! -We Love CUT-UP STUDIO♡-",
           "category": "EVENT",
           "description": "東京都 タワーレコード渋谷店CUTUP STUDIO",
@@ -1021,7 +1057,7 @@
       "date": "2026-03-21",
       "events": [
         {
-          "id": "evt_299",
+          "id": "evt_371",
           "title": "ExWHYZ REVENGE TOUR ‘Wide Open Again’@金沢RED SUN[石川県]",
           "category": "live",
           "description": "石川県・金沢RED SUNにて開催。",
@@ -1039,7 +1075,7 @@
       "date": "2026-03-18",
       "events": [
         {
-          "id": "evt_298",
+          "id": "evt_370",
           "title": "「GIVE YOU MY WORD」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -1053,7 +1089,7 @@
           ]
         },
         {
-          "id": "evt_297",
+          "id": "evt_369",
           "title": "#みきな生誕2026",
           "category": "birthday",
           "description": "mikina生誕",
@@ -1071,7 +1107,7 @@
       "date": "2026-03-14",
       "events": [
         {
-          "id": "evt_296",
+          "id": "evt_368",
           "title": "ExWHYZ 3rd Single「GIVE YOU MY WORD」発売記念リリースイベント",
           "category": "EVENT",
           "description": "東京都・タワーレコード新宿店９Fにて開催。",
@@ -1089,7 +1125,7 @@
       "date": "2026-03-11",
       "events": [
         {
-          "id": "evt_295",
+          "id": "evt_367",
           "title": "NATSLIVE 'ExWHYZ モクテルディッシュ'",
           "category": "EVENT",
           "description": "東京都・NATSLIVE CAFE 表参道",
@@ -1107,7 +1143,7 @@
       "date": "2026-03-08",
       "events": [
         {
-          "id": "evt_294",
+          "id": "evt_366",
           "title": "REVENGE TOUR 'Wide Open Again' 長野公演",
           "category": "live",
           "description": "長野県・CLUB JUNK BOXにて開催。",
@@ -1125,7 +1161,7 @@
       "date": "2026-03-01",
       "events": [
         {
-          "id": "evt_293",
+          "id": "evt_365",
           "title": "REVENGE TOUR 'Wide Open Again' 埼玉公演",
           "category": "live",
           "description": "埼玉県・HEAVEN'S ROCK さいたま新都心VJ-3にて開催。",
@@ -1143,7 +1179,7 @@
       "date": "2026-02-22",
       "events": [
         {
-          "id": "evt_292",
+          "id": "evt_364",
           "title": "Where the End Begins by WACK 神奈川公演",
           "category": "live",
           "description": "神奈川県・CLUB CITTA'にて開催。",
@@ -1161,7 +1197,7 @@
       "date": "2026-02-21",
       "events": [
         {
-          "id": "evt_291",
+          "id": "evt_363",
           "title": "Artistspoken 2026 公開収録 Festival",
           "category": "EVENT",
           "description": "東京都・赤坂Bizタワーにて開催。",
@@ -1179,7 +1215,7 @@
       "date": "2026-02-15",
       "events": [
         {
-          "id": "evt_290",
+          "id": "evt_362",
           "title": "ONAGAWACKよ永遠に。",
           "category": "EVENT",
           "description": "宮城県 女川町にて開催。",
@@ -1197,7 +1233,7 @@
       "date": "2026-02-14",
       "events": [
         {
-          "id": "evt_289",
+          "id": "evt_361",
           "title": "ONAGAWACKよ永遠に。",
           "category": "EVENT",
           "description": "宮城県 女川町にて開催。",
@@ -1215,7 +1251,7 @@
       "date": "2026-02-11",
       "events": [
         {
-          "id": "evt_288",
+          "id": "evt_360",
           "title": "Where the End Begins by WACK 愛知公演",
           "category": "live",
           "description": "愛知県・THE BOTTOM LINEにて開催。",
@@ -1233,7 +1269,7 @@
       "date": "2026-02-08",
       "events": [
         {
-          "id": "evt_287",
+          "id": "evt_359",
           "title": "ExWHYZ 3rd Single「GIVE YOU MY WORD」発売記念リリースイベント",
           "category": "EVENT",
           "description": "大阪府 タワーレコード梅田NU茶屋町店",
@@ -1251,7 +1287,7 @@
       "date": "2026-02-07",
       "events": [
         {
-          "id": "evt_268",
+          "id": "evt_358",
           "title": "Where the End Begins by WACK 大阪公演",
           "category": "live",
           "description": "大阪府・STUDIO PARTITAにて開催。",
@@ -1269,7 +1305,7 @@
       "date": "2026-02-01",
       "events": [
         {
-          "id": "evt_285",
+          "id": "evt_357",
           "title": "in the UK Tour ロンドン公演",
           "category": "live",
           "description": "ロンドン・The Underworldにて開催。",
@@ -1288,7 +1324,7 @@
       "date": "2026-01-31",
       "events": [
         {
-          "id": "evt_284",
+          "id": "evt_356",
           "title": "ロンドン ランダムチェキイベント",
           "category": "live",
           "description": "ロンドンにてランダムチェキイベント開催、mikinaがDJ出演。",
@@ -1306,7 +1342,7 @@
       "date": "2026-01-30",
       "events": [
         {
-          "id": "evt_283",
+          "id": "evt_355",
           "title": "in the UK Tour マンチェスター公演",
           "category": "live",
           "description": "マンチェスター・The Kings Armsにて開催。",
@@ -1325,7 +1361,7 @@
       "date": "2026-01-29",
       "events": [
         {
-          "id": "evt_282",
+          "id": "evt_354",
           "title": "in the UK Tour ブリストル公演",
           "category": "live",
           "description": "ブリストル・The Fleeceにて開催.",
@@ -1344,7 +1380,7 @@
       "date": "2026-01-18",
       "events": [
         {
-          "id": "evt_281",
+          "id": "evt_353",
           "title": "ExWHYZ 3rd Single「GIVE YOU MY WORD」発売記念リリースイベント",
           "category": "EVENT",
           "description": "東京都・ヴィレッジヴァンガード渋谷本店にて開催。",
@@ -1362,7 +1398,7 @@
       "date": "2026-01-11",
       "events": [
         {
-          "id": "evt_280",
+          "id": "evt_352",
           "title": "Where the End Begins by WACK 東京公演",
           "category": "live",
           "description": "東京都・Spotify O-WESTにて開催。",
@@ -1380,7 +1416,7 @@
       "date": "2026-01-10",
       "events": [
         {
-          "id": "evt_279",
+          "id": "evt_351",
           "title": "Where the End Begins by WACK 東京公演",
           "category": "live",
           "description": "東京都・Spotify O-WESTにて開催。",
@@ -1398,7 +1434,7 @@
       "date": "2025-12-27",
       "events": [
         {
-          "id": "evt_278",
+          "id": "evt_350",
           "title": "Special Live 'Ⅰ' -3rd Anniversary Final & Year End Party-",
           "category": "live",
           "description": "東京都・Kanadevia Hallにて開催。",
@@ -1416,7 +1452,7 @@
       "date": "2025-12-21",
       "events": [
         {
-          "id": "evt_277",
+          "id": "evt_349",
           "title": "2nd Single「DON’T CRY」発売記念リリースイベント@タワーレコード梅田NU茶屋町店",
           "category": "EVENT",
           "description": "大阪府・タワーレコード梅田NU茶屋町店イベントスペース",
@@ -1434,7 +1470,7 @@
       "date": "2025-12-20",
       "events": [
         {
-          "id": "evt_276",
+          "id": "evt_348",
           "title": "TOUR 2025 'Wide Open' 大阪公演 / 解散正式発表",
           "category": "live",
           "description": "大阪府・GORILLA HALL OSAKAにて開催。アンコールで2026年の解散を正式発表。",
@@ -1453,7 +1489,7 @@
       "date": "2025-12-10",
       "events": [
         {
-          "id": "evt_275",
+          "id": "evt_347",
           "title": "2ndシングル「DON'T CRY / リグレット」リリース",
           "category": "release",
           "description": "2ndシングルをリリース。",
@@ -1466,7 +1502,7 @@
           ]
         },
         {
-          "id": "evt_274",
+          "id": "evt_346",
           "title": "#ゆーき生誕2025",
           "category": "birthday",
           "description": "yu-ki生誕",
@@ -1484,7 +1520,7 @@
       "date": "2025-12-09",
       "events": [
         {
-          "id": "evt_273",
+          "id": "evt_345",
           "title": "「リグレット」MV公開",
           "category": "release",
           "description": "伊澤彩織主演のMVを公開。",
@@ -1502,7 +1538,7 @@
       "date": "2025-12-07",
       "events": [
         {
-          "id": "evt_272",
+          "id": "evt_344",
           "title": "2nd Single「DON’T CRY」発売記念リリースイベント@ヴィレッジヴァンガード名古屋パルコ",
           "category": "EVENT",
           "description": "愛知県・ヴィレッジヴァンガード名古屋パルコ店内イベントスペース",
@@ -1520,7 +1556,7 @@
       "date": "2025-12-01",
       "events": [
         {
-          "id": "evt_271",
+          "id": "evt_343",
           "title": "WACK所属グループ解散発表",
           "category": "announcement",
           "description": "ExWHYZを含むWACK所属グループの解散が発表される。",
@@ -1538,7 +1574,7 @@
       "date": "2025-11-30",
       "events": [
         {
-          "id": "evt_270",
+          "id": "evt_342",
           "title": "TOUR 2025 'Wide Open' 石川公演",
           "category": "live",
           "description": "石川県・金沢REDSUNにて開催。",
@@ -1556,7 +1592,7 @@
       "date": "2025-11-29",
       "events": [
         {
-          "id": "evt_269",
+          "id": "evt_341",
           "title": "TOUR 2025 'Wide Open' 長野公演",
           "category": "live",
           "description": "長野県・CLUB JUNK BOXにて開催。",
@@ -1574,7 +1610,7 @@
       "date": "2025-11-24",
       "events": [
         {
-          "id": "evt_268",
+          "id": "evt_340",
           "title": "TOUR 2025 'Wide Open' 埼玉公演",
           "category": "live",
           "description": "埼玉県・HEAVEN'S ROCKさいたま新都心 VJ-3にて開催。",
@@ -1592,7 +1628,7 @@
       "date": "2025-11-23",
       "events": [
         {
-          "id": "evt_267",
+          "id": "evt_339",
           "title": "TOUR 2025 'Wide Open' 栃木公演",
           "category": "live",
           "description": "栃木県・HEAVEN'S ROCK宇都宮 VJ-2にて開催。",
@@ -1610,7 +1646,7 @@
       "date": "2025-11-16",
       "events": [
         {
-          "id": "evt_266",
+          "id": "evt_338",
           "title": "2nd Single「DON’T CRY」発売記念リリースイベント@ヴィレッジヴァンガードさっぽろ東急店",
           "category": "EVENT",
           "description": "北海道・ヴィレッジヴァンガードさっぽろ東急店店内イベントスペースにて開催。",
@@ -1628,7 +1664,7 @@
       "date": "2025-11-15",
       "events": [
         {
-          "id": "evt_265",
+          "id": "evt_337",
           "title": "TOUR 2025 'Wide Open' 北海道公演",
           "category": "live",
           "description": "北海道・札幌PANNY LANE24にて開催。",
@@ -1646,7 +1682,7 @@
       "date": "2025-11-09",
       "events": [
         {
-          "id": "evt_264",
+          "id": "evt_336",
           "title": "WACK LOVERS FES",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店にて開催。",
@@ -1664,7 +1700,7 @@
       "date": "2025-11-08",
       "events": [
         {
-          "id": "evt_263",
+          "id": "evt_335",
           "title": "WACK LOVERS FES",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店にて開催。",
@@ -1682,7 +1718,7 @@
       "date": "2025-11-02",
       "events": [
         {
-          "id": "evt_262",
+          "id": "evt_334",
           "title": "ボロフェスタ2025",
           "category": "live",
           "description": "京都府・KBSホールにて出演。",
@@ -1700,7 +1736,7 @@
       "date": "2025-11-01",
       "events": [
         {
-          "id": "evt_261",
+          "id": "evt_333",
           "title": "ボロフェスタ2025",
           "category": "live",
           "description": "京都府・京都Club METROにて出演",
@@ -1718,7 +1754,7 @@
       "date": "2025-10-31",
       "events": [
         {
-          "id": "evt_260",
+          "id": "evt_332",
           "title": "TOUR 2025 'Wide Open' 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM Be-1にて開催。",
@@ -1736,7 +1772,7 @@
       "date": "2025-10-25",
       "events": [
         {
-          "id": "evt_259",
+          "id": "evt_331",
           "title": "2nd Single「DON’T CRY」発売記念リリースイベント@仙台駅前EbeanS",
           "category": "EVENT",
           "description": "宮城県・仙台駅前EbeanS 屋上イベントスペースにて開催。",
@@ -1754,7 +1790,7 @@
       "date": "2025-10-24",
       "events": [
         {
-          "id": "evt_258",
+          "id": "evt_330",
           "title": "TOUR 2025 'Wide Open' 宮城公演",
           "category": "live",
           "description": "宮城県・仙台Rensaにて開催。",
@@ -1769,10 +1805,28 @@
       ]
     },
     {
+      "date": "2025-10-20",
+      "events": [
+        {
+          "id": "evt_329",
+          "title": "mahoアパレルプロデュース第2弾",
+          "category": "announcement",
+          "description": "#まほ服つくってみた maho×KANGOLREWARDの発表",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1980182197509267817?s=20"
+          },
+          "tags": [
+            "発表"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2025-10-19",
       "events": [
         {
-          "id": "evt_257",
+          "id": "evt_328",
           "title": "2nd Single「DON’T CRY」発売記念リリースイベント＠福岡HMV&BOOKS HAKATA",
           "category": "EVENT",
           "description": "福岡県・HMV&BOOKS HAKATA 店内イベントスペースにて開催。",
@@ -1790,7 +1844,7 @@
       "date": "2025-10-13",
       "events": [
         {
-          "id": "evt_256",
+          "id": "evt_327",
           "title": "TOUR 2025 'Wide Open' 香川公演",
           "category": "live",
           "description": "香川県・高松MONSTERにて開催。",
@@ -1808,7 +1862,7 @@
       "date": "2025-10-11",
       "events": [
         {
-          "id": "evt_255",
+          "id": "evt_326",
           "title": "TOUR 2025 'Wide Open' 静岡公演",
           "category": "live",
           "description": "静岡県・LiveHouse浜松窓枠にて開催。",
@@ -1826,7 +1880,7 @@
       "date": "2025-10-10",
       "events": [
         {
-          "id": "evt_254",
+          "id": "evt_325",
           "title": "TOUR 2025 'Wide Open' 愛知公演",
           "category": "live",
           "description": "愛知県・名古屋CLUB QUATTROにて開催。",
@@ -1844,7 +1898,7 @@
       "date": "2025-10-05",
       "events": [
         {
-          "id": "evt_253",
+          "id": "evt_324",
           "title": "TOUR 2025 'Wide Open' 岡山公演",
           "category": "live",
           "description": "岡山県・YEBIS YA PROにて開催。",
@@ -1862,7 +1916,7 @@
       "date": "2025-10-04",
       "events": [
         {
-          "id": "evt_252",
+          "id": "evt_323",
           "title": "TOUR 2025 'Wide Open' 兵庫公演",
           "category": "live",
           "description": "兵庫県・神戸Harbor Studioにて開催。",
@@ -1880,7 +1934,7 @@
       "date": "2025-10-03",
       "events": [
         {
-          "id": "evt_251",
+          "id": "evt_322",
           "title": "「DON'T CRY」先行配信・MV公開",
           "category": "release",
           "description": "先行配信開始、MV公開。",
@@ -1899,7 +1953,7 @@
       "date": "2025-09-27",
       "events": [
         {
-          "id": "evt_250",
+          "id": "evt_321",
           "title": "TOUR 2025 'Wide Open' 神奈川公演",
           "category": "live",
           "description": "神奈川県・横浜BAY HALLにて開催。",
@@ -1917,7 +1971,7 @@
       "date": "2025-09-21",
       "events": [
         {
-          "id": "evt_249",
+          "id": "evt_320",
           "title": "TOUR 2025 'Wide Open' 沖縄公演",
           "category": "live",
           "description": "沖縄県・桜坂セントラルにて開催。",
@@ -1935,7 +1989,7 @@
       "date": "2025-09-20",
       "events": [
         {
-          "id": "evt_248",
+          "id": "evt_319",
           "title": "TOUR 2025 'Wide Open' 沖縄公演 (FC限定)",
           "category": "live",
           "description": "沖縄県・桜坂セントラルにて開催。",
@@ -1953,7 +2007,7 @@
       "date": "2025-09-13",
       "events": [
         {
-          "id": "evt_247",
+          "id": "evt_318",
           "title": "おぼろっく2025 TSURUGA MUSIC FESTIVAL",
           "category": "live",
           "description": "福井県・敦賀市金ヶ崎エリアにて開催。",
@@ -1971,7 +2025,7 @@
       "date": "2025-09-03",
       "events": [
         {
-          "id": "evt_246",
+          "id": "evt_317",
           "title": "ライブナタリー “ExWHYZ × I Don't Like Mondays.”",
           "category": "live",
           "description": "東京都・渋谷duo MUSIC EXCHANGEにて開催。",
@@ -1989,7 +2043,7 @@
       "date": "2025-08-31",
       "events": [
         {
-          "id": "evt_245",
+          "id": "evt_316",
           "title": "いくすわいずと真夏の愉快な大運動会",
           "category": "EVENT",
           "description": "千葉県：某所にて開催。",
@@ -2007,7 +2061,7 @@
       "date": "2025-08-10",
       "events": [
         {
-          "id": "evt_244",
+          "id": "evt_315",
           "title": "ENTER The REDSUN 1st ANNIVERSARY SPECIAL Vol.2",
           "category": "LIVE",
           "description": "石川県・RED SUNにて開催。ASPと対バン。",
@@ -2025,7 +2079,7 @@
       "date": "2025-08-03",
       "events": [
         {
-          "id": "evt_243",
+          "id": "evt_314",
           "title": "TOKYO IDOL FESTIVAL 2025 supported by にしたんクリニック",
           "category": "LIVE",
           "description": "東京都 お台場・青海周辺エリアにて開催。",
@@ -2043,7 +2097,7 @@
       "date": "2025-08-02",
       "events": [
         {
-          "id": "evt_242",
+          "id": "evt_313",
           "title": "3rd Anniversary Special Live 'Our Step→Future'",
           "category": "live",
           "description": "東京都・LINE CUBE SHIBUYAにて開催。",
@@ -2061,7 +2115,7 @@
       "date": "2025-07-30",
       "events": [
         {
-          "id": "evt_241",
+          "id": "evt_312",
           "title": "1stシングル「iD」リリース",
           "category": "release",
           "description": "1stシングルをリリース。",
@@ -2074,8 +2128,8 @@
           ]
         },
         {
-          "id": "evt_240",
-          "title": "1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店B1F CUT UP STUDIO",
+          "id": "evt_311",
+          "title": "1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店B1F CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -2092,8 +2146,8 @@
       "date": "2025-07-28",
       "events": [
         {
-          "id": "evt_239",
-          "title": "1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店B1F CUT UP STUDIO",
+          "id": "evt_310",
+          "title": "1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -2110,7 +2164,7 @@
       "date": "2025-07-26",
       "events": [
         {
-          "id": "evt_238",
+          "id": "evt_309",
           "title": "1st Single「iD」発売記念リリースイベント@タワーレコード新宿店",
           "category": "EVENT",
           "description": "東京都・タワーレコード新宿店にて開催。",
@@ -2128,7 +2182,7 @@
       "date": "2025-07-19",
       "events": [
         {
-          "id": "evt_237",
+          "id": "evt_308",
           "title": "TOUR 2025 '(unfinished) odds and ends' 新潟公演",
           "category": "live",
           "description": "新潟県・NEXSにて開催。",
@@ -2146,7 +2200,7 @@
       "date": "2025-07-18",
       "events": [
         {
-          "id": "evt_236",
+          "id": "evt_307",
           "title": "TOUR 2025 '(unfinished) odds and ends' 宮城公演",
           "category": "live",
           "description": "宮城県・darwinにて開催。",
@@ -2164,7 +2218,7 @@
       "date": "2025-07-16",
       "events": [
         {
-          "id": "evt_234",
+          "id": "evt_305",
           "title": "「イマジン」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -2183,7 +2237,7 @@
       "date": "2025-07-09",
       "events": [
         {
-          "id": "evt_235",
+          "id": "evt_306",
           "title": "下北沢厨二学校文化祭×ExWHYZ",
           "category": "live",
           "description": "東京都・下北沢ReGにて開催。",
@@ -2201,7 +2255,7 @@
       "date": "2025-07-05",
       "events": [
         {
-          "id": "evt_233",
+          "id": "evt_304",
           "title": "TOUR 2025 '(unfinished) odds and ends' 北海道公演",
           "category": "live",
           "description": "北海道・小樽GOLDSTONEにて開催。",
@@ -2219,7 +2273,7 @@
       "date": "2025-07-04",
       "events": [
         {
-          "id": "evt_232",
+          "id": "evt_303",
           "title": "TOUR 2025 '(unfinished) odds and ends' 北海道公演",
           "category": "live",
           "description": "北海道・SPiCEにて開催。",
@@ -2234,10 +2288,191 @@
       ]
     },
     {
+      "date": "2025-06-29",
+      "events": [
+        {
+          "id": "evt_302",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１４日目(最終日)。yu-ki,mayu,maho,mikina参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_301",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１４日目(最終日)。yu-ki,mayu,maho,mikina参加",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-28",
+      "events": [
+        {
+          "id": "evt_300",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１３日目。yu-ki,mayu,maho,mikina参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_299",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１３日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "events": [
+        {
+          "id": "evt_298",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１２日目。mikina参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_297",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１２日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "events": [
+        {
+          "id": "evt_296",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_295",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "events": [
+        {
+          "id": "evt_294",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１０日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_293",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１０日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2025-06-24",
       "events": [
         {
-          "id": "evt_231",
+          "id": "evt_292",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント９日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_291",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント９日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_290",
           "title": "TOUR 2025 '(unfinished) odds and ends' 東京公演",
           "category": "live",
           "description": "東京都・新代田FEVERにて開催。",
@@ -2252,11 +2487,68 @@
       ]
     },
     {
+      "date": "2025-06-23",
+      "events": [
+        {
+          "id": "evt_289",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント８日目。yu-ki,mayu,maho参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_288",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント８日目。mayu,maho参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2025-06-22",
       "events": [
         {
-          "id": "evt_230",
-          "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店B1F CUT UP STUDIO",
+          "id": "evt_287",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント７日目。yu-ki,mayu,maho,mikina参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_286",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント７日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_285",
+          "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -2273,7 +2565,33 @@
       "date": "2025-06-21",
       "events": [
         {
-          "id": "evt_229",
+          "id": "evt_284",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント６日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_283",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント６日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_282",
           "title": "YATSUI FESTIVAL! 2025",
           "category": "live",
           "description": "東京都・渋谷ライブハウスエリアにて開催。WOMBにて出演。",
@@ -2291,7 +2609,33 @@
       "date": "2025-06-20",
       "events": [
         {
-          "id": "evt_228",
+          "id": "evt_281",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント５日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_280",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント５日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_279",
           "title": "「iD」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -2307,10 +2651,134 @@
       ]
     },
     {
+      "date": "2025-06-19",
+      "events": [
+        {
+          "id": "evt_278",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント４日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_277",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント４日目。yu-ki参加",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "events": [
+        {
+          "id": "evt_276",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント３日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_275",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント３日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-17",
+      "events": [
+        {
+          "id": "evt_274",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント２日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_273",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント２日目。mikina参加",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-16",
+      "events": [
+        {
+          "id": "evt_272",
+          "title": "渋谷で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・渋谷でゲリライベント１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_271",
+          "title": "千羽で角パンしよ。",
+          "category": "EVENT",
+          "description": "東京・千羽でゲリライベント１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/56996898"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2025-06-15",
       "events": [
         {
-          "id": "evt_227",
+          "id": "evt_270",
           "title": "TOUR 2025 '(unfinished) odds and ends' 兵庫公演",
           "category": "live",
           "description": "兵庫県・神戸Harbor Studioにて開催。",
@@ -2328,7 +2796,7 @@
       "date": "2025-06-14",
       "events": [
         {
-          "id": "evt_226",
+          "id": "evt_269",
           "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@HMV & BOOKS SHINSAIBASHI",
           "category": "EVENT",
           "description": "大阪府・HMV & BOOKS SHINSAIBASHIにて開催。",
@@ -2346,7 +2814,7 @@
       "date": "2025-06-13",
       "events": [
         {
-          "id": "evt_225",
+          "id": "evt_268",
           "title": "TOUR 2025 '(unfinished) odds and ends' 千葉公演",
           "category": "live",
           "description": "千葉・柏PALOOZAにて開催。",
@@ -2364,7 +2832,7 @@
       "date": "2025-06-09",
       "events": [
         {
-          "id": "evt_224",
+          "id": "evt_267",
           "title": "NATSLIVE 'ExWHYZ モクテルディッシュ'",
           "category": "EVENT",
           "description": "東京都 NATSLIVE CAFE 表参道にて開催。",
@@ -2382,7 +2850,7 @@
       "date": "2025-06-05",
       "events": [
         {
-          "id": "evt_223",
+          "id": "evt_266",
           "title": "WACK in the UK vol.6",
           "category": "LIVE",
           "description": "UKにて開催。 ASP,豆柴の大群と対バン。",
@@ -2401,8 +2869,8 @@
       "date": "2025-06-01",
       "events": [
         {
-          "id": "evt_222",
-          "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店屋上イベントスペース",
+          "id": "evt_265",
+          "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店屋上イベントスペースにて開催。",
           "officialSource": {
@@ -2414,7 +2882,7 @@
           ]
         },
         {
-          "id": "evt_221",
+          "id": "evt_264",
           "title": "#maho生誕2025",
           "category": "birthday",
           "description": "maho生誕",
@@ -2432,7 +2900,7 @@
       "date": "2025-05-18",
       "events": [
         {
-          "id": "evt_220",
+          "id": "evt_263",
           "title": "TOUR 2025 '(unfinished) odds and ends' 愛知公演",
           "category": "live",
           "description": "愛知県・Electric Lady Landにて開催。",
@@ -2450,7 +2918,7 @@
       "date": "2025-05-17",
       "events": [
         {
-          "id": "evt_219",
+          "id": "evt_262",
           "title": "TOUR 2025 '(unfinished) odds and ends' 広島公演",
           "category": "live",
           "description": "広島県・LIVE VANQUISHにて開催。",
@@ -2468,7 +2936,7 @@
       "date": "2025-05-05",
       "events": [
         {
-          "id": "evt_218",
+          "id": "evt_261",
           "title": "TOUR 2025 '(unfinished) odds and ends' 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM Be-1にて開催。",
@@ -2486,7 +2954,7 @@
       "date": "2025-05-04",
       "events": [
         {
-          "id": "evt_217",
+          "id": "evt_260",
           "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@HMV&BOOKS HAKATA",
           "category": "EVENT",
           "description": "福岡県・HMV＆BOOKS HAKATAにて開催。",
@@ -2504,7 +2972,7 @@
       "date": "2025-05-03",
       "events": [
         {
-          "id": "evt_216",
+          "id": "evt_259",
           "title": "TOUR 2025 '(unfinished) odds and ends' 香川公演",
           "category": "live",
           "description": "香川県・DIMEにて開催。",
@@ -2522,7 +2990,7 @@
       "date": "2025-05-02",
       "events": [
         {
-          "id": "evt_215",
+          "id": "evt_258",
           "title": "「SHOWTIME」サプライズ配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -2540,7 +3008,7 @@
       "date": "2025-04-19",
       "events": [
         {
-          "id": "evt_214",
+          "id": "evt_257",
           "title": "ExWHYZ 1st Single「iD」発売記念リリースイベント@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。",
@@ -2558,7 +3026,7 @@
       "date": "2025-04-16",
       "events": [
         {
-          "id": "evt_213",
+          "id": "evt_256",
           "title": "#mayu生誕2025",
           "category": "birthday",
           "description": "mayu生誕",
@@ -2576,7 +3044,7 @@
       "date": "2025-04-06",
       "events": [
         {
-          "id": "evt_212",
+          "id": "evt_255",
           "title": "ExWHYZ presents 'CLUB Ex Vol.1'",
           "category": "live",
           "description": "東京都・Spotify O-EASTにて開催。",
@@ -2594,7 +3062,7 @@
       "date": "2025-03-30",
       "events": [
         {
-          "id": "evt_211",
+          "id": "evt_254",
           "title": "Could you still be WACKiNG TOUR@ 愛知 Zepp Nagoya",
           "category": "live",
           "description": "愛知県・Zepp Nagoyaにて開催。",
@@ -2612,7 +3080,7 @@
       "date": "2025-03-22",
       "events": [
         {
-          "id": "evt_210",
+          "id": "evt_253",
           "title": "Could you still be WACKiNG TOUR@ 大阪 なんばHatch",
           "category": "live",
           "description": "大阪府・なんばHatchにて開催。",
@@ -2630,7 +3098,7 @@
       "date": "2025-03-18",
       "events": [
         {
-          "id": "evt_209",
+          "id": "evt_252",
           "title": "#みきな生誕2025",
           "category": "birthday",
           "description": "mikina生誕",
@@ -2648,7 +3116,7 @@
       "date": "2025-03-15",
       "events": [
         {
-          "id": "evt_208",
+          "id": "evt_251",
           "title": "SAKURA MUSIC FES.",
           "category": "live",
           "description": "東京都・東京ポートシティ竹芝(ポートホール)にて開催。",
@@ -2666,7 +3134,7 @@
       "date": "2025-03-12",
       "events": [
         {
-          "id": "evt_207",
+          "id": "evt_250",
           "title": "GAZE a part of WACK TOUR 東京公演",
           "category": "live",
           "description": "東京都・Zepp DiverCityにて開催。",
@@ -2684,7 +3152,7 @@
       "date": "2025-03-09",
       "events": [
         {
-          "id": "evt_206",
+          "id": "evt_249",
           "title": "IDORISE!! FESTIVAL 2025",
           "category": "live",
           "description": "東京都・渋谷ライブハウスエリアにて開催。",
@@ -2702,7 +3170,7 @@
       "date": "2025-03-02",
       "events": [
         {
-          "id": "evt_205",
+          "id": "evt_248",
           "title": "AGESTOCK2025 in 国立代々木競技場 第一体育館",
           "category": "live",
           "description": "東京都・国立代々木競技場 第一体育館にて開催。",
@@ -2720,7 +3188,7 @@
       "date": "2025-02-24",
       "events": [
         {
-          "id": "evt_204",
+          "id": "evt_247",
           "title": "ロウルとアイドルフェス powered by KAWASAKI BRAVE THUNDERS",
           "category": "live",
           "description": "神奈川県・KT Zepp Yokohamaにて開催。",
@@ -2738,7 +3206,7 @@
       "date": "2025-02-23",
       "events": [
         {
-          "id": "evt_203",
+          "id": "evt_246",
           "title": "WACK JACK in TOWER RECORDS@セブンパークアリオ柏店・津田沼店・ららぽーとTOKYO BAY店",
           "category": "EVENT",
           "description": "千葉県 ・タワーレコード(セブンパークアリオ柏店/津田沼店/ららぽーとTOKYO BAY店)にて開催。",
@@ -2756,7 +3224,7 @@
       "date": "2025-02-15",
       "events": [
         {
-          "id": "evt_202",
+          "id": "evt_245",
           "title": "WACK JACK in TOWER RECORDS@アリオモール蘇我店",
           "category": "EVENT",
           "description": "千葉県・タワーレコードアリオモール蘇我店",
@@ -2774,7 +3242,7 @@
       "date": "2025-02-13",
       "events": [
         {
-          "id": "evt_201",
+          "id": "evt_244",
           "title": "SHINJUKU LOFT PRESENTS「SHINJUKU LOFT 2MAN SHOW」",
           "category": "live",
           "description": "東京都・新宿LOFTにて開催。",
@@ -2792,7 +3260,7 @@
       "date": "2025-02-10",
       "events": [
         {
-          "id": "evt_200",
+          "id": "evt_243",
           "title": "WACK JACK in TOWER RECORDS@横浜ビブレ店・川崎店・グランツリー武蔵小杉店・藤沢オーパ店・ビナウォーク海老名店",
           "category": "EVENT",
           "description": "神奈川県・タワーレコード(横浜ビブレ店/川崎店/グランツリー武蔵小杉店/藤沢オーパ店/ビナウォーク海老名店)にて開催。",
@@ -2810,7 +3278,7 @@
       "date": "2025-02-09",
       "events": [
         {
-          "id": "evt_199",
+          "id": "evt_242",
           "title": "WACK JACK in TOWER RECORDS＠新潟店・高崎オーパ店・上田店",
           "category": "EVENT",
           "description": "甲信越地方・タワーレコード(新潟店/高崎オーパ店/上田店)にて開催。",
@@ -2828,7 +3296,7 @@
       "date": "2025-02-03",
       "events": [
         {
-          "id": "evt_198",
+          "id": "evt_241",
           "title": "WACK JACK in TOWER RECORDS@イオン倉敷店・アリオ倉敷店・広島店",
           "category": "EVENT",
           "description": "中国地方・タワーレコード(イオン倉敷店/アリオ倉敷店/広島店)にて開催",
@@ -2846,7 +3314,7 @@
       "date": "2025-02-02",
       "events": [
         {
-          "id": "evt_197",
+          "id": "evt_240",
           "title": "GAZE a part of WACK TOUR 広島公演",
           "category": "live",
           "description": "広島県・LIVE VANQUISHにて開催。",
@@ -2864,7 +3332,7 @@
       "date": "2025-01-26",
       "events": [
         {
-          "id": "evt_196",
+          "id": "evt_239",
           "title": "GAZE a part of WACK TOUR 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM LOGOSにて開催。",
@@ -2882,7 +3350,7 @@
       "date": "2025-01-25",
       "events": [
         {
-          "id": "evt_195",
+          "id": "evt_238",
           "title": "WACK JACK in TOWER RECORDS @福岡パルコ店・アミュプラザ博多店・久留米店",
           "category": "EVENT",
           "description": "九州地方・タワーレコード(福岡パルコ店・アミュプラザ博多店・久留米店)にて開催。",
@@ -2900,7 +3368,7 @@
       "date": "2025-01-20",
       "events": [
         {
-          "id": "evt_194",
+          "id": "evt_237",
           "title": "HOKKAIDO MUSIC FESTIVAL 2025",
           "category": "live",
           "description": "北海道・東1丁目劇場にて開催。",
@@ -2918,7 +3386,7 @@
       "date": "2025-01-19",
       "events": [
         {
-          "id": "evt_193",
+          "id": "evt_236",
           "title": "Could you still be WACKiNG TOUR@ 宮城 仙台GIGS",
           "category": "live",
           "description": "宮城県・仙台GIGSにて開催。",
@@ -2936,7 +3404,7 @@
       "date": "2025-01-18",
       "events": [
         {
-          "id": "evt_192",
+          "id": "evt_235",
           "title": "WACK JACK in TOWER RECORDS @仙台パルコ店・盛岡店・郡山店",
           "category": "EVENT",
           "description": "東北地方・タワーレコード(仙台パルコ店・盛岡店・郡山店)にて開催。",
@@ -2954,7 +3422,7 @@
       "date": "2025-01-11",
       "events": [
         {
-          "id": "evt_191",
+          "id": "evt_234",
           "title": "Could you still be WACKiNG TOUR@ 東京 日比谷公園大音楽堂",
           "category": "live",
           "description": "東京都・日比谷公園大音楽堂にて開催。",
@@ -2967,7 +3435,7 @@
           ]
         },
         {
-          "id": "evt_190",
+          "id": "evt_233",
           "title": "WACK JACK in TOWER RECORDS@高松丸亀町店",
           "category": "EVENT",
           "description": "香川県・タワーレコード高松丸亀町店にて開催。",
@@ -2985,7 +3453,7 @@
       "date": "2025-01-10",
       "events": [
         {
-          "id": "evt_189",
+          "id": "evt_232",
           "title": "WACK JACK in TOWER RECORDS @渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店にて開催。",
@@ -3003,7 +3471,7 @@
       "date": "2024-12-27",
       "events": [
         {
-          "id": "evt_188",
+          "id": "evt_231",
           "title": "TOUR 2024 'HOPE' 東京公演",
           "category": "live",
           "description": "東京都・Zepp DiverCityにて開催。",
@@ -3021,7 +3489,7 @@
       "date": "2024-12-25",
       "events": [
         {
-          "id": "evt_187",
+          "id": "evt_230",
           "title": "TOUR 2024 'HOPE' 愛知公演",
           "category": "live",
           "description": "愛知県・DIAMOND HALLにて開催。",
@@ -3039,7 +3507,7 @@
       "date": "2024-12-22",
       "events": [
         {
-          "id": "evt_186",
+          "id": "evt_229",
           "title": "TOUR 2024 'HOPE' 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM LOGOSにて開催。",
@@ -3057,7 +3525,7 @@
       "date": "2024-12-15",
       "events": [
         {
-          "id": "evt_185",
+          "id": "evt_228",
           "title": "TOUR 2024 'HOPE' 北海道公演",
           "category": "live",
           "description": "北海道・札幌PENNY LANE24にて開催。",
@@ -3075,7 +3543,7 @@
       "date": "2024-12-14",
       "events": [
         {
-          "id": "evt_184",
+          "id": "evt_227",
           "title": "TOUR 2024 'HOPE' 北海道公演 (FC限定)",
           "category": "live",
           "description": "北海道・札幌PENNY LANE24にて開催。",
@@ -3093,7 +3561,7 @@
       "date": "2024-12-10",
       "events": [
         {
-          "id": "evt_183",
+          "id": "evt_226",
           "title": "#ゆーき生誕2024",
           "category": "birthday",
           "description": "yu-ki生誕",
@@ -3111,7 +3579,7 @@
       "date": "2024-12-08",
       "events": [
         {
-          "id": "evt_182",
+          "id": "evt_225",
           "title": "TOUR 2024 'HOPE' 大阪公演",
           "category": "live",
           "description": "大阪府・GORILLA HALL OSAKAにて開催。",
@@ -3129,7 +3597,7 @@
       "date": "2024-11-27",
       "events": [
         {
-          "id": "evt_181",
+          "id": "evt_224",
           "title": "WACK in the U.K. Vol.4",
           "category": "live",
           "description": "UKにて開催。ExWHYZ, ASP, モンアイと対バン。",
@@ -3148,7 +3616,7 @@
       "date": "2024-11-19",
       "events": [
         {
-          "id": "evt_180",
+          "id": "evt_223",
           "title": "mayu復帰発表",
           "category": "announcement",
           "description": "mayuの復帰を発表。",
@@ -3166,7 +3634,7 @@
       "date": "2024-10-31",
       "events": [
         {
-          "id": "evt_179",
+          "id": "evt_222",
           "title": "now脱退",
           "category": "announcement",
           "description": "nowが脱退、WACKを退所。",
@@ -3184,7 +3652,7 @@
       "date": "2024-10-26",
       "events": [
         {
-          "id": "evt_178",
+          "id": "evt_221",
           "title": "サンリオオールナイトハロウィンフェス「SPOOKY PUMPKIN 2024」",
           "category": "live",
           "description": "東京都・サンリオピューロランドにて開催。",
@@ -3202,7 +3670,7 @@
       "date": "2024-10-20",
       "events": [
         {
-          "id": "evt_177",
+          "id": "evt_220",
           "title": "TAMATAMA FESTIVAL 2024",
           "category": "EVENT",
           "description": "東京都・多摩センター駅周辺エリアにて開催。",
@@ -3220,7 +3688,7 @@
       "date": "2024-10-19",
       "events": [
         {
-          "id": "evt_176",
+          "id": "evt_219",
           "title": "TAMATAMA FESTIVAL 2024",
           "category": "EVENT",
           "description": "東京都・多摩センター駅周辺エリアにて開催。",
@@ -3235,11 +3703,29 @@
       ]
     },
     {
+      "date": "2024-10-15",
+      "events": [
+        {
+          "id": "evt_218",
+          "title": "mahoアパレルプロデュース第1弾",
+          "category": "announcement",
+          "description": "#まほ服つくってみた maho×Kitsonmeの発表",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1846159336399163613?s=20"
+          },
+          "tags": [
+            "発表"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2024-10-14",
       "events": [
         {
-          "id": "evt_175",
-          "title": "WACK10祭 ミニライブ&特典会@タワーレコード渋谷B1 CUT UP STUDIO",
+          "id": "evt_217",
+          "title": "WACK10祭 ミニライブ&特典会@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷B1 CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -3256,8 +3742,8 @@
       "date": "2024-10-11",
       "events": [
         {
-          "id": "evt_174",
-          "title": "WACK10祭 ミニライブ&特典会@タワーレコード渋谷B1 CUT UP STUDIO",
+          "id": "evt_216",
+          "title": "WACK10祭 ミニライブ&特典会@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷B1 CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -3274,7 +3760,7 @@
       "date": "2024-09-29",
       "events": [
         {
-          "id": "evt_173",
+          "id": "evt_215",
           "title": "【FCイベント】xYZ only Furuta after party '#俺とお前でかちゃーしーⅡ'",
           "category": "EVENT",
           "description": "沖縄県・桜坂セントラルにて開催。",
@@ -3292,7 +3778,7 @@
       "date": "2024-09-28",
       "events": [
         {
-          "id": "evt_172",
+          "id": "evt_214",
           "title": "Futura Free++ 'Summer Memories in OKINAWA'",
           "category": "live",
           "description": "沖縄県・桜坂セントラルにて開催。",
@@ -3310,7 +3796,7 @@
       "date": "2024-09-16",
       "events": [
         {
-          "id": "evt_171",
+          "id": "evt_213",
           "title": "MAWA LOOP AUTUMN 2024",
           "category": "live",
           "description": "大阪府・BIGCATにて開催。",
@@ -3328,7 +3814,7 @@
       "date": "2024-09-15",
       "events": [
         {
-          "id": "evt_170",
+          "id": "evt_212",
           "title": "mikina写真集 life ミーグリ&トークイベント",
           "category": "EVENT",
           "description": "東京都・豪華版購入者限定のミーグリ＆トークイベント。",
@@ -3346,7 +3832,7 @@
       "date": "2024-09-08",
       "events": [
         {
-          "id": "evt_169",
+          "id": "evt_211",
           "title": "Futura Free+ 'Reinforce' 東京公演",
           "category": "live",
           "description": "東京都・Zepp Shinjukuにて開催。",
@@ -3364,7 +3850,7 @@
       "date": "2024-09-01",
       "events": [
         {
-          "id": "evt_168",
+          "id": "evt_210",
           "title": "mikina写真集 life ミーグリ&トークイベント",
           "category": "EVENT",
           "description": "東京都・豪華版購入者限定のミーグリ＆トークイベント。",
@@ -3382,7 +3868,7 @@
       "date": "2024-08-18",
       "events": [
         {
-          "id": "evt_167",
+          "id": "evt_209",
           "title": "mikina写真集 life ミーグリ&トークイベント",
           "category": "EVENT",
           "description": "東京都・豪華版購入者限定のミーグリ＆トークイベント。",
@@ -3400,7 +3886,7 @@
       "date": "2024-08-17",
       "events": [
         {
-          "id": "evt_166",
+          "id": "evt_208",
           "title": "テレビ朝日・六本木ヒルズSUMMER STATION 音楽LIVE",
           "category": "live",
           "description": "東京都・SUMMER STATION LIVEアリーナにて開催。",
@@ -3418,7 +3904,7 @@
       "date": "2024-08-07",
       "events": [
         {
-          "id": "evt_165",
+          "id": "evt_207",
           "title": "midoriko脱退",
           "category": "announcement",
           "description": "midorikoが脱退、WACKを退所。",
@@ -3436,8 +3922,8 @@
       "date": "2024-08-04",
       "events": [
         {
-          "id": "evt_164",
-          "title": "Sweet&Sour リリイベ＠ タワーレコード渋谷店 B1F CUTUP STUDIO",
+          "id": "evt_206",
+          "title": "Sweet&Sour リリイベ＠ タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。",
           "officialSource": {
@@ -3454,7 +3940,7 @@
       "date": "2024-08-02",
       "events": [
         {
-          "id": "evt_163",
+          "id": "evt_205",
           "title": "TOKYO IDOL FESTIVAL 2024 supported by にしたんクリニック",
           "category": "LIVE",
           "description": "東京都・お台場・⻘海周辺エリアにて開催。",
@@ -3472,7 +3958,7 @@
       "date": "2024-08-01",
       "events": [
         {
-          "id": "evt_162",
+          "id": "evt_204",
           "title": "Sweet&Sour トークリリイベ＠ タワーレコード新宿店",
           "category": "EVENT",
           "description": "東京都・タワーレコード新宿店にて開催。",
@@ -3490,7 +3976,7 @@
       "date": "2024-07-31",
       "events": [
         {
-          "id": "evt_161",
+          "id": "evt_203",
           "title": "ExWHYZ TOUR 2024 'Futura Free'@Zepp Shinjuku [東京]",
           "category": "LIVE",
           "description": "東京都・Zepp Shinjukuにて開催。",
@@ -3503,7 +3989,7 @@
           ]
         },
         {
-          "id": "evt_160",
+          "id": "evt_202",
           "title": "EP「Sweet & Sour」リリース",
           "category": "release",
           "description": "EPリリース。",
@@ -3521,7 +4007,7 @@
       "date": "2024-07-29",
       "events": [
         {
-          "id": "evt_159",
+          "id": "evt_201",
           "title": "Sweet&Sour リリイベ＠ タワーレコード渋谷店 B1F CUTUP STUDIO",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。",
@@ -3539,7 +4025,7 @@
       "date": "2024-07-28",
       "events": [
         {
-          "id": "evt_158",
+          "id": "evt_200",
           "title": "TOUR 2024 'Futura Free' 茨城公演",
           "category": "live",
           "description": "茨城県・mito LIGHT HOUSEにて開催。",
@@ -3552,7 +4038,7 @@
           ]
         },
         {
-          "id": "evt_157",
+          "id": "evt_199",
           "title": "#うまれたなう2024",
           "category": "birthday",
           "description": "now生誕",
@@ -3570,8 +4056,8 @@
       "date": "2024-07-27",
       "events": [
         {
-          "id": "evt_156",
-          "title": "mikina写真集 life お渡し会＠ タワーレコード渋谷店 ５Fイベントスペース",
+          "id": "evt_198",
+          "title": "mikina写真集 life お渡し会＠ タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 ５Fイベントスペースにて開催。",
           "officialSource": {
@@ -3588,7 +4074,7 @@
       "date": "2024-07-24",
       "events": [
         {
-          "id": "evt_155",
+          "id": "evt_197",
           "title": "「ドラマ」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -3606,7 +4092,7 @@
       "date": "2024-07-21",
       "events": [
         {
-          "id": "evt_154",
+          "id": "evt_196",
           "title": "mikina写真集 life お渡し会＠ HMV&BOOKS渋谷店",
           "category": "EVENT",
           "description": "東京都・HMV&BOOKS渋谷店にて開催。",
@@ -3619,7 +4105,7 @@
           ]
         },
         {
-          "id": "evt_153",
+          "id": "evt_195",
           "title": "Sweet&Sour リリイベ＠ タワーレコード新宿店",
           "category": "EVENT",
           "description": "東京都・タワーレコード新宿店にて開催。",
@@ -3637,10 +4123,10 @@
       "date": "2024-07-19",
       "events": [
         {
-          "id": "evt_152",
+          "id": "evt_194",
           "title": "mikina写真集 life 発売",
           "category": "release",
-          "description": "mikina ファーストソロ写真集『life』 発売。",
+          "description": "mikina ファーストソロ写真集『life』　発売。",
           "officialSource": {
             "type": "official",
             "url": "https://x.com/ExWHYZ_official/status/1814102859316658311?s=20"
@@ -3655,7 +4141,7 @@
       "date": "2024-07-15",
       "events": [
         {
-          "id": "evt_151",
+          "id": "evt_193",
           "title": "TOUR 2024 'Futura Free' 宮城公演",
           "category": "live",
           "description": "宮城県・Rensaにて開催。",
@@ -3673,7 +4159,7 @@
       "date": "2024-07-14",
       "events": [
         {
-          "id": "evt_150",
+          "id": "evt_192",
           "title": "TOUR 2024 'Futura Free' 山形公演",
           "category": "live",
           "description": "山形県・Music Showa SESSIONにて開催。",
@@ -3691,7 +4177,7 @@
       "date": "2024-07-13",
       "events": [
         {
-          "id": "evt_149",
+          "id": "evt_191",
           "title": "TOUR 2024 'Futura Free' 岩手公演",
           "category": "live",
           "description": "岩手県・Morioka CLUB CHANGE WAVEにて開催。",
@@ -3709,7 +4195,7 @@
       "date": "2024-07-06",
       "events": [
         {
-          "id": "evt_148",
+          "id": "evt_190",
           "title": "TOUR 2024 'Futura Free' 石川公演",
           "category": "live",
           "description": "石川県・EIGHT HALLにて開催。",
@@ -3727,7 +4213,7 @@
       "date": "2024-06-30",
       "events": [
         {
-          "id": "evt_147",
+          "id": "evt_189",
           "title": "TOUR 2024 'Futura Free' 岡山公演",
           "category": "live",
           "description": "岡山県・CRAZYMAMA KINGDOMにて開催。",
@@ -3745,7 +4231,7 @@
       "date": "2024-06-29",
       "events": [
         {
-          "id": "evt_146",
+          "id": "evt_188",
           "title": "TOUR 2024 'Futura Free' 大阪公演",
           "category": "live",
           "description": "大阪府・club jouleにて開催。",
@@ -3763,7 +4249,7 @@
       "date": "2024-06-28",
       "events": [
         {
-          "id": "evt_145",
+          "id": "evt_187",
           "title": "Sweet&Sour リリイベ＠ HMV&BOOKS SHINSAIBASHI",
           "category": "EVENT",
           "description": "大阪府・HMV&BOOKS SHINSAIBASHIにて開催。",
@@ -3781,7 +4267,7 @@
       "date": "2024-06-27",
       "events": [
         {
-          "id": "evt_144",
+          "id": "evt_186",
           "title": "TOUR 2024 'Futura Free' 愛知公演",
           "category": "live",
           "description": "愛知県・DIAMOND HALLにて開催。",
@@ -3799,7 +4285,7 @@
       "date": "2024-06-26",
       "events": [
         {
-          "id": "evt_143",
+          "id": "evt_185",
           "title": "mayu活動休止",
           "category": "announcement",
           "description": "体調不良のため活動休止。",
@@ -3814,10 +4300,28 @@
       ]
     },
     {
+      "date": "2024-06-22",
+      "events": [
+        {
+          "id": "evt_184",
+          "title": "WACK WACKかくれんぼ",
+          "category": "EVENT",
+          "description": "WACKゲリライベント。東京都・yu-ki、mayu、mikina、宮城県・仙台 now、maho",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1801586131924095041?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2024-06-16",
       "events": [
         {
-          "id": "evt_142",
+          "id": "evt_183",
           "title": "TOUR 2024 'Futura Free' 静岡公演",
           "category": "live",
           "description": "静岡県・LiveHouse Hamamatsu Madowakuにて開催。",
@@ -3835,7 +4339,7 @@
       "date": "2024-06-15",
       "events": [
         {
-          "id": "evt_141",
+          "id": "evt_182",
           "title": "TOUR 2024 'Futura Free' 京都公演",
           "category": "live",
           "description": "京都県・KYOTO MUSEにて開催。",
@@ -3853,8 +4357,8 @@
       "date": "2024-06-09",
       "events": [
         {
-          "id": "evt_140",
-          "title": "Sweet&Sour リリイベ＠ タワーレコード渋谷店 B1F CUT UP STUDIO",
+          "id": "evt_181",
+          "title": "Sweet&Sour リリイベ＠ タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店 B1F CUT UP STUDIO",
           "officialSource": {
@@ -3871,7 +4375,7 @@
       "date": "2024-06-08",
       "events": [
         {
-          "id": "evt_139",
+          "id": "evt_180",
           "title": "TOUR 2024 'Futura Free' 神奈川公演",
           "category": "live",
           "description": "神奈川県・1000 CLUBにて開催。",
@@ -3889,7 +4393,7 @@
       "date": "2024-06-07",
       "events": [
         {
-          "id": "evt_138",
+          "id": "evt_179",
           "title": "「Sweet & Sour」先行配信開始",
           "category": "release",
           "description": "新曲を先行配信。",
@@ -3908,7 +4412,7 @@
       "date": "2024-06-02",
       "events": [
         {
-          "id": "evt_137",
+          "id": "evt_178",
           "title": "TOUR 2024 'Futura Free' 北海道公演",
           "category": "live",
           "description": "北海道・PENNY LANE 24にて開催。",
@@ -3926,7 +4430,7 @@
       "date": "2024-06-01",
       "events": [
         {
-          "id": "evt_136",
+          "id": "evt_177",
           "title": "Sweet&Sour リリイベ＠ノルベサ3Fイベントホール[札幌]",
           "category": "EVENT",
           "description": "北海道・ノルベサにて開催。",
@@ -3939,7 +4443,7 @@
           ]
         },
         {
-          "id": "evt_135",
+          "id": "evt_176",
           "title": "#maho生誕2024",
           "category": "birthday",
           "description": "maho生誕",
@@ -3957,7 +4461,7 @@
       "date": "2024-05-31",
       "events": [
         {
-          "id": "evt_134",
+          "id": "evt_175",
           "title": "TOUR 2024 'Futura Free' 埼玉公演",
           "category": "live",
           "description": "埼玉県・HEAVEN'S ROCK SAITAMA SHINTOSHIN VJ-3にて開催。",
@@ -3975,7 +4479,7 @@
       "date": "2024-05-26",
       "events": [
         {
-          "id": "evt_133",
+          "id": "evt_174",
           "title": "TOUR 2024 'Futura Free' 栃木公演",
           "category": "live",
           "description": "栃木県・HEAVEN'S ROCK UTSUNOMIYA VJ-2にて開催。",
@@ -3993,7 +4497,7 @@
       "date": "2024-05-19",
       "events": [
         {
-          "id": "evt_132",
+          "id": "evt_173",
           "title": "TOUR 2024 'Futura Free' 鹿児島公演",
           "category": "live",
           "description": "鹿児島県・CAPARVO HALLにて開催。",
@@ -4011,7 +4515,7 @@
       "date": "2024-05-18",
       "events": [
         {
-          "id": "evt_131",
+          "id": "evt_172",
           "title": "TOUR 2024 'Futura Free' 福岡公演",
           "category": "live",
           "description": "福岡県・LIVEHOUSE evoLにて開催。",
@@ -4029,7 +4533,7 @@
       "date": "2024-05-16",
       "events": [
         {
-          "id": "evt_130",
+          "id": "evt_171",
           "title": "#どりちゃん生誕2024",
           "category": "birthday",
           "description": "midoriko生誕",
@@ -4047,7 +4551,7 @@
       "date": "2024-05-11",
       "events": [
         {
-          "id": "evt_129",
+          "id": "evt_170",
           "title": "TOUR 2024 'Futura Free' 新潟公演",
           "category": "live",
           "description": "新潟県・NIIGATA LOTSにて開催。",
@@ -4065,7 +4569,7 @@
       "date": "2024-05-05",
       "events": [
         {
-          "id": "evt_128",
+          "id": "evt_169",
           "title": "TOUR 2024 'Futura Free' 香川公演",
           "category": "live",
           "description": "香川県・Takamatsu festhalleにて開催。",
@@ -4083,7 +4587,7 @@
       "date": "2024-05-04",
       "events": [
         {
-          "id": "evt_127",
+          "id": "evt_168",
           "title": "TOUR 2024 'Futura Free' 大阪公演",
           "category": "live",
           "description": "大阪府・UMEDA CLUB QUATTROにて開催.",
@@ -4101,7 +4605,7 @@
       "date": "2024-04-24",
       "events": [
         {
-          "id": "evt_126",
+          "id": "evt_167",
           "title": "「Fleeting」リリックビデオ公開",
           "category": "release",
           "description": "リリックビデオを公開。",
@@ -4116,10 +4620,26 @@
       ]
     },
     {
+      "date": "2024-04-21",
+      "events": [
+        {
+          "id": "evt_166",
+          "title": "チェリパレ2024",
+          "category": "live",
+          "description": "山形県・やまぎん県民ホールにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://cherry-pp.com/"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
       "date": "2024-04-16",
       "events": [
         {
-          "id": "evt_125",
+          "id": "evt_165",
           "title": "#mayu生誕2024",
           "category": "birthday",
           "description": "mayu生誕",
@@ -4137,7 +4657,7 @@
       "date": "2024-04-14",
       "events": [
         {
-          "id": "evt_124",
+          "id": "evt_164",
           "title": "SYNCHRONICITY’24",
           "category": "live",
           "description": "東京都・渋谷ライブハウスエリアにて開催。",
@@ -4155,7 +4675,7 @@
       "date": "2024-04-06",
       "events": [
         {
-          "id": "evt_123",
+          "id": "evt_163",
           "title": "プロバスケットボールクラブ 川崎ブレイブサンダース試合＠川崎市とどろきアリーナ",
           "category": "EVENT",
           "description": "神奈川県・川崎市とどろきアリーナにて開催。",
@@ -4173,7 +4693,7 @@
       "date": "2024-03-31",
       "events": [
         {
-          "id": "evt_122",
+          "id": "evt_162",
           "title": "Dress to Killリリイベ@キャナルシティ博多 B1F サンプラザステージ",
           "category": "EVENT",
           "description": "福岡県・キャナルシティ博多 B1F サンプラザステージにて開催。",
@@ -4191,10 +4711,10 @@
       "date": "2024-03-24",
       "events": [
         {
-          "id": "evt_112",
-          "title": "Dress to Killリリイベ@あべのキューズモール3F スカイコート",
+          "id": "evt_161",
+          "title": "Dress to Killリリイベ@あべのキューズモール",
           "category": "EVENT",
-          "description": "大阪府・あべのキューズモール3F スカイコートにて開催。",
+          "description": "大阪府・あべのキューズモール3F　スカイコートにて開催。",
           "officialSource": {
             "type": "official",
             "url": "https://www.exwhyz.jp/live_information/detail/10388"
@@ -4209,7 +4729,7 @@
       "date": "2024-03-23",
       "events": [
         {
-          "id": "evt_111",
+          "id": "evt_160",
           "title": "ExWHYZ presents 'SeihoWHYZ' 大阪公演",
           "category": "live",
           "description": "大阪府・味園ユニバースにて開催。",
@@ -4227,7 +4747,7 @@
       "date": "2024-03-22",
       "events": [
         {
-          "id": "evt_110",
+          "id": "evt_159",
           "title": "Dress to Killリリイベ@タワーレコード八王子店",
           "category": "EVENT",
           "description": "東京都・タワーレコード八王子店にて開催。",
@@ -4245,7 +4765,7 @@
       "date": "2024-03-20",
       "events": [
         {
-          "id": "evt_109",
+          "id": "evt_158",
           "title": "アルバム「Dress to Kill」リリース",
           "category": "release",
           "description": "アルバムをリリース。",
@@ -4258,7 +4778,7 @@
           ]
         },
         {
-          "id": "evt_108",
+          "id": "evt_157",
           "title": "Dress to Killリリイベ@タワーレコード新宿店",
           "category": "EVENT",
           "description": "東京都・タワーレコード新宿店にて開催。",
@@ -4276,7 +4796,7 @@
       "date": "2024-03-18",
       "events": [
         {
-          "id": "evt_107",
+          "id": "evt_156",
           "title": "Dress to Killリリイベ@タワーレコード渋谷店B1F CUT UP STUDIO",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店B1F CUT UP STUDIOにて開催。",
@@ -4287,6 +4807,19 @@
           "tags": [
             "イベント"
           ]
+        },
+        {
+          "id": "evt_155",
+          "title": "#みきな生誕2024",
+          "category": "birthday",
+          "description": "mikina生誕",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/mikina_ExWHYZ/status/1769736876695642619?s=20"
+          },
+          "tags": [
+            "生誕"
+          ]
         }
       ]
     },
@@ -4294,7 +4827,7 @@
       "date": "2024-03-16",
       "events": [
         {
-          "id": "evt_106",
+          "id": "evt_154",
           "title": "Dress to Killリリパ@代官山 晴れたら空に豆まいて",
           "category": "EVENT",
           "description": "東京都・晴れたら空に豆まいてにて開催。",
@@ -4312,7 +4845,7 @@
       "date": "2024-03-14",
       "events": [
         {
-          "id": "evt_105",
+          "id": "evt_153",
           "title": "ExWHYZ presents 'SeihoWHYZ' 東京公演",
           "category": "live",
           "description": "東京都・Spotify O-EASTにて開催。",
@@ -4330,10 +4863,10 @@
       "date": "2024-03-13",
       "events": [
         {
-          "id": "evt_104",
-          "title": "Dress to Killリリイベ@タワーレコード名古屋近鉄パッセ店 屋上",
+          "id": "evt_152",
+          "title": "Dress to Killリリイベ@タワーレコード名古屋近鉄パッセ店",
           "category": "EVENT",
-          "description": "東京都・タワーレコード名古屋近鉄パッセ店 屋上にて開催。",
+          "description": "東京都・タワーレコード名古屋近鉄パッセ店　屋上にて開催。",
           "officialSource": {
             "type": "official",
             "url": "https://www.exwhyz.jp/live_information/detail/10087"
@@ -4348,7 +4881,7 @@
       "date": "2024-03-12",
       "events": [
         {
-          "id": "evt_103",
+          "id": "evt_151",
           "title": "ExWHYZ presents 'SeihoWHYZ' 愛知公演",
           "category": "live",
           "description": "愛知県・クラブクワトロにて開催。",
@@ -4366,10 +4899,10 @@
       "date": "2024-03-10",
       "events": [
         {
-          "id": "evt_102",
-          "title": "Dress to Killリリイベ@タワーレコード渋谷店 屋上",
+          "id": "evt_150",
+          "title": "Dress to Killリリイベ@タワーレコード渋谷店",
           "category": "EVENT",
-          "description": "東京都・タワーレコード渋谷店 屋上にて開催。",
+          "description": "東京都・タワーレコード渋谷店　屋上にて開催。",
           "officialSource": {
             "type": "official",
             "url": "https://www.exwhyz.jp/live_information/detail/10086"
@@ -4384,7 +4917,7 @@
       "date": "2024-03-09",
       "events": [
         {
-          "id": "evt_101",
+          "id": "evt_149",
           "title": "Dress to Killリリイベ@HMV仙台E BeanS屋上",
           "category": "EVENT",
           "description": "宮城県・HMV仙台E BeanS屋上にて開催。",
@@ -4402,7 +4935,7 @@
       "date": "2024-03-03",
       "events": [
         {
-          "id": "evt_100",
+          "id": "evt_148",
           "title": "AGESTOCK2024 in 国立代々木競技場 第一体育館",
           "category": "live",
           "description": "東京都・国立代々木競技場 第一体育館にて開催。",
@@ -4420,8 +4953,8 @@
       "date": "2024-03-02",
       "events": [
         {
-          "id": "evt_099",
-          "title": "Dress to Killリリイベ@タワーレコード渋谷店B1F CUT UP STUDIO",
+          "id": "evt_147",
+          "title": "Dress to Killリリイベ@タワーレコード渋谷店",
           "category": "EVENT",
           "description": "東京都・タワーレコード渋谷店B1F CUT UP STUDIOにて開催。",
           "officialSource": {
@@ -4438,7 +4971,7 @@
       "date": "2024-03-01",
       "events": [
         {
-          "id": "evt_098",
+          "id": "evt_146",
           "title": "PiZZA WACKful WORLD TOUR@Zepp DiverCity[東京]",
           "category": "live",
           "description": "東京都・Zepp DiverCityにて開催。",
@@ -4456,7 +4989,7 @@
       "date": "2024-02-24",
       "events": [
         {
-          "id": "evt_097",
+          "id": "evt_145",
           "title": "PiZZA WACKful WORLD TOUR@Zepp Sapporo[北海道]",
           "category": "live",
           "description": "北海道・Zepp Sapporoにて開催。",
@@ -4474,7 +5007,7 @@
       "date": "2024-02-11",
       "events": [
         {
-          "id": "evt_096",
+          "id": "evt_144",
           "title": "PiZZA WACKful WORLD TOUR@なんばHatch[大阪]",
           "category": "live",
           "description": "大阪府・なんばHatchにて開催。",
@@ -4492,7 +5025,7 @@
       "date": "2024-02-10",
       "events": [
         {
-          "id": "evt_095",
+          "id": "evt_143",
           "title": "PiZZA WACKful WORLD TOUR@DIAMOND HALL[愛知]",
           "category": "live",
           "description": "愛知県・DIAMOND HALLにて開催。",
@@ -4510,8 +5043,8 @@
       "date": "2024-02-04",
       "events": [
         {
-          "id": "evt_094",
-          "title": "PiZZA WACKful WORLD TOUR@ festhalle[香川]",
+          "id": "evt_142",
+          "title": "PiZZA WACKful WORLD TOUR@festhalle[香川]",
           "category": "live",
           "description": "香川県・festhalleにて開催。",
           "officialSource": {
@@ -4528,7 +5061,7 @@
       "date": "2024-02-03",
       "events": [
         {
-          "id": "evt_093",
+          "id": "evt_141",
           "title": "PiZZA WACKful WORLD TOUR@BLUE LIVE [広島]",
           "category": "live",
           "description": "広島県・BLUE LIVEにて開催。",
@@ -4546,7 +5079,7 @@
       "date": "2024-02-02",
       "events": [
         {
-          "id": "evt_092",
+          "id": "evt_140",
           "title": "「Unknown Sense」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -4564,7 +5097,7 @@
       "date": "2024-01-27",
       "events": [
         {
-          "id": "evt_091",
+          "id": "evt_139",
           "title": "PiZZA WACKful WORLD TOUR@DRUM LOGOS [福岡]",
           "category": "live",
           "description": "福岡県・DRUM LOGOSにて開催。",
@@ -4582,7 +5115,7 @@
       "date": "2024-01-20",
       "events": [
         {
-          "id": "evt_090",
+          "id": "evt_138",
           "title": "PiZZA WACKful WORLD TOUR@仙台GIGS [宮城]",
           "category": "live",
           "description": "宮城県・仙台GIGSにて開催。",
@@ -4600,7 +5133,7 @@
       "date": "2024-01-13",
       "events": [
         {
-          "id": "evt_089",
+          "id": "evt_137",
           "title": "PiZZA WACKful WORLD TOUR@CLUB CITTA' [神奈川]",
           "category": "live",
           "description": "神奈川県・CLUB CITTA'にて開催。",
@@ -4618,7 +5151,7 @@
       "date": "2024-01-12",
       "events": [
         {
-          "id": "evt_088",
+          "id": "evt_136",
           "title": "「Our Song」配信・MV公開",
           "category": "release",
           "description": "カバー曲を配信・MV公開。",
@@ -4637,7 +5170,7 @@
       "date": "2023-12-29",
       "events": [
         {
-          "id": "evt_087",
+          "id": "evt_135",
           "title": "Date fm RADIO GIGA 令和05",
           "category": "live",
           "description": "宮城県・SENDAI PITにて開催。",
@@ -4652,10 +5185,64 @@
       ]
     },
     {
+      "date": "2023-12-17",
+      "events": [
+        {
+          "id": "evt_134",
+          "title": "FRONT ROW by UUUM「Shall we..??」ポップアップ @ラフォーレ原宿",
+          "category": "イベント",
+          "description": "東京都・ラフォーレ原宿でPOP UP。購入対象者お渡し会。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.exwhyz.jp/news/detail/19308"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-12-16",
+      "events": [
+        {
+          "id": "evt_133",
+          "title": "FRONT ROW by UUUM「Shall we..??」ポップアップ @ラフォーレ原宿",
+          "category": "イベント",
+          "description": "東京都・ラフォーレ原宿でPOP UP。購入対象者お渡し会。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.exwhyz.jp/news/detail/19308"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-12-15",
+      "events": [
+        {
+          "id": "evt_132",
+          "title": "FRONT ROW by UUUM「Shall we..??」ポップアップ @ラフォーレ原宿",
+          "category": "イベント",
+          "description": "東京都・ラフォーレ原宿でPOP UP。購入対象者お渡し会。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.exwhyz.jp/news/detail/19308"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-12-13",
       "events": [
         {
-          "id": "evt_086",
+          "id": "evt_131",
           "title": "TOUR 2023 'eLATION' part.3 東京公演",
           "category": "live",
           "description": "東京都・Shibuya WOMB LIVEにて開催。",
@@ -4673,7 +5260,7 @@
       "date": "2023-12-10",
       "events": [
         {
-          "id": "evt_093",
+          "id": "evt_130",
           "title": "#ゆーき生誕2023",
           "category": "birthday",
           "description": "yu-ki生誕",
@@ -4691,7 +5278,7 @@
       "date": "2023-12-09",
       "events": [
         {
-          "id": "evt_085",
+          "id": "evt_129",
           "title": "TOUR 2023 'eLATION' part.3 大阪公演",
           "category": "live",
           "description": "大阪府・CLUB PICCADILLY UMEDA OSAKAにて開催。",
@@ -4709,7 +5296,7 @@
       "date": "2023-11-26",
       "events": [
         {
-          "id": "evt_084",
+          "id": "evt_128",
           "title": "ちかっぱ祭",
           "category": "live",
           "description": "福岡県・福岡サンパレスにて開催。",
@@ -4727,7 +5314,7 @@
       "date": "2023-11-25",
       "events": [
         {
-          "id": "evt_083",
+          "id": "evt_127",
           "title": "TOUR 2023 'eLATION' part.3 福岡公演",
           "category": "live",
           "description": "福岡県・LIVEHOUSE evoLにて開催。",
@@ -4745,7 +5332,7 @@
       "date": "2023-11-24",
       "events": [
         {
-          "id": "evt_082",
+          "id": "evt_126",
           "title": "「6WHYZ」MV公開",
           "category": "release",
           "description": "MVを公開。",
@@ -4763,7 +5350,7 @@
       "date": "2023-11-05",
       "events": [
         {
-          "id": "evt_081",
+          "id": "evt_125",
           "title": "IDOLSQUARE @豊洲PIT",
           "category": "live",
           "description": "東京都・豊洲PITにて開催。",
@@ -4781,7 +5368,7 @@
       "date": "2023-10-22",
       "events": [
         {
-          "id": "evt_080",
+          "id": "evt_124",
           "title": "TAMATAMA FESTIVAL 2023",
           "category": "EVENT",
           "description": "東京都・旧・西落合中学校／多摩センター駅前エリアにて開催。",
@@ -4799,7 +5386,7 @@
       "date": "2023-10-21",
       "events": [
         {
-          "id": "evt_079",
+          "id": "evt_123",
           "title": "TAMATAMA FESTIVAL 2023",
           "category": "EVENT",
           "description": "東京都・旧・西落合中学校／多摩センター駅前エリアにて開催。",
@@ -4817,7 +5404,7 @@
       "date": "2023-10-19",
       "events": [
         {
-          "id": "evt_078",
+          "id": "evt_122",
           "title": "TOUR 2023 'eLATION' part.2 東京公演",
           "category": "live",
           "description": "東京都・Zepp Hanedaにて開催。",
@@ -4830,7 +5417,7 @@
           ]
         },
         {
-          "id": "evt_077",
+          "id": "evt_121",
           "title": "「As you wish」配信",
           "category": "release",
           "description": "新曲配信。",
@@ -4848,7 +5435,7 @@
       "date": "2023-10-18",
       "events": [
         {
-          "id": "evt_076",
+          "id": "evt_120",
           "title": "1st EP「HOW HIGH?」リリース",
           "category": "release",
           "description": "EPをリリース。",
@@ -4866,7 +5453,7 @@
       "date": "2023-10-15",
       "events": [
         {
-          "id": "evt_075",
+          "id": "evt_119",
           "title": "TOUR 2023 'eLATION' part.2 大阪公演",
           "category": "live",
           "description": "大阪府・Zepp Osaka Baysideにて開催。",
@@ -4884,7 +5471,7 @@
       "date": "2023-10-14",
       "events": [
         {
-          "id": "evt_074",
+          "id": "evt_118",
           "title": "TOUR 2023 'eLATION' part.2 愛知公演",
           "category": "live",
           "description": "愛知県・Zepp Nagoyaにて開催。",
@@ -4902,7 +5489,7 @@
       "date": "2023-10-07",
       "events": [
         {
-          "id": "evt_073",
+          "id": "evt_117",
           "title": "ExWHYZ presents HOW HIGH? RELEASE PARTY!!!!!",
           "category": "live",
           "description": "東京都・ATOM TOKYOにて開催。",
@@ -4920,7 +5507,7 @@
       "date": "2023-09-24",
       "events": [
         {
-          "id": "evt_072",
+          "id": "evt_116",
           "title": "TOUR 2023 'eLATION' part.1 沖縄公演 (FC限定)",
           "category": "live",
           "description": "沖縄県・沖縄Outputにて開催。",
@@ -4938,7 +5525,7 @@
       "date": "2023-09-23",
       "events": [
         {
-          "id": "evt_071",
+          "id": "evt_115",
           "title": "TOUR 2023 'eLATION' part.1 沖縄公演",
           "category": "live",
           "description": "沖縄県・沖縄Outputにて開催。",
@@ -4956,7 +5543,7 @@
       "date": "2023-09-17",
       "events": [
         {
-          "id": "evt_070",
+          "id": "evt_114",
           "title": "TOUR 2023 'eLATION' part.1 札幌公演",
           "category": "live",
           "description": "北海道・ペニーレーン24にて開催。",
@@ -4974,7 +5561,7 @@
       "date": "2023-09-16",
       "events": [
         {
-          "id": "evt_069",
+          "id": "evt_113",
           "title": "「ExWHYZ LIVE at BUDOKAN the FIRST STEP」リリイベ＠HMV札幌ステラプレイス",
           "category": "EVENT",
           "description": "北海道・HMV札幌ステラプレイスにて開催。",
@@ -4992,7 +5579,7 @@
       "date": "2023-09-10",
       "events": [
         {
-          "id": "evt_068",
+          "id": "evt_112",
           "title": "「ExWHYZ LIVE at BUDOKAN the FIRST STEP」リリイベ＠タワーレコード福岡パルコ店",
           "category": "EVENT",
           "description": "福岡県・タワーレコード福岡パルコ店にて開催。",
@@ -5010,7 +5597,7 @@
       "date": "2023-09-09",
       "events": [
         {
-          "id": "evt_067",
+          "id": "evt_111",
           "title": "TOUR 2023 'eLATION' part.1 横浜公演",
           "category": "live",
           "description": "神奈川県・BAY HALLにて開催。",
@@ -5028,7 +5615,7 @@
       "date": "2023-09-08",
       "events": [
         {
-          "id": "evt_066",
+          "id": "evt_110",
           "title": "「NOT SORRY」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -5047,7 +5634,7 @@
       "date": "2023-09-03",
       "events": [
         {
-          "id": "evt_065",
+          "id": "evt_109",
           "title": "TOUR 2023 'eLATION' part.1 広島公演",
           "category": "live",
           "description": "広島県・CLUB QUATTROにて開催。",
@@ -5065,7 +5652,7 @@
       "date": "2023-09-02",
       "events": [
         {
-          "id": "evt_064",
+          "id": "evt_108",
           "title": "TOUR 2023 'eLATION' part.1 岡山公演",
           "category": "live",
           "description": "岡山県・エビスヤプロにて開催。",
@@ -5083,7 +5670,7 @@
       "date": "2023-08-27",
       "events": [
         {
-          "id": "evt_063",
+          "id": "evt_107",
           "title": "TOUR 2023 'eLATION' part.1 松山公演",
           "category": "live",
           "description": "愛媛県・WStudioREDにて開催。",
@@ -5101,7 +5688,7 @@
       "date": "2023-08-26",
       "events": [
         {
-          "id": "evt_062",
+          "id": "evt_106",
           "title": "TOUR 2023 'eLATION' part.1 香川公演",
           "category": "live",
           "description": "香川県・高松festhalleにて開催。",
@@ -5119,7 +5706,7 @@
       "date": "2023-08-23",
       "events": [
         {
-          "id": "evt_061",
+          "id": "evt_105",
           "title": "「Moonlight, Sunlight」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -5138,7 +5725,7 @@
       "date": "2023-08-20",
       "events": [
         {
-          "id": "evt_060",
+          "id": "evt_104",
           "title": "TOUR 2023 'eLATION' part.1 福岡公演",
           "category": "live",
           "description": "福岡県・DRUM LOGOSにて開催。",
@@ -5156,7 +5743,7 @@
       "date": "2023-08-19",
       "events": [
         {
-          "id": "evt_059",
+          "id": "evt_103",
           "title": "TOUR 2023 'eLATION' part.1 熊本公演",
           "category": "live",
           "description": "熊本県・B.9 V1にて開催。",
@@ -5174,7 +5761,7 @@
       "date": "2023-08-13",
       "events": [
         {
-          "id": "evt_058",
+          "id": "evt_102",
           "title": "World University Basketball Series（WUBS）",
           "category": "EVENT",
           "description": "東京都・代々木第二体育館にて開催。",
@@ -5192,7 +5779,7 @@
       "date": "2023-08-12",
       "events": [
         {
-          "id": "evt_057",
+          "id": "evt_101",
           "title": "TOUR 2023 'eLATION' part.1 長野公演",
           "category": "live",
           "description": "長野県・CLUB JUNK BOXにて開催。",
@@ -5210,7 +5797,7 @@
       "date": "2023-08-11",
       "events": [
         {
-          "id": "evt_056",
+          "id": "evt_100",
           "title": "TOUR 2023 'eLATION' part.1 金沢公演",
           "category": "live",
           "description": "石川県・Eight Hallにて開催。",
@@ -5228,7 +5815,7 @@
       "date": "2023-08-06",
       "events": [
         {
-          "id": "evt_055",
+          "id": "evt_099",
           "title": "TOUR 2023 'eLATION' part.1 郡山公演",
           "category": "live",
           "description": "福島県・Hip Shot Japanにて開催。",
@@ -5246,7 +5833,7 @@
       "date": "2023-08-05",
       "events": [
         {
-          "id": "evt_054",
+          "id": "evt_098",
           "title": "TOUR 2023 'eLATION' part.1 仙台公演",
           "category": "live",
           "description": "宮城県・Rensaにて開催。",
@@ -5264,7 +5851,7 @@
       "date": "2023-07-30",
       "events": [
         {
-          "id": "evt_053",
+          "id": "evt_097",
           "title": "TOUR 2023 'eLATION' part.1 新潟公演",
           "category": "live",
           "description": "新潟県・LOTSにて開催。",
@@ -5282,7 +5869,7 @@
       "date": "2023-07-28",
       "events": [
         {
-          "id": "evt_052",
+          "id": "evt_096",
           "title": "TOUR 2023 'eLATION' part.1 渋谷公演",
           "category": "live",
           "description": "東京府・WWW Xにて開催。",
@@ -5295,7 +5882,7 @@
           ]
         },
         {
-          "id": "evt_058",
+          "id": "evt_095",
           "title": "#うまれたなう2023",
           "category": "birthday",
           "description": "now生誕",
@@ -5313,7 +5900,7 @@
       "date": "2023-07-27",
       "events": [
         {
-          "id": "evt_051",
+          "id": "evt_094",
           "title": "midoriko再度活動休止",
           "category": "announcement",
           "description": "体調不良のため活動休止。",
@@ -5331,7 +5918,7 @@
       "date": "2023-07-22",
       "events": [
         {
-          "id": "evt_050",
+          "id": "evt_093",
           "title": "テレビ朝日・六本木ヒルズSUMMER STATION 音楽LIVE",
           "category": "live",
           "description": "東京都・SUMMER STATION LIVEアリーナ （六本木ヒルズアリーナ）にて開催。",
@@ -5349,7 +5936,7 @@
       "date": "2023-07-17",
       "events": [
         {
-          "id": "evt_049",
+          "id": "evt_092",
           "title": "TOUR 2023 'eLATION' part.1 浜松公演",
           "category": "live",
           "description": "静岡県・LiveHouse浜松窓枠にて開催。",
@@ -5367,7 +5954,7 @@
       "date": "2023-07-16",
       "events": [
         {
-          "id": "evt_048",
+          "id": "evt_091",
           "title": "TOUR 2023 'eLATION' part.1 京都公演",
           "category": "live",
           "description": "京都府・MUSEにて開催。",
@@ -5385,7 +5972,7 @@
       "date": "2023-07-15",
       "events": [
         {
-          "id": "evt_047",
+          "id": "evt_090",
           "title": "TOUR 2023 'eLATION' part.1 神戸公演",
           "category": "live",
           "description": "兵庫県・VARITにて開催。",
@@ -5403,7 +5990,7 @@
       "date": "2023-07-09",
       "events": [
         {
-          "id": "evt_046",
+          "id": "evt_089",
           "title": "TOUR 2023 'eLATION' part.1 水戸公演",
           "category": "live",
           "description": "茨城県・LIGHT HOUSEにて開催。",
@@ -5421,7 +6008,7 @@
       "date": "2023-07-05",
       "events": [
         {
-          "id": "evt_045",
+          "id": "evt_088",
           "title": "「フラチナサマー」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -5437,10 +6024,283 @@
       ]
     },
     {
+      "date": "2023-06-30",
+      "events": [
+        {
+          "id": "evt_087",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-29",
+      "events": [
+        {
+          "id": "evt_086",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-28",
+      "events": [
+        {
+          "id": "evt_085",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-27",
+      "events": [
+        {
+          "id": "evt_084",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-26",
+      "events": [
+        {
+          "id": "evt_083",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_081",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-25",
+      "events": [
+        {
+          "id": "evt_082",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_080",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-24",
+      "events": [
+        {
+          "id": "evt_079",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-23",
+      "events": [
+        {
+          "id": "evt_078",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-22",
+      "events": [
+        {
+          "id": "evt_077",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-21",
+      "events": [
+        {
+          "id": "evt_076",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-20",
+      "events": [
+        {
+          "id": "evt_075",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-19",
+      "events": [
+        {
+          "id": "evt_074",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-18",
+      "events": [
+        {
+          "id": "evt_073",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-06-17",
       "events": [
         {
-          "id": "evt_044",
+          "id": "evt_072",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_071",
           "title": "AYAKARNIVAL2023",
           "category": "live",
           "description": "東京都・EX THEATER ROPPONGIにて開催。",
@@ -5455,10 +6315,64 @@
       ]
     },
     {
+      "date": "2023-06-16",
+      "events": [
+        {
+          "id": "evt_070",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-15",
+      "events": [
+        {
+          "id": "evt_069",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-14",
+      "events": [
+        {
+          "id": "evt_068",
+          "title": "WACKはしぶといぞ。渋谷だけに。",
+          "category": "EVENT",
+          "description": "東京都・WACKの渋谷ジャックイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/44498704"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-06-01",
       "events": [
         {
-          "id": "evt_049",
+          "id": "evt_067",
           "title": "#maho生誕2023",
           "category": "birthday",
           "description": "maho生誕",
@@ -5476,7 +6390,7 @@
       "date": "2023-05-27",
       "events": [
         {
-          "id": "evt_043",
+          "id": "evt_066",
           "title": "UPRISING TOKYO サタデーナイトライブ",
           "category": "EVENT",
           "description": "東京都・有明アリーナにて開催。",
@@ -5494,7 +6408,7 @@
       "date": "2023-05-21",
       "events": [
         {
-          "id": "evt_042",
+          "id": "evt_065",
           "title": "now写真集 やみつきガール お渡し会 ＠ HMV&BOOKS SHIBUYA",
           "category": "EVENT",
           "description": "東京都・HMV&BOOKS SHIBUYAにて開催。",
@@ -5512,7 +6426,7 @@
       "date": "2023-05-19",
       "events": [
         {
-          "id": "evt_041",
+          "id": "evt_064",
           "title": "now写真集 やみつきガール 発売",
           "category": "release",
           "description": "now初のフォトブック「やみつきガール」発売。",
@@ -5530,7 +6444,7 @@
       "date": "2023-05-16",
       "events": [
         {
-          "id": "evt_045",
+          "id": "evt_063",
           "title": "#どりちゃん生誕2023",
           "category": "birthday",
           "description": "midoriko生誕",
@@ -5548,7 +6462,7 @@
       "date": "2023-05-13",
       "events": [
         {
-          "id": "evt_040",
+          "id": "evt_062",
           "title": "LIVE at BUDOKAN the FIRST STEP",
           "category": "live",
           "description": "東京都・日本武道館にて開催。",
@@ -5566,7 +6480,7 @@
       "date": "2023-05-07",
       "events": [
         {
-          "id": "evt_039",
+          "id": "evt_061",
           "title": "U-ZONE LIVE @ 日比谷公園大音楽堂",
           "category": "live",
           "description": "東京都・日比谷公園大音楽堂にて開催。",
@@ -5584,7 +6498,7 @@
       "date": "2023-04-25",
       "events": [
         {
-          "id": "evt_038",
+          "id": "evt_060",
           "title": "TOUR 2023 xANADU 愛知公演",
           "category": "live",
           "description": "愛知県・NAGOYA CLUB QUATTROにて開催。",
@@ -5602,7 +6516,7 @@
       "date": "2023-04-24",
       "events": [
         {
-          "id": "evt_037",
+          "id": "evt_059",
           "title": "TOUR 2023 xANADU 大阪公演",
           "category": "live",
           "description": "大阪府・UMEDA CLUB QUATTROにて開催。",
@@ -5620,7 +6534,7 @@
       "date": "2023-04-19",
       "events": [
         {
-          "id": "evt_036",
+          "id": "evt_058",
           "title": "2ndアルバム「xANADU」リリース",
           "category": "release",
           "description": "アルバムリリース。同日、",
@@ -5633,7 +6547,7 @@
           ]
         },
         {
-          "id": "evt_035",
+          "id": "evt_057",
           "title": "ExWHYZ presents BiSHWHYZ",
           "category": "live",
           "description": "東京都・Zepp HanedaにてBiSHとのツーマン開催。",
@@ -5651,7 +6565,7 @@
       "date": "2023-04-16",
       "events": [
         {
-          "id": "evt_034",
+          "id": "evt_056",
           "title": "TOUR 2023 xANADU 広島公演",
           "category": "live",
           "description": "広島県・HIROSHIMA CLUB QUATTROにて開催。",
@@ -5664,7 +6578,7 @@
           ]
         },
         {
-          "id": "evt_037",
+          "id": "evt_055",
           "title": "#mayu生誕2023",
           "category": "birthday",
           "description": "mayu生誕",
@@ -5682,7 +6596,7 @@
       "date": "2023-04-15",
       "events": [
         {
-          "id": "evt_033",
+          "id": "evt_054",
           "title": "ExWHYZ presents xANADU RELEASE PARTY at FUKUOKA!!!! @ Club Canan",
           "category": "live",
           "description": "福岡県・Club Cananにて開催。",
@@ -5700,7 +6614,7 @@
       "date": "2023-04-01",
       "events": [
         {
-          "id": "evt_032",
+          "id": "evt_053",
           "title": "TOUR 2023 xANADU 東京公演 / ayuni加入",
           "category": "live",
           "description": "東京都・Zepp Hanedaにて開催。アユニ・Dが1日限定加入。",
@@ -5719,7 +6633,7 @@
       "date": "2023-03-25",
       "events": [
         {
-          "id": "evt_031",
+          "id": "evt_052",
           "title": "「Des Speeching」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -5731,6 +6645,127 @@
             "配信",
             "MV"
           ]
+        },
+        {
+          "id": "evt_051",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。７日目。現役メンバーとしてmahoが参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-24",
+      "events": [
+        {
+          "id": "evt_050",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。６日目。現役メンバーとしてmahoが参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-23",
+      "events": [
+        {
+          "id": "evt_049",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。５日目。現役メンバーとしてmahoが参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-22",
+      "events": [
+        {
+          "id": "evt_048",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。４日目。現役メンバーとしてmahoが参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-21",
+      "events": [
+        {
+          "id": "evt_047",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。３日目。現役メンバーとしてmahoが参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-20",
+      "events": [
+        {
+          "id": "evt_046",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。２日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-03-19",
+      "events": [
+        {
+          "id": "evt_045",
+          "title": "WACKオーデ2023 #それいけまほちゃん",
+          "category": "EVENT",
+          "description": "千葉県・WACKの合同オーディション。１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://storywriter.tokyo/2023/03/19/6081/"
+          },
+          "tags": [
+            "イベント"
+          ]
         }
       ]
     },
@@ -5738,7 +6773,7 @@
       "date": "2023-03-18",
       "events": [
         {
-          "id": "evt_030",
+          "id": "evt_044",
           "title": "「ANSWER」配信開始",
           "category": "release",
           "description": "新曲を配信。",
@@ -5752,7 +6787,7 @@
           ]
         },
         {
-          "id": "evt_032",
+          "id": "evt_043",
           "title": "#みきな生誕2023",
           "category": "EVENT",
           "description": "mikina生誕",
@@ -5770,7 +6805,7 @@
       "date": "2023-03-04",
       "events": [
         {
-          "id": "evt_029",
+          "id": "evt_042",
           "title": "リリースパーティ",
           "category": "live",
           "description": "東京都・WOMBにて開催。",
@@ -5788,7 +6823,7 @@
       "date": "2023-03-01",
       "events": [
         {
-          "id": "evt_028",
+          "id": "evt_041",
           "title": "アルバム「xYZ［hYPER EDITION］」リリース",
           "category": "release",
           "description": "アルバムをリリース。",
@@ -5806,7 +6841,7 @@
       "date": "2023-02-26",
       "events": [
         {
-          "id": "evt_027",
+          "id": "evt_040",
           "title": "We will WACK you!! TOUR FiNAL",
           "category": "live",
           "description": "東京都・日比谷野外大音楽堂にて開催。",
@@ -5824,7 +6859,7 @@
       "date": "2023-02-18",
       "events": [
         {
-          "id": "evt_026",
+          "id": "evt_039",
           "title": "WE ARE ONAGAWACKERS!!",
           "category": "EVENT",
           "description": "宮城県・女川町生涯学習センターホールにて開催。",
@@ -5842,7 +6877,7 @@
       "date": "2023-02-09",
       "events": [
         {
-          "id": "evt_025",
+          "id": "evt_038",
           "title": "We will WACK you!! TOUR 東京公演",
           "category": "live",
           "description": "東京都・Zepp Hanedaにて開催。",
@@ -5860,7 +6895,7 @@
       "date": "2023-02-05",
       "events": [
         {
-          "id": "evt_024",
+          "id": "evt_037",
           "title": "FUCK WATANABE TOUR 宮城公演",
           "category": "live",
           "description": "宮城県・Rensaにて開催。",
@@ -5878,7 +6913,7 @@
       "date": "2023-01-21",
       "events": [
         {
-          "id": "evt_023",
+          "id": "evt_036",
           "title": "FUCK WATANABE TOUR 北海道公演",
           "category": "live",
           "description": "北海道・PENNY LANE24にて開催。",
@@ -5896,7 +6931,7 @@
       "date": "2023-01-14",
       "events": [
         {
-          "id": "evt_022",
+          "id": "evt_035",
           "title": "We will WACK you!! TOUR 愛知公演",
           "category": "live",
           "description": "愛知県・Zepp Nagoyaにて開催。",
@@ -5914,7 +6949,7 @@
       "date": "2023-01-12",
       "events": [
         {
-          "id": "evt_021",
+          "id": "evt_034",
           "title": "First Tour xYZ 東京公演",
           "category": "live",
           "description": "東京都・Zepp DiverCityにて開催。",
@@ -5927,7 +6962,7 @@
           ]
         },
         {
-          "id": "evt_020",
+          "id": "evt_033",
           "title": "midoriko活動再開",
           "category": "announcement",
           "description": "活動を再開。",
@@ -5945,7 +6980,7 @@
       "date": "2022-12-25",
       "events": [
         {
-          "id": "evt_019",
+          "id": "evt_032",
           "title": "First Tour xYZ 愛知公演",
           "category": "live",
           "description": "愛知県・Zepp Nagoyaにて開催。",
@@ -5963,7 +6998,7 @@
       "date": "2022-12-23",
       "events": [
         {
-          "id": "evt_018",
+          "id": "evt_031",
           "title": "First Tour xYZ 大阪公演",
           "category": "live",
           "description": "大阪府・Zepp Osaka Baysideにて開催。",
@@ -5981,7 +7016,7 @@
       "date": "2022-12-18",
       "events": [
         {
-          "id": "evt_017",
+          "id": "evt_030",
           "title": "First Tour xYZ 香川公演",
           "category": "live",
           "description": "香川県・高松festhalleにて開催。",
@@ -5999,7 +7034,7 @@
       "date": "2022-12-17",
       "events": [
         {
-          "id": "evt_016",
+          "id": "evt_029",
           "title": "First Tour xYZ 広島公演",
           "category": "live",
           "description": "広島県・ブルーライブ広島にて開催。",
@@ -6017,7 +7052,7 @@
       "date": "2022-12-10",
       "events": [
         {
-          "id": "evt_017",
+          "id": "evt_028",
           "title": "#ゆーき生誕2022",
           "category": "birthday",
           "description": "yu-ki生誕",
@@ -6035,7 +7070,7 @@
       "date": "2022-12-02",
       "events": [
         {
-          "id": "evt_015",
+          "id": "evt_027",
           "title": "First Tour xYZ 北海道公演",
           "category": "live",
           "description": "北海道・Zepp Sapporoにて開催。",
@@ -6053,7 +7088,7 @@
       "date": "2022-11-23",
       "events": [
         {
-          "id": "evt_014",
+          "id": "evt_026",
           "title": "Even without BiSH, this is WACK",
           "category": "live",
           "description": "千葉県・幕張メッセイベントホールにて開催。",
@@ -6071,7 +7106,7 @@
       "date": "2022-11-22",
       "events": [
         {
-          "id": "evt_013",
+          "id": "evt_025",
           "title": "First Tour xYZ 東京公演",
           "category": "live",
           "description": "東京都・Zepp Hanedaにて開催。",
@@ -6084,7 +7119,7 @@
           ]
         },
         {
-          "id": "evt_012",
+          "id": "evt_024",
           "title": "「STAY WITH Me」MV公開",
           "category": "release",
           "description": "1stアルバム『xYZ』収録曲「STAY WITH Me」のミュージック・ビデオを公開。",
@@ -6102,7 +7137,7 @@
       "date": "2022-11-20",
       "events": [
         {
-          "id": "evt_011",
+          "id": "evt_023",
           "title": "First Tour xYZ 福岡公演",
           "category": "live",
           "description": "福岡県・Zepp Fukuokaにて開催。",
@@ -6120,7 +7155,7 @@
       "date": "2022-11-12",
       "events": [
         {
-          "id": "evt_010",
+          "id": "evt_022",
           "title": "First Tour xYZ 新潟公演",
           "category": "live",
           "description": "新潟県・新潟LOTSにて開催。",
@@ -6138,7 +7173,7 @@
       "date": "2022-11-11",
       "events": [
         {
-          "id": "evt_009",
+          "id": "evt_021",
           "title": "First Tour xYZ 神奈川公演",
           "category": "live",
           "description": "神奈川県・KT Zepp Yokohamaにて開催。",
@@ -6156,7 +7191,7 @@
       "date": "2022-11-03",
       "events": [
         {
-          "id": "evt_008",
+          "id": "evt_020",
           "title": "First Tour xYZ 宮城公演",
           "category": "live",
           "description": "宮城県・SENDAI GIGSにて開催。",
@@ -6174,7 +7209,7 @@
       "date": "2022-11-02",
       "events": [
         {
-          "id": "evt_007",
+          "id": "evt_019",
           "title": "1stアルバム「xYZ」リリース",
           "category": "release",
           "description": "1stアルバム『xYZ』アルバムをリリース。",
@@ -6192,10 +7227,10 @@
       "date": "2022-10-07",
       "events": [
         {
-          "id": "evt_006",
+          "id": "evt_018",
           "title": "「Obsession」MV公開",
           "category": "release",
-          "description": "1stアルバム『xYZ』より先行配信中の楽曲「Obsessio」のミュージック・ビデオを公開",
+          "description": "1stアルバム『xYZ』より先行配信中の楽曲「Obsessio」のミュージック・ビデオを公開。",
           "officialSource": {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=Sr-N5POWD2c"
@@ -6210,7 +7245,7 @@
       "date": "2022-10-04",
       "events": [
         {
-          "id": "evt_005",
+          "id": "evt_017",
           "title": "「Obsession」配信開始",
           "category": "release",
           "description": "楽曲を配信開始。",
@@ -6228,7 +7263,7 @@
       "date": "2022-10-03",
       "events": [
         {
-          "id": "evt_004",
+          "id": "evt_016",
           "title": "xYZ Listening Party #俺とお前で音源チェック",
           "category": "live",
           "description": "東京都・UNITにて初パフォーマンス。",
@@ -6246,7 +7281,7 @@
       "date": "2022-09-07",
       "events": [
         {
-          "id": "evt_003",
+          "id": "evt_015",
           "title": "midoriko活動休止",
           "category": "announcement",
           "description": "持病の療養のため無期限の活動休止を発表。",
@@ -6264,7 +7299,7 @@
       "date": "2022-08-18",
       "events": [
         {
-          "id": "evt_002",
+          "id": "evt_014",
           "title": "「Wanna Dance」配信開始・MV公開",
           "category": "release",
           "description": "楽曲を配信開始、MV公開。",
@@ -6283,7 +7318,7 @@
       "date": "2022-07-28",
       "events": [
         {
-          "id": "evt_002",
+          "id": "evt_013",
           "title": "#うまれたなう2022",
           "category": "birthday",
           "description": "now生誕",
@@ -6294,6 +7329,186 @@
           "tags": [
             "生誕"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2022-06-26",
+      "events": [
+        {
+          "id": "evt_012",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント１１日目(最終日)。元EMPiRE参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2022-06-25",
+      "events": [
+        {
+          "id": "evt_011",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント１０日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-24",
+      "events": [
+        {
+          "id": "evt_010",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント９日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-23",
+      "events": [
+        {
+          "id": "evt_009",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント８日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-22",
+      "events": [
+        {
+          "id": "evt_008",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント７日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-21",
+      "events": [
+        {
+          "id": "evt_007",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント６日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-20",
+      "events": [
+        {
+          "id": "evt_006",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント５日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-19",
+      "events": [
+        {
+          "id": "evt_005",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント４日目。元EMPiRE参加。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2022-06-18",
+      "events": [
+        {
+          "id": "evt_004",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント３日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-17",
+      "events": [
+        {
+          "id": "evt_003",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント２日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2022-06-16",
+      "events": [
+        {
+          "id": "evt_002",
+          "title": "渋谷で ｱｵッ！渋谷でWACKなりの祭",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 イベント１日目。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.wack.jp/posts/35244217"
+          },
+          "tags": []
         }
       ]
     },
@@ -6355,7 +7570,7 @@
     }
   ],
   "metadata": {
-    "totalDays": 1552,
+    "totalDays": 1551,
     "dateRange": {
       "start": "2022-06-02",
       "end": "2026-08-31"
