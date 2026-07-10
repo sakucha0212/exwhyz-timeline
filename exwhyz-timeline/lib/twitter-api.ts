@@ -8,7 +8,8 @@ import { TwitterApi } from 'twitter-api-v2';
 export const EXWHYZ_SEARCH_QUERY =
   '(ExWHYZ OR WHYZ OR NATSLIVE OR mikina OR yu-ki OR maho OR mayu OR now OR midoriko ' +
   'OR イクスワイズ OR イクス OR ミキナ OR ユーキ OR マホ OR マユ OR ナウ OR ミドリコ OR ドリ ' +
-  'OR みきな OR まほ OR ゆーき OR まゆ OR なう OR みどりこ OR どり OR ちぇきな) ' +
+  'OR みきな OR まほ OR ゆーき OR まゆ OR なう OR みどりこ OR どり OR ちぇきな ' +
+  'OR EMPiRE OR "俺とお前で音源チェック") ' +
   '-is:retweet -is:reply';
 
 /**
