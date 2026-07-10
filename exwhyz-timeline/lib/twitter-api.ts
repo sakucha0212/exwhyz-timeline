@@ -61,8 +61,9 @@ export async function fetchUserArchiveTweets(
 
     // Bearer Token で /2/tweets/search/all を呼び出し（ページネーション自動処理）
     const paginator = await client.v2.searchAll(query, {
-      start_time:     start,
-      end_time:       end,
+      // sinceId がある場合は start_time・end_time を省略（since_id との時間的矛盾を防ぐ）
+      ...(sinceId ? {} : { start_time: start }),
+      ...(sinceId ? {} : { end_time: end }),
       ...(sinceId ? { since_id: sinceId } : {}),  // 差分更新: since_id が指定された場合のみ追加
       max_results:    500,          // 1リクエストあたり最大500件
       'tweet.fields': 'created_at,text,attachments,author_id',
