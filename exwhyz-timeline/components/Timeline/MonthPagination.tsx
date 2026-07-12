@@ -136,13 +136,13 @@ export default function MonthPagination({
 
   return (
     <div className="sticky top-0 z-50 bg-black border-b border-gray-700 py-3 px-4">
-      <div className="max-w-6xl mx-auto flex flex-wrap items-center gap-2">
+      <div className="max-w-6xl mx-auto flex items-center gap-2">
 
-        {/* 前月ボタン */}
+        {/* 前月ボタン（左端） */}
         <button
           onClick={() => onMonthChange(prevYM)}
           disabled={isPrevDisabled}
-          className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors
+          className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors flex-shrink-0
             bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
             disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-gray-800 disabled:hover:text-gray-300"
           title="前月へ"
@@ -153,39 +153,87 @@ export default function MonthPagination({
           前月
         </button>
 
-        {/* 年ドロップダウン */}
-        <select
-          value={curYear}
-          onChange={(e) => handleYearChange(Number(e.target.value))}
-          disabled={loading}
-          className="bg-gray-900 text-white border border-gray-600 rounded px-3 py-1.5 text-sm
-            focus:outline-none focus:border-blue-500 disabled:opacity-40 disabled:cursor-not-allowed"
-        >
-          {years.map((y) => (
-            <option key={y} value={y}>{y}年</option>
-          ))}
-        </select>
+        {/* 中央グループ（年月ドロップダウン・トグル・更新） */}
+        <div className="flex-1 flex justify-center flex-wrap items-center gap-2">
+          <select
+            value={curYear}
+            onChange={(e) => handleYearChange(Number(e.target.value))}
+            disabled={loading}
+            className="bg-gray-900 text-white border border-gray-600 rounded px-3 py-1.5 text-sm
+              focus:outline-none focus:border-blue-500 disabled:opacity-40 disabled:cursor-not-allowed"
+          >
+            {years.map((y) => (
+              <option key={y} value={y}>{y}年</option>
+            ))}
+          </select>
+          <select
+            value={curMonth}
+            onChange={(e) => handleMonthChange(Number(e.target.value))}
+            disabled={loading}
+            className="bg-gray-900 text-white border border-gray-600 rounded px-3 py-1.5 text-sm
+              focus:outline-none focus:border-blue-500 disabled:opacity-40 disabled:cursor-not-allowed"
+          >
+            {months.map((m) => (
+              <option key={m} value={m} disabled={isMonthDisabled(m)}>
+                {m}月
+              </option>
+            ))}
+          </select>
 
-        {/* 月ドロップダウン */}
-        <select
-          value={curMonth}
-          onChange={(e) => handleMonthChange(Number(e.target.value))}
-          disabled={loading}
-          className="bg-gray-900 text-white border border-gray-600 rounded px-3 py-1.5 text-sm
-            focus:outline-none focus:border-blue-500 disabled:opacity-40 disabled:cursor-not-allowed"
-        >
-          {months.map((m) => (
-            <option key={m} value={m} disabled={isMonthDisabled(m)}>
-              {m}月
-            </option>
-          ))}
-        </select>
+          {onToggleHideEmptyDays && (
+            <label className="inline-flex items-center gap-1.5 cursor-pointer select-none text-sm text-gray-300">
+              <input
+                type="checkbox"
+                checked={hideEmptyDays}
+                onChange={onToggleHideEmptyDays}
+                disabled={loading}
+                className="w-4 h-4 rounded border-gray-600 bg-gray-900 text-blue-500
+                  focus:ring-blue-500 focus:ring-offset-0 disabled:opacity-40 disabled:cursor-not-allowed"
+              />
+              空の日を非表示
+            </label>
+          )}
 
-        {/* 次月ボタン */}
+          {loading && (
+            <span className="flex items-center gap-1.5 text-gray-400 text-sm">
+              <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z" />
+              </svg>
+              読み込み中...
+            </span>
+          )}
+
+          {isCurrentMonth && onRefresh && (
+            <div className="flex items-center gap-3">
+              {lastFetchedAt && (
+                <span className="text-gray-500 text-xs hidden sm:inline">
+                  {formatLastFetchedAt(lastFetchedAt)}
+                </span>
+              )}
+              <button
+                onClick={onRefresh}
+                disabled={loading}
+                className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors
+                  bg-blue-600 hover:bg-blue-700 text-white
+                  disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-blue-600"
+                title="最新のポストを取得"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                </svg>
+                更新
+              </button>
+            </div>
+          )}
+        </div>
+
+        {/* 次月ボタン（右端） */}
         <button
           onClick={() => onMonthChange(nextYM)}
           disabled={isNextDisabled}
-          className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors
+          className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors flex-shrink-0
             bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
             disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-gray-800 disabled:hover:text-gray-300"
           title="次月へ"
@@ -195,57 +243,6 @@ export default function MonthPagination({
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
           </svg>
         </button>
-
-        {/* 空日付非表示トグル */}
-        {onToggleHideEmptyDays && (
-          <label className="inline-flex items-center gap-1.5 cursor-pointer select-none text-sm text-gray-300">
-            <input
-              type="checkbox"
-              checked={hideEmptyDays}
-              onChange={onToggleHideEmptyDays}
-              disabled={loading}
-              className="w-4 h-4 rounded border-gray-600 bg-gray-900 text-blue-500
-                focus:ring-blue-500 focus:ring-offset-0 disabled:opacity-40 disabled:cursor-not-allowed"
-            />
-            空の日を非表示
-          </label>
-        )}
-
-        {/* ローディングインジケーター */}
-        {loading && (
-          <span className="flex items-center gap-1.5 text-gray-400 text-sm ml-1">
-            <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z" />
-            </svg>
-            読み込み中...
-          </span>
-        )}
-
-        {/* 更新ボタン（当月のみ表示） */}
-        {isCurrentMonth && onRefresh && (
-          <div className="ml-auto flex items-center gap-3">
-            {lastFetchedAt && (
-              <span className="text-gray-500 text-xs hidden sm:inline">
-                {formatLastFetchedAt(lastFetchedAt)}
-              </span>
-            )}
-            <button
-              onClick={onRefresh}
-              disabled={loading}
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors
-                bg-blue-600 hover:bg-blue-700 text-white
-                disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-blue-600"
-              title="最新のポストを取得"
-            >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                  d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-              </svg>
-              更新
-            </button>
-          </div>
-        )}
 
         {/* レート制限警告 */}
         {rateLimitError && (

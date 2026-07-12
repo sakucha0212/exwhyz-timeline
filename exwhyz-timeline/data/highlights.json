@@ -1,0 +1,389 @@
+[
+  {
+    "id": "evt_431",
+    "type": "live",
+    "title": "ExWHYZ LAST LIVE '光'",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "evt_A05",
+    "type": "release",
+    "title": "ラストアルバム3rdアルバム「zION」リリース",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "evt_430",
+    "type": "live",
+    "title": "ExWHYZ presents 'CLUB Ex FINAL'",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "evt_429",
+    "type": "live",
+    "title": "ExWHYZ presents ‘PEDROWHYZ’ ",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "talk_2026",
+    "type": "event",
+    "title": "TALK OUR TALK",
+    "startDate": "2026-07-26",
+    "endDate": "2026-08-11"
+  },
+  {
+    "id": "evt_427",
+    "type": "event",
+    "title": "ExWHYZ Release Party ‘zION’ ",
+    "date": "2026-08-08"
+  },
+  {
+    "id": "okinawa_2026",
+    "type": "event",
+    "title": "俺とお前でかちゃーしーファイナル ~やりたい事全部つめこんじゃった旅~",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-20"
+  },
+  {
+    "id": "evt_401",
+    "type": "event",
+    "title": "ExWHYZと芋煮ば食う会 in 山形'",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "evt_387",
+    "type": "announcement",
+    "title": "解散ライブ発表",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "tour_dance_your_dance",
+    "type": "tour",
+    "title": "LAST TOUR 'DANCE YOUR DANCE'",
+    "startDate": "2026-05-06",
+    "endDate": "2026-07-04"
+  },
+  {
+    "id": "evt_374",
+    "type": "live",
+    "title": "ExWHYZ LIVE 'GIVE YOU MY WORD'",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "evt_375",
+    "type": "release",
+    "title": "3rdシングル「GIVE YOU MY WORD」リリース",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "tour_revenge",
+    "type": "tour",
+    "title": "ExWHYZ REVENGE TOUR 'Wide Open Again'",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-21"
+  },
+  {
+    "id": "uk_tour",
+    "type": "tour",
+    "title": "in the UK Tour'",
+    "startDate": "2025-01-29",
+    "endDate": "2025-02-01"
+  },
+  {
+    "id": "evt_350",
+    "type": "live",
+    "title": "Special Live 'Ⅰ' -3rd Anniversary Final & Year End Party",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "evt_A04",
+    "type": "announcement",
+    "title": "解散正式発表",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "evt_347",
+    "type": "release",
+    "title": "2ndシングル「DON'T CRY / リグレット」リリース",
+    "date": "2025-12-10"
+  },
+  {
+    "id": "evt_343",
+    "type": "announcement",
+    "title": "WACK所属グループ解散発表",
+    "date": "2025-12-01"
+  },
+  {
+    "id": "tour_wide_open",
+    "type": "tour",
+    "title": "TOUR 2025 'Wide Open'",
+    "startDate": "2025-09-20",
+    "endDate": "2025-12-20"
+  },
+  {
+    "id": "evt_319",
+    "type": "event",
+    "title": "xYZ only Wide Open 前夜祭 '#俺とお前でかちゃーしーⅢ’ ",
+    "date": "2025-09-20"
+  },
+  {
+    "id": "evt_316",
+    "type": "event",
+    "title": "いくすわいずと真夏の愉快な大運動会",
+    "date": "2025-08-31"
+  },
+  {
+    "id": "evt_313",
+    "type": "live",
+    "title": "3rd Anniversary Special Live 'Our Step→Future'",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "evt_312",
+    "type": "release",
+    "title": "1stシングル「iD」リリース",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "evt_266",
+    "type": "live",
+    "title": "WACK in the UK vol.6",
+    "date": "2025-06-05"
+  },
+  {
+    "id": "tour_odds_and_ends",
+    "type": "tour",
+    "title": "TOUR 2025 '(unfinished) odds and ends'",
+    "startDate": "2025-05-03",
+    "endDate": "2025-07-19"
+  },
+  {
+    "id": "evt_255",
+    "type": "live",
+    "title": "ExWHYZ presents 'CLUB Ex Vol.1'",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "tour_hope",
+    "type": "tour",
+    "title": "TOUR 2024 'HOPE'",
+    "startDate": "2024-12-08",
+    "endDate": "2024-12-27"
+  },
+  {
+    "id": "evt_224",
+    "type": "live",
+    "title": "WACK in the U.K. Vol.4",
+    "date": "2024-11-27"
+  },
+  {
+    "id": "evt_223",
+    "type": "announcement",
+    "title": "mayu復帰発表",
+    "date": "2024-11-19"
+  },
+  {
+    "id": "evt_222",
+    "type": "announcement",
+    "title": "now脱退",
+    "date": "2024-10-31"
+  },
+  {
+    "id": "evt_215",
+    "type": "event",
+    "title": "xYZ only Furuta after party '#俺とお前でかちゃーしーⅡ'",
+    "date": "2024-09-29"
+  },
+  {
+    "id": "evt_214",
+    "type": "live",
+    "title": "Futura Free++ 'Summer Memories in OKINAWA",
+    "date": "2024-09-28"
+  },
+  {
+    "id": "evt_211",
+    "type": "live",
+    "title": "Futura Free+ 'Reinforce' 東京公演",
+    "date": "2024-09-08"
+  },
+  {
+    "id": "evt_207",
+    "type": "announcement",
+    "title": "midoriko脱退",
+    "date": "2024-08-01"
+  },
+  {
+    "id": "evt_202",
+    "type": "release",
+    "title": "EP「Sweet & Sour」リリース ",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "evt_185",
+    "type": "announcement",
+    "title": "mayu活動休止",
+    "date": "2024-06-26"
+  },
+  {
+    "id": "tour_futura_free",
+    "type": "tour",
+    "title": "TOUR 2024 'Futura Free'",
+    "startDate": "2024-05-04",
+    "endDate": "2024-07-31"
+  },
+  {
+    "id": "tour_seihowhyz",
+    "type": "tour",
+    "title": "ExWHYZ presents 'SeihoWHYZ'",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-23"
+  },
+  {
+    "id": "evt_158",
+    "type": "release",
+    "title": "アルバム「Dress to Kill」リリース",
+    "date": "2024-03-20"
+  },
+  {
+    "id": "tour_elation_part3",
+    "type": "tour",
+    "title": "TOUR 2023 'eLATION' part.3",
+    "startDate": "2023-11-25",
+    "endDate": "2023-12-13"
+  },
+  {
+    "id": "evt_A03",
+    "type": "live",
+    "title": "WACK in the UK",
+    "date": "2023-11-16"
+  },
+  {
+    "id": "tour_elation_part2",
+    "type": "tour",
+    "title": "TOUR 2023 'eLATION' part.2",
+    "startDate": "2023-10-14",
+    "endDate": "2023-10-19"
+  },
+  {
+    "id": "evt_120",
+    "type": "release",
+    "title": "1st EP「HOW HIGH?」リリース",
+    "date": "2023-10-18"
+  },
+  {
+    "id": "evt_117",
+    "type": "event",
+    "title": "ExWHYZ presents HOW HIGH? RELEASE PARTY",
+    "date": "2023-10-07"
+  },
+  {
+    "id": "evt_094",
+    "type": "announcement",
+    "title": "midoriko再度活動休止",
+    "date": "2023-07-01"
+  },
+  {
+    "id": "evt_116",
+    "type": "event",
+    "title": "俺とお前でかちゃーしー",
+    "date": "2023-09-24"
+  },
+  {
+    "id": "tour_elation_part1",
+    "type": "tour",
+    "title": "TOUR 2023 'eLATION' part.1",
+    "startDate": "2023-07-09",
+    "endDate": "2023-09-23"
+  },
+  {
+    "id": "evt_062",
+    "type": "live",
+    "title": "LIVE at BUDOKAN the FIRST STEP",
+    "date": "2023-05-13"
+  },
+  {
+    "id": "evt_058",
+    "type": "release",
+    "title": "2ndアルバム「xANADU」リリース",
+    "date": "2023-04-19"
+  },
+  {
+    "id": "evt_054",
+    "type": "live",
+    "title": "ExWHYZ presents xANADU RELEASE PARTY at FUKUOKA!!!!",
+    "date": "2023-04-15"
+  },
+  {
+    "id": "tour_xanadu",
+    "type": "tour",
+    "title": "TOUR 2023 xANADU",
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-25"
+  },
+  {
+    "id": "evt_057",
+    "type": "live",
+    "title": "ExWHYZ presents BiSHWHYZ",
+    "date": "2023-04-01"
+  },
+  {
+    "id": "evt_042",
+    "type": "event",
+    "title": "「xYZ hYPER EDITION RELEASE PARTY」リリースパーティ",
+    "date": "2023-03-04"
+  },
+  {
+    "id": "evt_041",
+    "type": "release",
+    "title": "アルバム「xYZ［hYPER EDITION］」リリース",
+    "date": "2023-03-01"
+  },
+  {
+    "id": "evt_033",
+    "type": "announcement",
+    "title": "midoriko活動再開",
+    "date": "2023-01-12"
+  },
+  {
+    "id": "tour_first_xyz",
+    "type": "tour",
+    "title": "First Tour xYZ",
+    "startDate": "2022-11-03",
+    "endDate": "2023-01-12"
+  },
+  {
+    "id": "evt_A02",
+    "type": "event",
+    "title": "EAT CHEKI ExWHYZ",
+    "date": "2022-11-04"
+  },
+  {
+    "id": "evt_019",
+    "type": "release",
+    "title": "1stアルバム「xYZ」リリース",
+    "date": "2022-11-02"
+  },
+  {
+    "id": "evt_016",
+    "type": "event",
+    "title": "xYZ Listening Party #俺とお前で音源チェック",
+    "date": "2022-10-03"
+  },
+  {
+    "id": "evt_015",
+    "type": "announcement",
+    "title": "midoriko活動休止",
+    "date": "2022-09-01"
+  },
+  {
+    "id": "evt_A01",
+    "type": "event",
+    "title": "EMIチェキ練習会@代官山UNIT",
+    "date": "2022-07-10"
+  },
+  {
+    "id": "evt_001",
+    "type": "announcement",
+    "title": "新グループ「ExWHYZ」結成発表",
+    "date": "2022-06-02"
+  }
+]
