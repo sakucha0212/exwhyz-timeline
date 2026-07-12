@@ -45,6 +45,12 @@ exwhyz-timeline/
 │   ├── layout.tsx                # ルートレイアウト
 │   └── globals.css               # グローバルスタイル
 ├── components/
+│   ├── ViewModeTabs.tsx          # ハイライト/タイムライン モード切替タブ
+│   ├── Highlights/
+│   │   ├── HighlightsContainer.tsx # ハイライト全体のコンテナ（年別表示＋フィルタリング）
+│   │   ├── FilterBar.tsx          # カテゴリ絞り込みフィルターボタン群
+│   │   ├── HighlightCard.tsx      # ハイライトカード（タップでタイムラインモードに遷移）
+│   │   └── YearSection.tsx        # 年別アコーディオンセクション
 │   └── Timeline/
 │       ├── TimelineContainer.tsx # タイムライン全体のコンテナ（月単位表示）
 │       ├── MonthPagination.tsx   # 月ナビゲーション UI（前月/次月/年月ピッカー/更新ボタン）
@@ -65,6 +71,7 @@ exwhyz-timeline/
 │   └── next-auth.d.ts            # NextAuth 型定義拡張
 ├── data/
 │   ├── timeline.json             # ExWHYZ 公式活動情報（静的マスターデータ）
+│   ├── highlights.json           # ハイライト表示用イベントデータ
 │   └── user-tweets.json          # モック Tweet データ
 └── .env.local                    # 環境変数（Git 管理外）
 ```
@@ -166,20 +173,50 @@ NEXTAUTH_URL=https://xxxx-xxxx.ngrok-free.app
 
 ## 5. アーキテクチャ
 
-### 5.1 コンポーネント階層
+### 5.1 画面モード
+
+アプリは `ViewModeTabs` により 2 つの表示モードを切り替える：
+
+| モード | 役割 | コンポーネント |
+|--------|------|---------------|
+| ハイライト | 全イベントを年別・カテゴリ別に一覧表示 | `HighlightsContainer` |
+| タイムライン | 選択月の日別イベント＋Xポストを表示 | `TimelineContainer` |
+
+ハイライトでカードをクリックすると、その月のタイムラインモードに遷移する。
+
+### 5.2 コンポーネント階層
 
 ```
 app/page.tsx
-└── TimelineContainer
-    ├── MonthPagination          ← 月ナビゲーション（前月/次月/年月ピッカー/更新ボタン）
-    └── DayEntry × N            ← 選択月の日付ごとに1つ
-        ├── EventColumn          ← 左カラム: 公式活動情報
+├── ViewModeTabs                     ← ハイライト/タイムライン モード切替
+├── HighlightsContainer (ハイライトモード)
+│   ├── FilterBar                    ← カテゴリ絞り込み（ツアー/ライブ/発表/イベント/リリース）
+│   └── YearSection × N             ← 年別アコーディオン
+│       └── HighlightCard × N       ← カード（クリックでタイムライン遷移）
+└── TimelineContainer (タイムラインモード)
+    ├── MonthPagination              ← 月ナビゲーション（前月/次月/年月ピッカー/更新ボタン）
+    └── DayEntry × N                ← 選択月の日付ごとに1つ
+        ├── EventColumn              ← 左カラム: 公式活動情報
         │   └── CategoryBadge × N
-        └── TweetColumn          ← 右カラム: X ポスト
+        └── TweetColumn              ← 右カラム: X ポスト
             └── TweetEmbed × N
 ```
 
-### 5.2 データフロー
+### 5.3 データフロー
+
+#### ハイライトモード
+
+```
+highlights.json
+    │
+    ▼
+HighlightsContainer
+    ├─ activeFilters に応じてフィルタリング
+    ├─ getYear() で年別にグループ化
+    └─ YearSection → HighlightCard
+```
+
+#### タイムラインモード
 
 ```
 月切り替え（MonthPagination）
@@ -203,7 +240,7 @@ getMonthlyTweetsData(yearMonth, forceRefresh)  ← data-provider-monthly.ts
                                 → IndexedDB にマージ → 返す
 ```
 
-### 5.3 月ナビゲーションの状態
+### 5.4 月ナビゲーションの状態
 
 | 状態 | 「← 前月」 | 「次月 →」 | 「🔄 更新」 |
 |------|-----------|-----------|-----------|
@@ -212,7 +249,7 @@ getMonthlyTweetsData(yearMonth, forceRefresh)  ← data-provider-monthly.ts
 | 当月 | 有効 | **disabled** | 表示・有効 |
 | ローディング中 | **disabled** | **disabled** | **disabled** |
 
-### 5.4 IndexedDB スキーマ
+### 5.5 IndexedDB スキーマ
 
 ```
 DB: exwhyz_timeline_cache (version: 1)
@@ -276,7 +313,48 @@ DB: exwhyz_timeline_cache (version: 1)
 | `media` | メディア出演 |
 | `announce` | 発表・告知 |
 
-### 6.2 `data/user-tweets.json`（モック Tweet データ）
+### 6.2 `data/highlights.json`（ハイライト表示用イベントデータ）
+
+```json
+[
+  {
+    "id": "evt_431",
+    "type": "live",
+    "title": "ExWHYZ LAST LIVE '光'",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "tour_dance_your_dance",
+    "type": "tour",
+    "title": "LAST TOUR 'DANCE YOUR DANCE'",
+    "startDate": "2026-05-06",
+    "endDate": "2026-07-04"
+  }
+]
+```
+
+**フィールド一覧:**
+
+| フィールド | 必須 | 説明 |
+|-----------|------|------|
+| `id` | ✅ | 一意のイベント ID |
+| `type` | ✅ | イベントタイプ（`tour`, `live`, `announcement`, `event`, `release`） |
+| `title` | ✅ | イベントタイトル |
+| `date` | — | 単一日の日付（`YYYY-MM-DD`、`startDate`/`endDate` がない場合に使用） |
+| `startDate` | — | 期間の開始日（`YYYY-MM-DD`、`endDate` とセットで使用） |
+| `endDate` | — | 期間の終了日（`YYYY-MM-DD`、`startDate` とセットで使用） |
+
+**ハイライトタイプ一覧:**
+
+| タイプ | アイコン | ラベル | 色 |
+|--------|----------|--------|-----|
+| `tour` | 🎵 | ツアー | ピンク |
+| `live` | 🎵 | ライブ | グリーン |
+| `announcement` | 📢 | 発表 | ブルー |
+| `event` | 🎉 | イベント | パープル |
+| `release` | 💿 | リリース | イエロー |
+
+### 6.3 `data/user-tweets.json`（モック Tweet データ）
 
 ```json
 {
@@ -300,11 +378,11 @@ DB: exwhyz_timeline_cache (version: 1)
 
 ## 7. X API 連携
 
-### 7.1 ｘAPIの利用について
+### 7.1 X API の利用について
 
 `/2/tweets/search/all`（全アーカイブ検索）を利用しています。  
-利用にはx Developer Consoleにユーザー登録が必要です。  
-APIはツイートの読み込み件数で**従量課金**となるので注意してください。  
+利用には X Developer Console にユーザー登録が必要です。  
+API はツイートの読み込み件数で**従量課金**となるので注意してください。  
 
 ### 7.2 X Developer Portal での設定手順
 

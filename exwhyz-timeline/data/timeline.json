@@ -22,6 +22,24 @@
       ]
     },
     {
+      "date": "2026-08-26",
+      "events": [
+        {
+          "id": "evt_A05",
+          "title": "ラストアルバム3rdアルバム「zION」リリース",
+          "category": "live",
+          "description": "ラストアルバムをリリース",
+          "officialSource": {
+            "type": "official",
+            "url": "https://www.exwhyz.jp/news/detail/77919"
+          },
+          "tags": [
+            "ライブ"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "events": [
         {
@@ -129,8 +147,8 @@
       "events": [
         {
           "id": "evt_424",
-          "title": "TOKYO IDOL FESTIVAL 2025 supported by にしたんクリニック",
-          "category": "LIVE",
+          "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
+          "category": "live",
           "description": "東京都 お台場・青海周辺エリアにて開催。",
           "officialSource": {
             "type": "official",
@@ -1990,7 +2008,7 @@
       "events": [
         {
           "id": "evt_319",
-          "title": "TOUR 2025 'Wide Open' 沖縄公演 (FC限定)",
+          "title": "xYZ only Wide Open 前夜祭 '#俺とお前でかちゃーしーⅢ’ ",
           "category": "live",
           "description": "沖縄県・桜坂セントラルにて開催。",
           "officialSource": {
@@ -3761,7 +3779,7 @@
       "events": [
         {
           "id": "evt_215",
-          "title": "【FCイベント】xYZ only Furuta after party '#俺とお前でかちゃーしーⅡ'",
+          "title": "xYZ only Furuta after party '#俺とお前でかちゃーしーⅡ'",
           "category": "EVENT",
           "description": "沖縄県・桜坂セントラルにて開催。",
           "officialSource": {
@@ -5329,6 +5347,24 @@
       ]
     },
     {
+      "date": "2023-11-16",
+      "events": [
+        {
+          "id": "evt_A03",
+          "title": "WACK in the UK",
+          "category": "live",
+          "description": "UKにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1725299358835626189?s=20"
+          },
+          "tags": [
+            "ツアー"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-11-24",
       "events": [
         {
@@ -5491,7 +5527,7 @@
         {
           "id": "evt_117",
           "title": "ExWHYZ presents HOW HIGH? RELEASE PARTY!!!!!",
-          "category": "live",
+          "category": "EVENT",
           "description": "東京都・ATOM TOKYOにて開催。",
           "officialSource": {
             "type": "official",
@@ -5508,12 +5544,12 @@
       "events": [
         {
           "id": "evt_116",
-          "title": "TOUR 2023 'eLATION' part.1 沖縄公演 (FC限定)",
-          "category": "live",
+          "title": "俺とお前でかちゃーしー",
+          "category": "EVENT",
           "description": "沖縄県・沖縄Outputにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://x.com/ExWHYZ_official/status/1705929020498661655?s=20"
+            "url": "https://x.com/ExWHYZ_official/status/1705931082171126189?s=20"
           },
           "tags": [
             "ツアー"
@@ -6807,7 +6843,7 @@
         {
           "id": "evt_042",
           "title": "リリースパーティ",
-          "category": "live",
+          "category": "event",
           "description": "東京都・WOMBにて開催。",
           "officialSource": {
             "type": "official",
@@ -7188,6 +7224,24 @@
       ]
     },
     {
+      "date": "2022-11-04",
+      "events": [
+        {
+          "id": "evt_A02",
+          "title": "EAT CHEKI ExWHYZ ＠ タワーレコード渋谷店",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。オールナイトイベント。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1588623651490115584?s=20"
+          },
+          "tags": [
+            "ツアー"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2022-11-03",
       "events": [
         {
@@ -7265,7 +7319,7 @@
         {
           "id": "evt_016",
           "title": "xYZ Listening Party #俺とお前で音源チェック",
-          "category": "live",
+          "category": "event",
           "description": "東京都・UNITにて初パフォーマンス。",
           "officialSource": {
             "type": "official",
@@ -7328,6 +7382,24 @@
           },
           "tags": [
             "生誕"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2022-07-10",
+      "events": [
+        {
+          "id": "evt_A01",
+          "title": "EMIチェキ練習会@代官山UNIT",
+          "category": "EVENT",
+          "description": "東京都・代官山UNITにてチェキ練習会。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1546056641031782400?s=20"
+          },
+          "tags": [
+            "イベント"
           ]
         }
       ]

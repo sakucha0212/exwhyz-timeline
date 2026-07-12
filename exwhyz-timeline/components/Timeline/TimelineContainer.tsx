@@ -1,10 +1,23 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import DayEntry from './DayEntry';
 import MonthPagination from './MonthPagination';
 import { useMonthlyTwitterData } from '@/hooks/useMonthlyTwitterData';
 import { getCurrentYearMonth, isCurrentMonth as checkIsCurrentMonth } from '@/lib/idb-cache';
+import { ARCHIVE_START_DATE_CLIENT, ARCHIVE_END_DATE_CLIENT } from '@/lib/constants';
+
+function toYearMonth(year: number, month: number): string {
+  return `${year}-${String(month).padStart(2, '0')}`;
+}
+
+function getArchiveStartYM(): string {
+  return ARCHIVE_START_DATE_CLIENT.slice(0, 7);
+}
+
+function getArchiveEndYM(): string {
+  return ARCHIVE_END_DATE_CLIENT.slice(0, 7);
+}
 
 interface Category {
   id: string;
@@ -33,11 +46,25 @@ interface DayData {
 interface TimelineContainerProps {
   timeline: DayData[];
   categories: Category[];
+  /** 外部から指定する初期/現在年月（ハイライトから遷移時に使用） */
+  targetYearMonth?: string;
+  /** 月変更時のコールバック（親コンポーネントに通知） */
+  onMonthChange?: (yearMonth: string) => void;
+  /** ハイライトに戻るコールバック */
+  onBackToHighlight?: () => void;
 }
 
-export default function TimelineContainer({ timeline, categories }: TimelineContainerProps) {
-  // 現在表示中の年月（デフォルト: 当月）
-  const [currentYearMonth, setCurrentYearMonth] = useState<string>(getCurrentYearMonth());
+export default function TimelineContainer({
+  timeline,
+  categories,
+  targetYearMonth,
+  onMonthChange,
+  onBackToHighlight,
+}: TimelineContainerProps) {
+  // 現在表示中の年月（デフォルト: 当月、外部指定があればそちらを優先）
+  const [currentYearMonth, setCurrentYearMonth] = useState<string>(
+    targetYearMonth ?? getCurrentYearMonth()
+  );
 
   // 月単位ツイートデータ取得フック
   const { tweets, loading, error, rateLimitError, lastFetchedAt, refresh } =
@@ -48,12 +75,29 @@ export default function TimelineContainer({ timeline, categories }: TimelineCont
   // 空日付（活動情報・ツイートなし）を非表示にするフラグ（デフォルト: true）
   const [hideEmptyDays, setHideEmptyDays] = useState<boolean>(true);
 
+  // ── 前月・次月の計算 ──────────────────────────────────────────────────
+  const [ymYear, ymMonth] = currentYearMonth.split('-').map(Number);
+
+  const archiveStartYM = useMemo(() => getArchiveStartYM(), []);
+  const archiveEndYM = useMemo(() => getArchiveEndYM(), []);
+
+  const prevMonth = ymMonth === 1 ? 12 : ymMonth - 1;
+  const prevYear = ymMonth === 1 ? ymYear - 1 : ymYear;
+  const prevYM = toYearMonth(prevYear, prevMonth);
+
+  const nextMonth = ymMonth === 12 ? 1 : ymMonth + 1;
+  const nextYear = ymMonth === 12 ? ymYear + 1 : ymYear;
+  const nextYM = toYearMonth(nextYear, nextMonth);
+
+  const isPrevDisabled = prevYM < archiveStartYM;
+  const isNextDisabled = nextYM > archiveEndYM;
+
   // ── 選択月の全日付を生成 ──────────────────────────────────────────────
   const allDisplayDates = new Set<string>();
 
   // 選択月の1日〜末日を全て追加
-  const [ymYear, ymMonth] = currentYearMonth.split('-').map(Number);
-  const daysInMonth = new Date(ymYear, ymMonth, 0).getDate();
+  const [ymYear2, ymMonth2] = currentYearMonth.split('-').map(Number);
+  const daysInMonth = new Date(ymYear2, ymMonth2, 0).getDate();
   for (let d = 1; d <= daysInMonth; d++) {
     const dateStr = `${currentYearMonth}-${String(d).padStart(2, '0')}`;
     allDisplayDates.add(dateStr);
@@ -166,6 +210,48 @@ export default function TimelineContainer({ timeline, categories }: TimelineCont
             />
           ))
         )}
+
+        {/* 下部ナビゲーション（前月/次月 + ハイライトに戻る） */}
+        <div className="flex justify-between items-center mt-8 pt-4 border-t border-gray-700">
+          <button
+            onClick={() => setCurrentYearMonth(prevYM)}
+            disabled={isPrevDisabled}
+            className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
+              bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
+              disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-gray-800 disabled:hover:text-gray-300"
+            title="前月へ"
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            前月（{prevMonth}月）
+          </button>
+
+          {onBackToHighlight && (
+            <button
+              onClick={onBackToHighlight}
+              className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
+                bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white"
+              title="ハイライト画面に戻る"
+            >
+              ハイライトに戻る
+            </button>
+          )}
+
+          <button
+            onClick={() => setCurrentYearMonth(nextYM)}
+            disabled={isNextDisabled}
+            className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
+              bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
+              disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-gray-800 disabled:hover:text-gray-300"
+            title="次月へ"
+          >
+            次月（{nextMonth}月）
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
+        </div>
       </div>
     </>
   );

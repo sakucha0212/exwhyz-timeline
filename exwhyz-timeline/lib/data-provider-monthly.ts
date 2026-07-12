@@ -67,6 +67,12 @@ export async function getMonthlyTweetsData(
     }
   }
 
+  // ── 過去月の強制更新は無意味（データは変化しない） ──────────────────
+  if (!isCurrent && forceRefresh) {
+    const cached = await getMonthlyCache(yearMonth);
+    return cached?.tweets ?? [];
+  }
+
   // ── 当月 差分更新（forceRefresh=true）────────────────────────────────
   if (isCurrent && forceRefresh) {
     return await fetchAndMergeCurrentMonth(yearMonth);
@@ -120,7 +126,11 @@ async function fetchAndMergeCurrentMonth(yearMonth: string): Promise<DayData[]> 
   const sinceId = await getLatestTweetId(yearMonth);
   const endTime = new Date(Date.now() - 30 * 1000).toISOString();
 
-  console.log(`[data-provider-monthly] 差分更新: ${yearMonth} (sinceId: ${sinceId ?? 'なし'})`);
+  if (sinceId) {
+    console.log(`[data-provider-monthly] 差分更新: ${yearMonth} (sinceId: ${sinceId})`);
+  } else {
+    console.log(`[data-provider-monthly] 差分更新→全件フォールバック: ${yearMonth} (sinceId なし)`);
+  }
 
   // sinceId がない場合は全件取得にフォールバック
   if (!sinceId) {
