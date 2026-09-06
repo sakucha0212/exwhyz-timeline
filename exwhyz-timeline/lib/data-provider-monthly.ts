@@ -2,6 +2,7 @@
  * 月単位のツイートデータ取得ロジック
  *
  * - 過去月: キャッシュがあればキャッシュから返す。なければ API 全件取得してキャッシュ保存。
+ *           forceRefresh=true の場合は全件再取得してキャッシュを上書き。
  * - 当月:   キャッシュがあればキャッシュから返す。なければ API 全件取得してキャッシュ保存。
  *           forceRefresh=true の場合は差分取得（since_id）してキャッシュにマージ。
  * - 未来月: 呼び出し元（UI）で遷移不可とするため、ここでは空配列を返す。
@@ -65,12 +66,6 @@ export async function getMonthlyTweetsData(
       console.log(`[data-provider-monthly] キャッシュヒット: ${yearMonth}`);
       return cached.tweets;
     }
-  }
-
-  // ── 過去月の強制更新は無意味（データは変化しない） ──────────────────
-  if (!isCurrent && forceRefresh) {
-    const cached = await getMonthlyCache(yearMonth);
-    return cached?.tweets ?? [];
   }
 
   // ── 当月 差分更新（forceRefresh=true）────────────────────────────────

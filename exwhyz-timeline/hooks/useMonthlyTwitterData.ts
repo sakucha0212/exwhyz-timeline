@@ -37,7 +37,7 @@ export function useMonthlyTwitterData(yearMonth: string) {
     loadTweets();
   }, [loadTweets]);
 
-  // 差分更新（当月のみ有効）
+  // 再取得（当月: 差分更新 / 過去月: 全件再取得）
   const refresh = useCallback(() => {
     loadTweets(true);
   }, [loadTweets]);

@@ -4,7 +4,7 @@ import { useState, useMemo } from 'react';
 import DayEntry from './DayEntry';
 import MonthPagination from './MonthPagination';
 import { useMonthlyTwitterData } from '@/hooks/useMonthlyTwitterData';
-import { getCurrentYearMonth, isCurrentMonth as checkIsCurrentMonth } from '@/lib/idb-cache';
+import { getCurrentYearMonth } from '@/lib/idb-cache';
 import { ARCHIVE_START_DATE_CLIENT, ARCHIVE_END_DATE_CLIENT } from '@/lib/constants';
 
 function toYearMonth(year: number, month: number): string {
@@ -70,8 +70,6 @@ export default function TimelineContainer({
   const { tweets, loading, error, rateLimitError, lastFetchedAt, refresh } =
     useMonthlyTwitterData(currentYearMonth);
 
-  const isCurrent = checkIsCurrentMonth(currentYearMonth);
-
   // 空日付（活動情報・ツイートなし）を非表示にするフラグ（デフォルト: true）
   const [hideEmptyDays, setHideEmptyDays] = useState<boolean>(true);
 
@@ -131,8 +129,7 @@ export default function TimelineContainer({
           currentYearMonth={currentYearMonth}
           onMonthChange={setCurrentYearMonth}
           loading={false}
-          isCurrentMonth={isCurrent}
-          onRefresh={isCurrent ? refresh : undefined}
+          onRefresh={refresh}
           lastFetchedAt={lastFetchedAt}
           rateLimitError={rateLimitError}
           hideEmptyDays={hideEmptyDays}
@@ -152,8 +149,7 @@ export default function TimelineContainer({
         currentYearMonth={currentYearMonth}
         onMonthChange={setCurrentYearMonth}
         loading={loading}
-        isCurrentMonth={isCurrent}
-        onRefresh={isCurrent ? refresh : undefined}
+        onRefresh={refresh}
         lastFetchedAt={lastFetchedAt}
         rateLimitError={rateLimitError}
         hideEmptyDays={hideEmptyDays}
