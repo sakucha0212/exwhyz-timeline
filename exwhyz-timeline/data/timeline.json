@@ -1,7 +1,25 @@
 {
   "version": "2.1.0",
-  "lastUpdated": "2026-07-10T15:57:30+09:00",
+  "lastUpdated": "2026-09-06T19:15:49+09:00",
   "timeline": [
+    {
+      "date": "2026-09-01",
+      "events": [
+        {
+          "id": "evt_B13",
+          "title": "ExWHYZ LAST SONG  '光' リリース",
+          "category": "release",
+          "description": "ラストシングルをリリース",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2094440208813138385?s=20"
+          },
+          "tags": [
+            "シングル"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "events": [
@@ -12,11 +30,78 @@
           "description": "東京都・Zepp Hanedaにてラストライブを開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/live_information/detail/39218"
+            "url": "https://x.com/ExWHYZ_official/status/2094670896900567215?s=20"
           },
           "tags": [
             "ライブ",
             "解散"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "events": [
+        {
+          "id": "evt_B13",
+          "title": "FMFUJI「FREE ALL ExWHYZ」 最終回",
+          "category": "announcement",
+          "description": "ラジオのレギュラー放送が最終回",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2094081091296772543?s=20"
+          },
+          "tags": [
+            "発売"
+          ]
+        },
+        {
+          "id": "evt_B12",
+          "title": "ExWHYZラスト特典会 'One Last Thank You' @ 有明セントラルホールA",
+          "category": "EVENT",
+          "description": "東京都・有明セントラルホールAにてラスト特典会を実施。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2094024781444338008?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "events": [
+        {
+          "id": "evt_B11",
+          "title": "ExWHYZラスト特典会 'One Last Thank You' @ 日比谷スカイカンファレンス",
+          "category": "EVENT",
+          "description": "東京都・日比谷スカイカンファレンスにてラスト特典会を実施。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2093676538088902678?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "events": [
+        {
+          "id": "evt_B10",
+          "title": "LAST ALBUM ‘zION’発売記念  リリースイベント@タワーレコード新宿",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード新宿9Fにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2092965874294788440?s=20"
+          },
+          "tags": [
+            "イベント"
           ]
         }
       ]
@@ -27,14 +112,68 @@
         {
           "id": "evt_A05",
           "title": "ラストアルバム3rdアルバム「zION」リリース",
-          "category": "live",
+          "category": "release",
           "description": "ラストアルバムをリリース",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/77919"
+            "url": "https://x.com/ExWHYZ_official/status/2092268349095064000?s=20"
           },
           "tags": [
-            "ライブ"
+            "アルバム"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "events": [
+        {
+          "id": "evt_B09",
+          "title": "ExWHYZラストアルバム「zION」発売記念発売記念リミトーク",
+          "category": "EVENT",
+          "description": "オンライン個別トーク会（リミトーク）の開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2091145856154259697?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "events": [
+        {
+          "id": "evt_B08",
+          "title": "LAST ALBUM ‘zION’発売記念  リリースイベント@タワーレコード渋谷店",
+          "category": "EVENT",
+          "description": "東京都・タワーレコード渋谷店 B1F CUTUP STUDIOにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2090791159694229946?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "events": [
+        {
+          "id": "evt_B07",
+          "title": "イベント「まゆとシール交換2」",
+          "category": "EVENT",
+          "description": "東京都・LOFT/PLUS ONEにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2090437612473589817?s=20"
+          },
+          "tags": [
+            "イベント"
           ]
         }
       ]
@@ -49,10 +188,23 @@
           "description": "東京都・Spotify O-EASTにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/live_information/detail/41161"
+            "url": "https://x.com/ExWHYZ_official/status/2088732877085438432?s=20"
           },
           "tags": [
-            "ライブ"
+            "イベント"
+          ]
+        },
+        {
+          "id": "evt_B06",
+          "title": "maho  “MESHIUMA” POPUP STORE @ RHF Studio",
+          "category": "EVENT",
+          "description": "東京都・RHF Studioにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2088474251590549552?s=20"
+          },
+          "tags": [
+            "イベント"
           ]
         }
       ]
@@ -64,10 +216,10 @@
           "id": "evt_429",
           "title": "ExWHYZ presents ‘PEDROWHYZ’",
           "category": "live",
-          "description": "東京都・新宿LOFTにて開催",
+          "description": "東京都・新宿LOFTにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83065"
+            "url": "https://x.com/ExWHYZ_official/status/2087819635840475537?s=20"
           },
           "tags": [
             "対バン"
@@ -81,11 +233,42 @@
         {
           "id": "evt_428",
           "title": "TALK OUR TALK @  Loft PlusOne West",
-          "category": "EVENT",
-          "description": "大阪府・Loft PlusOne Westにて開催",
+          "category": "release",
+          "description": "大阪府・Loft PlusOne Westにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83784"
+            "url": "https://x.com/ExWHYZ_official/status/2087085637669450027?s=20"
+          },
+          "tags": [
+            "イベント"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "events": [
+        {
+          "id": "evt_B05",
+          "title": "LAST ALBUM　「zION」先行配信開始",
+          "category": "EVENT",
+          "description": "ラストアルバムを先行配信。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2086320128837488642?s=20"
+          },
+          "tags": [
+            "アルバム"
+          ]
+        },
+        {
+          "id": "evt_B04",
+          "title": "maho  “MESHIUMA” POPUP STORE @ 北堀江",
+          "category": "EVENT",
+          "description": "大阪府・大阪市西区北堀江1-23-9にて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2086419944112378169?s=20"
           },
           "tags": [
             "イベント"
@@ -103,7 +286,7 @@
           "description": "東京都・ 代官山UNITにて開催",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83754"
+            "url": "https://x.com/ExWHYZ_official/status/2086447681774428282?s=20"
           },
           "tags": [
             "イベント"
@@ -116,7 +299,7 @@
           "description": "東京都・ 代官山UNITにて開催",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83754"
+            "url": "https://x.com/ExWHYZ_official/status/2086468962729304302?s=20"
           },
           "tags": [
             "イベント"
@@ -128,13 +311,26 @@
       "date": "2026-08-05",
       "events": [
         {
+          "id": "evt_B03",
+          "title": "「FADED」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2084656258918093240?s=20"
+          },
+          "tags": [
+            "シングル"
+          ]
+        },
+        {
           "id": "evt_425",
           "title": "TALK OUR TALK @  SHIBUYA PLEASURE PLEASURE",
           "category": "EVENT",
           "description": "東京都・SHIBUYA PLEASURE PLEASUREにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83784"
+            "url": "https://x.com/ExWHYZ_official/status/2085000017396518940?s=20"
           },
           "tags": [
             "イベント"
@@ -147,8 +343,8 @@
       "events": [
         {
           "id": "evt_424",
-          "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-          "category": "live",
+          "title": "TOKYO IDOL FESTIVAL 2025 supported by にしたんクリニック",
+          "category": "LIVE",
           "description": "東京都 お台場・青海周辺エリアにて開催。",
           "officialSource": {
             "type": "official",
@@ -170,7 +366,7 @@
           "description": "東京都・LOFT/PLUS ONEにて開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/84074"
+            "url": "https://x.com/ExWHYZ_official/status/2083207588871864572?s=20"
           },
           "tags": [
             "イベント"
@@ -188,7 +384,7 @@
           "description": "愛知県・live & lounge VIOにてトーク会をdayとnightの２公演開催。",
           "officialSource": {
             "type": "official",
-            "url": "https://www.exwhyz.jp/news/detail/83784"
+            "url": "https://x.com/ExWHYZ_official/status/2081351182099132629?s=20"
           },
           "tags": [
             "イベント"
@@ -203,10 +399,10 @@
           "id": "evt_421",
           "title": "LAST ALBUM「zION」発売記念リリースイベント @ 名古屋",
           "category": "EVENT",
-          "description": "愛知県・場所未発表",
+          "description": "愛知県・プライムツリー赤池にて開催。",
           "officialSource": {
             "type": "official",
-            "url": ""
+            "url": "https://x.com/ExWHYZ_official/status/2080962104551739743?s=20"
           },
           "tags": [
             "イベント"
@@ -293,7 +489,7 @@
           "id": "evt_416",
           "title": "ExWHYZラストアルバム「zION」発売記念発売記念リミトーク mayu,yu-ki",
           "category": "EVENT",
-          "description": "オンライン個別トーク会（リミトーク）の開催",
+          "description": "オンライン個別トーク会（リミトーク）の開催。",
           "officialSource": {
             "type": "official",
             "url": "https://www.exwhyz.jp/news/detail/83794"
@@ -311,7 +507,7 @@
           "id": "evt_415",
           "title": "ExWHYZラストアルバム「zION」発売記念発売記念リミトーク maho,mikina",
           "category": "EVENT",
-          "description": "オンライン個別トーク会（リミトーク）の開催",
+          "description": "オンライン個別トーク会（リミトーク）の開催。",
           "officialSource": {
             "type": "official",
             "url": "https://www.exwhyz.jp/news/detail/83794"
@@ -390,6 +586,24 @@
           },
           "tags": [
             "ツアー"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "events": [
+        {
+          "id": "evt_B01",
+          "title": "「0:00」先行配信開始",
+          "category": "release",
+          "description": "新曲を先行配信。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/2071237898285011057?s=20"
+          },
+          "tags": [
+            "シングル"
           ]
         }
       ]
@@ -2008,7 +2222,7 @@
       "events": [
         {
           "id": "evt_319",
-          "title": "xYZ only Wide Open 前夜祭 '#俺とお前でかちゃーしーⅢ’ ",
+          "title": "xYZ only Wide Open 前夜祭 '#俺とお前でかちゃーしーⅢ’",
           "category": "live",
           "description": "沖縄県・桜坂セントラルにて開催。",
           "officialSource": {
@@ -5347,24 +5561,6 @@
       ]
     },
     {
-      "date": "2023-11-16",
-      "events": [
-        {
-          "id": "evt_A03",
-          "title": "WACK in the UK",
-          "category": "live",
-          "description": "UKにて開催。",
-          "officialSource": {
-            "type": "official",
-            "url": "https://x.com/ExWHYZ_official/status/1725299358835626189?s=20"
-          },
-          "tags": [
-            "ツアー"
-          ]
-        }
-      ]
-    },
-    {
       "date": "2023-11-24",
       "events": [
         {
@@ -5379,6 +5575,22 @@
           "tags": [
             "MV"
           ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-16",
+      "events": [
+        {
+          "id": "evt_A03",
+          "title": "WACK in the UK",
+          "category": "live",
+          "description": "UKにて開催。",
+          "officialSource": {
+            "type": "official",
+            "url": "https://x.com/ExWHYZ_official/status/1725299358835626189?s=20"
+          },
+          "tags": []
         }
       ]
     },
@@ -5545,7 +5757,7 @@
         {
           "id": "evt_116",
           "title": "俺とお前でかちゃーしー",
-          "category": "EVENT",
+          "category": "live",
           "description": "沖縄県・沖縄Outputにて開催。",
           "officialSource": {
             "type": "official",
@@ -6842,8 +7054,8 @@
       "events": [
         {
           "id": "evt_042",
-          "title": "リリースパーティ",
-          "category": "event",
+          "title": "「xYZ hYPER EDITION RELEASE PARTY」リリースパーティ",
+          "category": "EVENT",
           "description": "東京都・WOMBにて開催。",
           "officialSource": {
             "type": "official",
@@ -7236,7 +7448,7 @@
             "url": "https://x.com/ExWHYZ_official/status/1588623651490115584?s=20"
           },
           "tags": [
-            "ツアー"
+            "ライブ"
           ]
         }
       ]
@@ -7319,7 +7531,7 @@
         {
           "id": "evt_016",
           "title": "xYZ Listening Party #俺とお前で音源チェック",
-          "category": "event",
+          "category": "live",
           "description": "東京都・UNITにて初パフォーマンス。",
           "officialSource": {
             "type": "official",
@@ -7642,10 +7854,10 @@
     }
   ],
   "metadata": {
-    "totalDays": 1551,
+    "totalDays": 1552,
     "dateRange": {
       "start": "2022-06-02",
-      "end": "2026-08-31"
+      "end": "2026-09-01"
     }
   }
 }
