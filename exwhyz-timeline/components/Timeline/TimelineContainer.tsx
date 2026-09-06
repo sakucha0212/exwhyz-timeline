@@ -48,8 +48,8 @@ interface TimelineContainerProps {
   categories: Category[];
   /** 外部から指定する初期/現在年月（ハイライトから遷移時に使用） */
   targetYearMonth?: string;
-  /** 月変更時のコールバック（親コンポーネントに通知） */
-  onMonthChange?: (yearMonth: string) => void;
+  /** 月変更時のコールバック（URL 同期のため必須） */
+  onMonthChange: (yearMonth: string) => void;
   /** ハイライトに戻るコールバック */
   onBackToHighlight?: () => void;
 }
@@ -62,9 +62,8 @@ export default function TimelineContainer({
   onBackToHighlight,
 }: TimelineContainerProps) {
   // 現在表示中の年月（デフォルト: 当月、外部指定があればそちらを優先）
-  const [currentYearMonth, setCurrentYearMonth] = useState<string>(
-    targetYearMonth ?? getCurrentYearMonth()
-  );
+  const currentYearMonth = targetYearMonth ?? getCurrentYearMonth();
+  const handleMonthChange = (ym: string) => onMonthChange(ym);
 
   // 月単位ツイートデータ取得フック
   const { tweets, loading, error, rateLimitError, lastFetchedAt, refresh } =
@@ -127,7 +126,7 @@ export default function TimelineContainer({
       <>
         <MonthPagination
           currentYearMonth={currentYearMonth}
-          onMonthChange={setCurrentYearMonth}
+          onMonthChange={handleMonthChange}
           loading={false}
           onRefresh={refresh}
           lastFetchedAt={lastFetchedAt}
@@ -147,7 +146,7 @@ export default function TimelineContainer({
       {/* 月ナビゲーション */}
       <MonthPagination
         currentYearMonth={currentYearMonth}
-        onMonthChange={setCurrentYearMonth}
+        onMonthChange={handleMonthChange}
         loading={loading}
         onRefresh={refresh}
         lastFetchedAt={lastFetchedAt}
@@ -210,7 +209,7 @@ export default function TimelineContainer({
         {/* 下部ナビゲーション（前月/次月 + ハイライトに戻る） */}
         <div className="flex justify-between items-center mt-8 pt-4 border-t border-gray-700">
           <button
-            onClick={() => setCurrentYearMonth(prevYM)}
+            onClick={() => handleMonthChange(prevYM)}
             disabled={isPrevDisabled}
             className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
               bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
@@ -235,7 +234,7 @@ export default function TimelineContainer({
           )}
 
           <button
-            onClick={() => setCurrentYearMonth(nextYM)}
+            onClick={() => handleMonthChange(nextYM)}
             disabled={isNextDisabled}
             className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
               bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
