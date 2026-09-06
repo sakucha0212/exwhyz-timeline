@@ -4,7 +4,7 @@ import { useState, useMemo } from 'react';
 import DayEntry from './DayEntry';
 import MonthPagination from './MonthPagination';
 import { useMonthlyTwitterData } from '@/hooks/useMonthlyTwitterData';
-import { getCurrentYearMonth, isCurrentMonth as checkIsCurrentMonth } from '@/lib/idb-cache';
+import { getCurrentYearMonth } from '@/lib/idb-cache';
 import { ARCHIVE_START_DATE_CLIENT, ARCHIVE_END_DATE_CLIENT } from '@/lib/constants';
 
 function toYearMonth(year: number, month: number): string {
@@ -48,8 +48,8 @@ interface TimelineContainerProps {
   categories: Category[];
   /** 外部から指定する初期/現在年月（ハイライトから遷移時に使用） */
   targetYearMonth?: string;
-  /** 月変更時のコールバック（親コンポーネントに通知） */
-  onMonthChange?: (yearMonth: string) => void;
+  /** 月変更時のコールバック（URL 同期のため必須） */
+  onMonthChange: (yearMonth: string) => void;
   /** ハイライトに戻るコールバック */
   onBackToHighlight?: () => void;
 }
@@ -62,15 +62,12 @@ export default function TimelineContainer({
   onBackToHighlight,
 }: TimelineContainerProps) {
   // 現在表示中の年月（デフォルト: 当月、外部指定があればそちらを優先）
-  const [currentYearMonth, setCurrentYearMonth] = useState<string>(
-    targetYearMonth ?? getCurrentYearMonth()
-  );
+  const currentYearMonth = targetYearMonth ?? getCurrentYearMonth();
+  const handleMonthChange = (ym: string) => onMonthChange(ym);
 
   // 月単位ツイートデータ取得フック
   const { tweets, loading, error, rateLimitError, lastFetchedAt, refresh } =
     useMonthlyTwitterData(currentYearMonth);
-
-  const isCurrent = checkIsCurrentMonth(currentYearMonth);
 
   // 空日付（活動情報・ツイートなし）を非表示にするフラグ（デフォルト: true）
   const [hideEmptyDays, setHideEmptyDays] = useState<boolean>(true);
@@ -129,10 +126,9 @@ export default function TimelineContainer({
       <>
         <MonthPagination
           currentYearMonth={currentYearMonth}
-          onMonthChange={setCurrentYearMonth}
+          onMonthChange={handleMonthChange}
           loading={false}
-          isCurrentMonth={isCurrent}
-          onRefresh={isCurrent ? refresh : undefined}
+          onRefresh={refresh}
           lastFetchedAt={lastFetchedAt}
           rateLimitError={rateLimitError}
           hideEmptyDays={hideEmptyDays}
@@ -150,10 +146,9 @@ export default function TimelineContainer({
       {/* 月ナビゲーション */}
       <MonthPagination
         currentYearMonth={currentYearMonth}
-        onMonthChange={setCurrentYearMonth}
+        onMonthChange={handleMonthChange}
         loading={loading}
-        isCurrentMonth={isCurrent}
-        onRefresh={isCurrent ? refresh : undefined}
+        onRefresh={refresh}
         lastFetchedAt={lastFetchedAt}
         rateLimitError={rateLimitError}
         hideEmptyDays={hideEmptyDays}
@@ -214,7 +209,7 @@ export default function TimelineContainer({
         {/* 下部ナビゲーション（前月/次月 + ハイライトに戻る） */}
         <div className="flex justify-between items-center mt-8 pt-4 border-t border-gray-700">
           <button
-            onClick={() => setCurrentYearMonth(prevYM)}
+            onClick={() => handleMonthChange(prevYM)}
             disabled={isPrevDisabled}
             className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
               bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white
@@ -239,7 +234,7 @@ export default function TimelineContainer({
           )}
 
           <button
-            onClick={() => setCurrentYearMonth(nextYM)}
+            onClick={() => handleMonthChange(nextYM)}
             disabled={isNextDisabled}
             className="inline-flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-colors
               bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white

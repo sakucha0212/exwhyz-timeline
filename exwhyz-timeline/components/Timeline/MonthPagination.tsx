@@ -14,10 +14,8 @@ interface MonthPaginationProps {
   rateLimitError?: boolean;
   /** 最終取得日時（ISO 8601） */
   lastFetchedAt?: string | null;
-  /** 更新ボタンのコールバック（当月のみ表示） */
+  /** 更新ボタンのコールバック */
   onRefresh?: () => void;
-  /** 当月フラグ */
-  isCurrentMonth?: boolean;
   /** 空日付（活動情報・ツイートなし）を非表示にするフラグ */
   hideEmptyDays?: boolean;
   /** 空日付非表示トグルのコールバック */
@@ -70,7 +68,6 @@ export default function MonthPagination({
   rateLimitError = false,
   lastFetchedAt,
   onRefresh,
-  isCurrentMonth = false,
   hideEmptyDays = true,
   onToggleHideEmptyDays,
 }: MonthPaginationProps) {
@@ -204,7 +201,7 @@ export default function MonthPagination({
             </span>
           )}
 
-          {isCurrentMonth && onRefresh && (
+          {onRefresh && (
             <div className="flex items-center gap-3">
               {lastFetchedAt && (
                 <span className="text-gray-500 text-xs hidden sm:inline">
