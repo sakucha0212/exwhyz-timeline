@@ -10,8 +10,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.2.9",
-    "next-auth": "^4.24.14",
+    "next": "^16.4.3",
+    "next-auth": "^4.24.15",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-twitter-embed": "^4.0.4",
